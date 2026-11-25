@@ -1,0 +1,4347 @@
+[
+  [
+    1,
+    "I Proofs",
+    9
+  ],
+  [
+    2,
+    "Introduction",
+    11
+  ],
+  [
+    2,
+    "0.1 References",
+    12
+  ],
+  [
+    2,
+    "1 What is a Proof?",
+    13
+  ],
+  [
+    3,
+    "1.1 Propositions",
+    13
+  ],
+  [
+    3,
+    "1.2 Predicates",
+    16
+  ],
+  [
+    3,
+    "1.3 The Axiomatic Method",
+    16
+  ],
+  [
+    3,
+    "1.4 Our Axioms",
+    17
+  ],
+  [
+    3,
+    "1.5 Proving an Implication",
+    19
+  ],
+  [
+    3,
+    "1.6 Proving an ``If and Only If''",
+    21
+  ],
+  [
+    3,
+    "1.7 Proof by Cases",
+    23
+  ],
+  [
+    3,
+    "1.8 Proof by Contradiction",
+    24
+  ],
+  [
+    3,
+    "1.9 Good Proofs in Practice",
+    25
+  ],
+  [
+    3,
+    "1.10 References",
+    27
+  ],
+  [
+    3,
+    "Problem 1.1",
+    27
+  ],
+  [
+    3,
+    "Problem 1.2",
+    29
+  ],
+  [
+    3,
+    "Problem 1.3",
+    29
+  ],
+  [
+    3,
+    "Problem 1.4",
+    30
+  ],
+  [
+    3,
+    "Problem 1.5",
+    31
+  ],
+  [
+    3,
+    "Problem 1.6",
+    31
+  ],
+  [
+    3,
+    "Problem 1.7",
+    31
+  ],
+  [
+    3,
+    "Problem 1.8",
+    32
+  ],
+  [
+    3,
+    "Problem 1.9",
+    32
+  ],
+  [
+    3,
+    "Problem 1.10",
+    32
+  ],
+  [
+    3,
+    "Problem 1.11",
+    32
+  ],
+  [
+    3,
+    "Problem 1.12",
+    32
+  ],
+  [
+    3,
+    "Problem 1.13",
+    32
+  ],
+  [
+    3,
+    "Problem 1.14",
+    32
+  ],
+  [
+    3,
+    "Problem 1.15",
+    33
+  ],
+  [
+    3,
+    "Problem 1.16",
+    33
+  ],
+  [
+    3,
+    "Problem 1.17",
+    34
+  ],
+  [
+    3,
+    "Problem 1.18",
+    34
+  ],
+  [
+    3,
+    "Problem 1.19",
+    34
+  ],
+  [
+    2,
+    "2 The Well Ordering Principle",
+    35
+  ],
+  [
+    3,
+    "2.1 Well Ordering Proofs",
+    35
+  ],
+  [
+    3,
+    "2.2 Template for Well Ordering Proofs",
+    36
+  ],
+  [
+    3,
+    "2.3 Factoring into Primes",
+    38
+  ],
+  [
+    3,
+    "2.4 Well Ordered Sets",
+    39
+  ],
+  [
+    3,
+    "Problem 2.1",
+    41
+  ],
+  [
+    3,
+    "Problem 2.2",
+    42
+  ],
+  [
+    3,
+    "Problem 2.3",
+    43
+  ],
+  [
+    3,
+    "Problem 2.4",
+    44
+  ],
+  [
+    3,
+    "Problem 2.5",
+    44
+  ],
+  [
+    3,
+    "Problem 2.6",
+    44
+  ],
+  [
+    3,
+    "Problem 2.7",
+    44
+  ],
+  [
+    3,
+    "Problem 2.8",
+    45
+  ],
+  [
+    3,
+    "Problem 2.9",
+    45
+  ],
+  [
+    3,
+    "Problem 2.10",
+    45
+  ],
+  [
+    3,
+    "Problem 2.11",
+    46
+  ],
+  [
+    3,
+    "Problem 2.12",
+    47
+  ],
+  [
+    3,
+    "Problem 2.13",
+    47
+  ],
+  [
+    3,
+    "Problem 2.14",
+    47
+  ],
+  [
+    3,
+    "Problem 2.15",
+    47
+  ],
+  [
+    3,
+    "Problem 2.16",
+    48
+  ],
+  [
+    3,
+    "Problem 2.17",
+    48
+  ],
+  [
+    2,
+    "3 Logical Formulas",
+    49
+  ],
+  [
+    3,
+    "3.1 Propositions from Propositions",
+    50
+  ],
+  [
+    3,
+    "3.2 Propositional Logic in Computer Programs",
+    53
+  ],
+  [
+    3,
+    "3.3 Equivalence and Validity",
+    56
+  ],
+  [
+    3,
+    "3.4 The Algebra of Propositions",
+    58
+  ],
+  [
+    3,
+    "3.5 The SAT Problem",
+    63
+  ],
+  [
+    3,
+    "3.6 Predicate Formulas",
+    64
+  ],
+  [
+    3,
+    "3.7 References",
+    69
+  ],
+  [
+    3,
+    "Problem 3.1",
+    69
+  ],
+  [
+    3,
+    "Problem 3.2",
+    69
+  ],
+  [
+    3,
+    "Problem 3.3",
+    70
+  ],
+  [
+    3,
+    "Problem 3.4",
+    71
+  ],
+  [
+    3,
+    "Problem 3.5",
+    71
+  ],
+  [
+    3,
+    "Problem 3.6",
+    72
+  ],
+  [
+    3,
+    "Problem 3.7",
+    73
+  ],
+  [
+    3,
+    "Problem 3.8",
+    75
+  ],
+  [
+    3,
+    "Problem 3.9",
+    75
+  ],
+  [
+    3,
+    "Problem 3.10",
+    75
+  ],
+  [
+    3,
+    "Problem 3.11",
+    76
+  ],
+  [
+    3,
+    "Problem 3.12",
+    76
+  ],
+  [
+    3,
+    "Problem 3.13",
+    77
+  ],
+  [
+    3,
+    "Problem 3.14",
+    77
+  ],
+  [
+    3,
+    "Problem 3.15",
+    77
+  ],
+  [
+    3,
+    "Problem 3.16",
+    78
+  ],
+  [
+    3,
+    "Problem 3.17",
+    78
+  ],
+  [
+    3,
+    "Problem 3.18",
+    79
+  ],
+  [
+    3,
+    "Problem 3.19",
+    79
+  ],
+  [
+    3,
+    "Problem 3.20",
+    80
+  ],
+  [
+    3,
+    "Problem 3.21",
+    80
+  ],
+  [
+    3,
+    "Problem 3.22",
+    81
+  ],
+  [
+    3,
+    "Problem 3.23",
+    81
+  ],
+  [
+    3,
+    "Problem 3.24",
+    81
+  ],
+  [
+    3,
+    "Problem 3.25",
+    82
+  ],
+  [
+    3,
+    "Problem 3.26",
+    83
+  ],
+  [
+    3,
+    "Problem 3.27",
+    83
+  ],
+  [
+    3,
+    "Problem 3.28",
+    83
+  ],
+  [
+    3,
+    "Problem 3.29",
+    84
+  ],
+  [
+    3,
+    "Problem 3.30",
+    85
+  ],
+  [
+    3,
+    "Problem 3.31",
+    85
+  ],
+  [
+    3,
+    "Problem 3.32",
+    86
+  ],
+  [
+    3,
+    "Problem 3.33",
+    86
+  ],
+  [
+    3,
+    "Problem 3.34",
+    87
+  ],
+  [
+    2,
+    "4 Mathematical Data Types",
+    89
+  ],
+  [
+    3,
+    "4.1 Sets",
+    89
+  ],
+  [
+    3,
+    "4.2 Sequences",
+    94
+  ],
+  [
+    3,
+    "4.3 Functions",
+    95
+  ],
+  [
+    3,
+    "4.4 Binary Relations",
+    97
+  ],
+  [
+    3,
+    "4.5 Finite Cardinality",
+    101
+  ],
+  [
+    3,
+    "Problem 4.1",
+    104
+  ],
+  [
+    3,
+    "Problem 4.2",
+    104
+  ],
+  [
+    3,
+    "Problem 4.3",
+    105
+  ],
+  [
+    3,
+    "Problem 4.4",
+    105
+  ],
+  [
+    3,
+    "Problem 4.5",
+    105
+  ],
+  [
+    3,
+    "Problem 4.6",
+    105
+  ],
+  [
+    3,
+    "Problem 4.7",
+    106
+  ],
+  [
+    3,
+    "Problem 4.8",
+    106
+  ],
+  [
+    3,
+    "Problem 4.9",
+    107
+  ],
+  [
+    3,
+    "Problem 4.10",
+    107
+  ],
+  [
+    3,
+    "Problem 4.11",
+    107
+  ],
+  [
+    3,
+    "Problem 4.12",
+    108
+  ],
+  [
+    3,
+    "Problem 4.13",
+    108
+  ],
+  [
+    3,
+    "Problem 4.14",
+    109
+  ],
+  [
+    3,
+    "Problem 4.15",
+    112
+  ],
+  [
+    3,
+    "Problem 4.16",
+    112
+  ],
+  [
+    3,
+    "Problem 4.17",
+    112
+  ],
+  [
+    3,
+    "Problem 4.18",
+    113
+  ],
+  [
+    3,
+    "Problem 4.19",
+    113
+  ],
+  [
+    3,
+    "Problem 4.20",
+    114
+  ],
+  [
+    3,
+    "Problem 4.21",
+    114
+  ],
+  [
+    3,
+    "Problem 4.22",
+    114
+  ],
+  [
+    3,
+    "Problem 4.23",
+    114
+  ],
+  [
+    3,
+    "Problem 4.24",
+    115
+  ],
+  [
+    3,
+    "Problem 4.25",
+    115
+  ],
+  [
+    3,
+    "Problem 4.26",
+    116
+  ],
+  [
+    3,
+    "Problem 4.27",
+    116
+  ],
+  [
+    3,
+    "Problem 4.28",
+    117
+  ],
+  [
+    3,
+    "Problem 4.29",
+    119
+  ],
+  [
+    3,
+    "Problem 4.30",
+    120
+  ],
+  [
+    3,
+    "Problem 4.31",
+    120
+  ],
+  [
+    3,
+    "Problem 4.32",
+    121
+  ],
+  [
+    3,
+    "Problem 4.33",
+    121
+  ],
+  [
+    3,
+    "Problem 4.34",
+    121
+  ],
+  [
+    3,
+    "Problem 4.35",
+    121
+  ],
+  [
+    3,
+    "Problem 4.36",
+    122
+  ],
+  [
+    2,
+    "5 Induction",
+    123
+  ],
+  [
+    3,
+    "5.1 Ordinary Induction",
+    123
+  ],
+  [
+    3,
+    "5.2 Strong Induction",
+    132
+  ],
+  [
+    3,
+    "5.3 Strong Induction vs. Induction vs. Well Ordering",
+    137
+  ],
+  [
+    3,
+    "5.4 State Machines",
+    138
+  ],
+  [
+    3,
+    "Problem 5.1",
+    152
+  ],
+  [
+    3,
+    "Problem 5.2",
+    152
+  ],
+  [
+    3,
+    "Problem 5.3",
+    153
+  ],
+  [
+    3,
+    "Problem 5.4",
+    154
+  ],
+  [
+    3,
+    "Problem 5.5",
+    154
+  ],
+  [
+    3,
+    "Problem 5.6",
+    154
+  ],
+  [
+    3,
+    "Problem 5.7",
+    154
+  ],
+  [
+    3,
+    "Problem 5.8",
+    155
+  ],
+  [
+    3,
+    "Problem 5.9",
+    155
+  ],
+  [
+    3,
+    "Problem 5.10",
+    157
+  ],
+  [
+    3,
+    "Problem 5.11",
+    157
+  ],
+  [
+    3,
+    "Problem 5.12",
+    158
+  ],
+  [
+    3,
+    "Problem 5.13",
+    159
+  ],
+  [
+    3,
+    "Problem 5.14",
+    159
+  ],
+  [
+    3,
+    "Problem 5.15",
+    160
+  ],
+  [
+    3,
+    "Problem 5.16",
+    160
+  ],
+  [
+    3,
+    "Problem 5.17",
+    161
+  ],
+  [
+    3,
+    "Problem 5.18",
+    161
+  ],
+  [
+    3,
+    "Problem 5.19",
+    162
+  ],
+  [
+    3,
+    "Problem 5.20",
+    163
+  ],
+  [
+    3,
+    "Problem 5.21",
+    164
+  ],
+  [
+    3,
+    "Problem 5.22",
+    164
+  ],
+  [
+    3,
+    "Problem 5.23",
+    165
+  ],
+  [
+    3,
+    "Problem 5.24",
+    165
+  ],
+  [
+    3,
+    "Problem 5.25",
+    165
+  ],
+  [
+    3,
+    "Problem 5.26",
+    166
+  ],
+  [
+    3,
+    "Problem 5.27",
+    166
+  ],
+  [
+    3,
+    "Problem 5.28",
+    167
+  ],
+  [
+    3,
+    "Problem 5.29",
+    167
+  ],
+  [
+    3,
+    "Problem 5.30",
+    167
+  ],
+  [
+    3,
+    "Problem 5.31",
+    168
+  ],
+  [
+    3,
+    "Problem 5.32",
+    168
+  ],
+  [
+    3,
+    "Problem 5.33",
+    169
+  ],
+  [
+    3,
+    "Problem 5.34",
+    169
+  ],
+  [
+    3,
+    "Problem 5.35",
+    170
+  ],
+  [
+    3,
+    "Problem 5.36",
+    171
+  ],
+  [
+    3,
+    "Problem 5.37",
+    171
+  ],
+  [
+    3,
+    "Problem 5.38",
+    172
+  ],
+  [
+    3,
+    "Problem 5.39",
+    174
+  ],
+  [
+    3,
+    "Problem 5.40",
+    176
+  ],
+  [
+    3,
+    "Problem 5.41",
+    176
+  ],
+  [
+    3,
+    "Problem 5.42",
+    178
+  ],
+  [
+    3,
+    "Problem 5.43",
+    178
+  ],
+  [
+    2,
+    "6 Recursive Data Types",
+    181
+  ],
+  [
+    3,
+    "6.1 Recursive Definitions and Structural Induction",
+    181
+  ],
+  [
+    3,
+    "6.2 Strings of Matched Brackets",
+    185
+  ],
+  [
+    3,
+    "6.3 Recursive Functions on Nonnegative Integers",
+    188
+  ],
+  [
+    3,
+    "6.4 Arithmetic Expressions",
+    191
+  ],
+  [
+    3,
+    "6.5 Induction in Computer Science",
+    196
+  ],
+  [
+    3,
+    "Problem 6.1",
+    197
+  ],
+  [
+    3,
+    "Problem 6.2",
+    197
+  ],
+  [
+    3,
+    "Problem 6.3",
+    197
+  ],
+  [
+    3,
+    "Problem 6.4",
+    198
+  ],
+  [
+    3,
+    "Problem 6.5",
+    198
+  ],
+  [
+    3,
+    "Problem 6.6",
+    200
+  ],
+  [
+    3,
+    "Problem 6.7",
+    200
+  ],
+  [
+    3,
+    "Problem 6.8",
+    201
+  ],
+  [
+    3,
+    "Problem 6.9",
+    201
+  ],
+  [
+    3,
+    "Problem 6.10",
+    202
+  ],
+  [
+    3,
+    "Problem 6.11",
+    202
+  ],
+  [
+    3,
+    "Problem 6.12",
+    203
+  ],
+  [
+    3,
+    "Problem 6.13",
+    204
+  ],
+  [
+    3,
+    "Problem 6.14",
+    205
+  ],
+  [
+    3,
+    "Problem 6.15",
+    206
+  ],
+  [
+    3,
+    "Problem 6.16",
+    207
+  ],
+  [
+    3,
+    "Problem 6.17",
+    207
+  ],
+  [
+    3,
+    "Problem 6.18",
+    208
+  ],
+  [
+    3,
+    "Problem 6.19",
+    208
+  ],
+  [
+    3,
+    "Problem 6.20",
+    208
+  ],
+  [
+    2,
+    "7 Infinite Sets",
+    213
+  ],
+  [
+    3,
+    "7.1 Infinite Cardinality",
+    214
+  ],
+  [
+    3,
+    "7.2 The Halting Problem",
+    223
+  ],
+  [
+    3,
+    "7.3 The Logic of Sets",
+    227
+  ],
+  [
+    3,
+    "7.4 Does All This Really Work?",
+    230
+  ],
+  [
+    3,
+    "Problem 7.1",
+    231
+  ],
+  [
+    3,
+    "Problem 7.2",
+    232
+  ],
+  [
+    3,
+    "Problem 7.3",
+    232
+  ],
+  [
+    3,
+    "Problem 7.4",
+    232
+  ],
+  [
+    3,
+    "Problem 7.5",
+    232
+  ],
+  [
+    3,
+    "Problem 7.6",
+    232
+  ],
+  [
+    3,
+    "Problem 7.7",
+    233
+  ],
+  [
+    3,
+    "Problem 7.8",
+    234
+  ],
+  [
+    3,
+    "Problem 7.9",
+    234
+  ],
+  [
+    3,
+    "Problem 7.10",
+    234
+  ],
+  [
+    3,
+    "Problem 7.11",
+    235
+  ],
+  [
+    3,
+    "Problem 7.12",
+    236
+  ],
+  [
+    3,
+    "Problem 7.13",
+    236
+  ],
+  [
+    3,
+    "Problem 7.14",
+    236
+  ],
+  [
+    3,
+    "Problem 7.15",
+    237
+  ],
+  [
+    3,
+    "Problem 7.16",
+    237
+  ],
+  [
+    3,
+    "Problem 7.17",
+    237
+  ],
+  [
+    3,
+    "Problem 7.18",
+    238
+  ],
+  [
+    3,
+    "Problem 7.19",
+    238
+  ],
+  [
+    3,
+    "Problem 7.20",
+    238
+  ],
+  [
+    3,
+    "Problem 7.21",
+    238
+  ],
+  [
+    3,
+    "Problem 7.22",
+    239
+  ],
+  [
+    3,
+    "Problem 7.23",
+    239
+  ],
+  [
+    3,
+    "Problem 7.24",
+    239
+  ],
+  [
+    3,
+    "Problem 7.25",
+    241
+  ],
+  [
+    3,
+    "Problem 7.26",
+    241
+  ],
+  [
+    3,
+    "Problem 7.27",
+    242
+  ],
+  [
+    3,
+    "Problem 7.28",
+    242
+  ],
+  [
+    3,
+    "Problem 7.29",
+    243
+  ],
+  [
+    3,
+    "Problem 7.30",
+    244
+  ],
+  [
+    3,
+    "Problem 7.31",
+    244
+  ],
+  [
+    3,
+    "Problem 7.32",
+    245
+  ],
+  [
+    1,
+    "II Structures",
+    247
+  ],
+  [
+    2,
+    "Introduction",
+    249
+  ],
+  [
+    2,
+    "8 Number Theory",
+    251
+  ],
+  [
+    3,
+    "8.1 Divisibility",
+    251
+  ],
+  [
+    3,
+    "8.2 The Greatest Common Divisor",
+    256
+  ],
+  [
+    3,
+    "8.3 Prime Mysteries",
+    262
+  ],
+  [
+    3,
+    "8.4 The Fundamental Theorem of Arithmetic",
+    265
+  ],
+  [
+    3,
+    "8.5 Alan Turing",
+    267
+  ],
+  [
+    3,
+    "8.6 Modular Arithmetic",
+    271
+  ],
+  [
+    3,
+    "8.7 Remainder Arithmetic",
+    273
+  ],
+  [
+    3,
+    "8.8 Turing's Code (Version 2.0)",
+    276
+  ],
+  [
+    3,
+    "8.9 Multiplicative Inverses and Cancelling",
+    278
+  ],
+  [
+    3,
+    "8.10 Euler's Theorem",
+    282
+  ],
+  [
+    3,
+    "8.11 RSA Public Key Encryption",
+    287
+  ],
+  [
+    3,
+    "8.12 What has SAT got to do with it?",
+    289
+  ],
+  [
+    3,
+    "8.13 References",
+    290
+  ],
+  [
+    3,
+    "Problem 8.1",
+    291
+  ],
+  [
+    3,
+    "Problem 8.2",
+    291
+  ],
+  [
+    3,
+    "Problem 8.3",
+    291
+  ],
+  [
+    3,
+    "Problem 8.4",
+    291
+  ],
+  [
+    3,
+    "Problem 8.5",
+    292
+  ],
+  [
+    3,
+    "Problem 8.6",
+    292
+  ],
+  [
+    3,
+    "Problem 8.7",
+    292
+  ],
+  [
+    3,
+    "Problem 8.8",
+    292
+  ],
+  [
+    3,
+    "Problem 8.9",
+    293
+  ],
+  [
+    3,
+    "Problem 8.10",
+    293
+  ],
+  [
+    3,
+    "Problem 8.11",
+    293
+  ],
+  [
+    3,
+    "Problem 8.12",
+    294
+  ],
+  [
+    3,
+    "Problem 8.13",
+    294
+  ],
+  [
+    3,
+    "Problem 8.14",
+    295
+  ],
+  [
+    3,
+    "Problem 8.15",
+    295
+  ],
+  [
+    3,
+    "Problem 8.16",
+    295
+  ],
+  [
+    3,
+    "Problem 8.17",
+    296
+  ],
+  [
+    3,
+    "Problem 8.18",
+    297
+  ],
+  [
+    3,
+    "Problem 8.19",
+    297
+  ],
+  [
+    3,
+    "Problem 8.20",
+    297
+  ],
+  [
+    3,
+    "Problem 8.21",
+    298
+  ],
+  [
+    3,
+    "Problem 8.22",
+    299
+  ],
+  [
+    3,
+    "Problem 8.23",
+    299
+  ],
+  [
+    3,
+    "Problem 8.24",
+    299
+  ],
+  [
+    3,
+    "Problem 8.25",
+    299
+  ],
+  [
+    3,
+    "Problem 8.26",
+    300
+  ],
+  [
+    3,
+    "Problem 8.27",
+    300
+  ],
+  [
+    3,
+    "Problem 8.28",
+    301
+  ],
+  [
+    3,
+    "Problem 8.29",
+    302
+  ],
+  [
+    3,
+    "Problem 8.30",
+    302
+  ],
+  [
+    3,
+    "Problem 8.31",
+    302
+  ],
+  [
+    3,
+    "Problem 8.32",
+    303
+  ],
+  [
+    3,
+    "Problem 8.33",
+    304
+  ],
+  [
+    3,
+    "Problem 8.34",
+    305
+  ],
+  [
+    3,
+    "Problem 8.35",
+    305
+  ],
+  [
+    3,
+    "Problem 8.36",
+    305
+  ],
+  [
+    3,
+    "Problem 8.37",
+    305
+  ],
+  [
+    3,
+    "Problem 8.38",
+    306
+  ],
+  [
+    3,
+    "Problem 8.39",
+    306
+  ],
+  [
+    3,
+    "Problem 8.40",
+    307
+  ],
+  [
+    3,
+    "Problem 8.41",
+    307
+  ],
+  [
+    3,
+    "Problem 8.42",
+    307
+  ],
+  [
+    3,
+    "Problem 8.43",
+    308
+  ],
+  [
+    3,
+    "Problem 8.44",
+    308
+  ],
+  [
+    3,
+    "Problem 8.45",
+    308
+  ],
+  [
+    3,
+    "Problem 8.46",
+    308
+  ],
+  [
+    3,
+    "Problem 8.47",
+    309
+  ],
+  [
+    3,
+    "Problem 8.48",
+    309
+  ],
+  [
+    3,
+    "Problem 8.49",
+    309
+  ],
+  [
+    3,
+    "Problem 8.50",
+    309
+  ],
+  [
+    3,
+    "Problem 8.51",
+    309
+  ],
+  [
+    3,
+    "Problem 8.52",
+    310
+  ],
+  [
+    3,
+    "Problem 8.53",
+    310
+  ],
+  [
+    3,
+    "Problem 8.54",
+    310
+  ],
+  [
+    3,
+    "Problem 8.55",
+    310
+  ],
+  [
+    3,
+    "Problem 8.56",
+    310
+  ],
+  [
+    3,
+    "Problem 8.57",
+    310
+  ],
+  [
+    3,
+    "Problem 8.58",
+    311
+  ],
+  [
+    3,
+    "Problem 8.59",
+    311
+  ],
+  [
+    3,
+    "Problem 8.60",
+    311
+  ],
+  [
+    3,
+    "Problem 8.61",
+    312
+  ],
+  [
+    3,
+    "Problem 8.62",
+    313
+  ],
+  [
+    3,
+    "Problem 8.63",
+    313
+  ],
+  [
+    3,
+    "Problem 8.64",
+    314
+  ],
+  [
+    3,
+    "Problem 8.65",
+    314
+  ],
+  [
+    3,
+    "Problem 8.66",
+    315
+  ],
+  [
+    3,
+    "Problem 8.67",
+    315
+  ],
+  [
+    3,
+    "Problem 8.68",
+    315
+  ],
+  [
+    3,
+    "Problem 8.69",
+    316
+  ],
+  [
+    3,
+    "Problem 8.70",
+    316
+  ],
+  [
+    3,
+    "Problem 8.71",
+    317
+  ],
+  [
+    3,
+    "Problem 8.72",
+    317
+  ],
+  [
+    3,
+    "Problem 8.73",
+    318
+  ],
+  [
+    3,
+    "Problem 8.74",
+    318
+  ],
+  [
+    3,
+    "Problem 8.75",
+    318
+  ],
+  [
+    3,
+    "Problem 8.76",
+    318
+  ],
+  [
+    3,
+    "Problem 8.77",
+    318
+  ],
+  [
+    3,
+    "Problem 8.78",
+    319
+  ],
+  [
+    3,
+    "Problem 8.79",
+    319
+  ],
+  [
+    3,
+    "Problem 8.80",
+    320
+  ],
+  [
+    3,
+    "Problem 8.81",
+    320
+  ],
+  [
+    3,
+    "Problem 8.82",
+    321
+  ],
+  [
+    3,
+    "Problem 8.83",
+    323
+  ],
+  [
+    2,
+    "9 Directed graphs & Partial Orders",
+    325
+  ],
+  [
+    3,
+    "9.1 Vertex Degrees",
+    327
+  ],
+  [
+    3,
+    "9.2 Walks and Paths",
+    328
+  ],
+  [
+    3,
+    "9.3 Adjacency Matrices",
+    331
+  ],
+  [
+    3,
+    "9.4 Walk Relations",
+    334
+  ],
+  [
+    3,
+    "9.5 Directed Acyclic Graphs & Scheduling",
+    335
+  ],
+  [
+    3,
+    "9.6 Partial Orders",
+    343
+  ],
+  [
+    3,
+    "9.7 Representing Partial Orders by Set Containment",
+    347
+  ],
+  [
+    3,
+    "9.8 Linear Orders",
+    348
+  ],
+  [
+    3,
+    "9.9 Product Orders",
+    348
+  ],
+  [
+    3,
+    "9.10 Equivalence Relations",
+    349
+  ],
+  [
+    3,
+    "9.11 Summary of Relational Properties",
+    351
+  ],
+  [
+    3,
+    "Problem 9.1",
+    353
+  ],
+  [
+    3,
+    "Problem 9.2",
+    353
+  ],
+  [
+    3,
+    "Problem 9.3",
+    353
+  ],
+  [
+    3,
+    "Problem 9.4",
+    354
+  ],
+  [
+    3,
+    "Problem 9.5",
+    354
+  ],
+  [
+    3,
+    "Problem 9.6",
+    355
+  ],
+  [
+    3,
+    "Problem 9.7",
+    356
+  ],
+  [
+    3,
+    "Problem 9.8",
+    356
+  ],
+  [
+    3,
+    "Problem 9.9",
+    357
+  ],
+  [
+    3,
+    "Problem 9.10",
+    358
+  ],
+  [
+    3,
+    "Problem 9.11",
+    358
+  ],
+  [
+    3,
+    "Problem 9.12",
+    359
+  ],
+  [
+    3,
+    "Problem 9.13",
+    360
+  ],
+  [
+    3,
+    "Problem 9.14",
+    360
+  ],
+  [
+    3,
+    "Problem 9.15",
+    360
+  ],
+  [
+    3,
+    "Problem 9.16",
+    360
+  ],
+  [
+    3,
+    "Problem 9.17",
+    361
+  ],
+  [
+    3,
+    "Problem 9.18",
+    363
+  ],
+  [
+    3,
+    "Problem 9.19",
+    364
+  ],
+  [
+    3,
+    "Problem 9.20",
+    364
+  ],
+  [
+    3,
+    "Problem 9.21",
+    365
+  ],
+  [
+    3,
+    "Problem 9.22",
+    365
+  ],
+  [
+    3,
+    "Problem 9.23",
+    366
+  ],
+  [
+    3,
+    "Problem 9.24",
+    366
+  ],
+  [
+    3,
+    "Problem 9.25",
+    367
+  ],
+  [
+    3,
+    "Problem 9.26",
+    367
+  ],
+  [
+    3,
+    "Problem 9.27",
+    367
+  ],
+  [
+    3,
+    "Problem 9.28",
+    368
+  ],
+  [
+    3,
+    "Problem 9.29",
+    369
+  ],
+  [
+    3,
+    "Problem 9.30",
+    370
+  ],
+  [
+    3,
+    "Problem 9.31",
+    370
+  ],
+  [
+    3,
+    "Problem 9.32",
+    371
+  ],
+  [
+    3,
+    "Problem 9.33",
+    371
+  ],
+  [
+    3,
+    "Problem 9.34",
+    371
+  ],
+  [
+    3,
+    "Problem 9.35",
+    371
+  ],
+  [
+    3,
+    "Problem 9.36",
+    372
+  ],
+  [
+    3,
+    "Problem 9.37",
+    372
+  ],
+  [
+    3,
+    "Problem 9.38",
+    373
+  ],
+  [
+    3,
+    "Problem 9.39",
+    373
+  ],
+  [
+    3,
+    "Problem 9.40",
+    373
+  ],
+  [
+    3,
+    "Problem 9.41",
+    374
+  ],
+  [
+    3,
+    "Problem 9.42",
+    374
+  ],
+  [
+    3,
+    "Problem 9.43",
+    374
+  ],
+  [
+    3,
+    "Problem 9.44",
+    375
+  ],
+  [
+    3,
+    "Problem 9.45",
+    376
+  ],
+  [
+    3,
+    "Problem 9.46",
+    376
+  ],
+  [
+    3,
+    "Problem 9.47",
+    377
+  ],
+  [
+    3,
+    "Problem 9.48",
+    377
+  ],
+  [
+    3,
+    "Problem 9.49",
+    378
+  ],
+  [
+    3,
+    "Problem 9.50",
+    378
+  ],
+  [
+    3,
+    "Problem 9.51",
+    379
+  ],
+  [
+    2,
+    "10 Communication Networks",
+    381
+  ],
+  [
+    3,
+    "10.1 Complete Binary Tree",
+    381
+  ],
+  [
+    3,
+    "10.2 Routing Problems",
+    381
+  ],
+  [
+    3,
+    "10.3 Network Diameter",
+    382
+  ],
+  [
+    3,
+    "10.4 Switch Count",
+    383
+  ],
+  [
+    3,
+    "10.5 Network Latency",
+    384
+  ],
+  [
+    3,
+    "10.6 Congestion",
+    384
+  ],
+  [
+    3,
+    "10.7 2-D Array",
+    385
+  ],
+  [
+    3,
+    "10.8 Butterfly",
+    387
+  ],
+  [
+    3,
+    "10.9 Beneš Network",
+    389
+  ],
+  [
+    3,
+    "Problem 10.1",
+    394
+  ],
+  [
+    3,
+    "Problem 10.2",
+    395
+  ],
+  [
+    3,
+    "Problem 10.3",
+    396
+  ],
+  [
+    3,
+    "Problem 10.4",
+    396
+  ],
+  [
+    3,
+    "Problem 10.5",
+    397
+  ],
+  [
+    3,
+    "Problem 10.6",
+    397
+  ],
+  [
+    3,
+    "Problem 10.7",
+    399
+  ],
+  [
+    3,
+    "Problem 10.8",
+    399
+  ],
+  [
+    2,
+    "11 Simple Graphs",
+    401
+  ],
+  [
+    3,
+    "11.1 Vertex Adjacency and Degrees",
+    401
+  ],
+  [
+    3,
+    "11.2 Sexual Demographics in America",
+    403
+  ],
+  [
+    3,
+    "11.3 Some Common Graphs",
+    405
+  ],
+  [
+    3,
+    "11.4 Isomorphism",
+    407
+  ],
+  [
+    3,
+    "11.5 Bipartite Graphs & Matchings",
+    409
+  ],
+  [
+    3,
+    "11.6 The Stable Marriage Problem",
+    414
+  ],
+  [
+    3,
+    "11.7 Coloring",
+    421
+  ],
+  [
+    3,
+    "11.8 Simple Walks",
+    425
+  ],
+  [
+    3,
+    "11.9 Connectivity",
+    427
+  ],
+  [
+    3,
+    "11.10 Forests & Trees",
+    432
+  ],
+  [
+    3,
+    "11.11 References",
+    441
+  ],
+  [
+    3,
+    "Problem 11.1",
+    441
+  ],
+  [
+    3,
+    "Problem 11.2",
+    442
+  ],
+  [
+    3,
+    "Problem 11.3",
+    442
+  ],
+  [
+    3,
+    "Problem 11.4",
+    443
+  ],
+  [
+    3,
+    "Problem 11.5",
+    443
+  ],
+  [
+    3,
+    "Problem 11.6",
+    443
+  ],
+  [
+    3,
+    "Problem 11.7",
+    444
+  ],
+  [
+    3,
+    "Problem 11.8",
+    445
+  ],
+  [
+    3,
+    "Problem 11.9",
+    446
+  ],
+  [
+    3,
+    "Problem 11.10",
+    446
+  ],
+  [
+    3,
+    "Problem 11.11",
+    448
+  ],
+  [
+    3,
+    "Problem 11.12",
+    448
+  ],
+  [
+    3,
+    "Problem 11.13",
+    448
+  ],
+  [
+    3,
+    "Problem 11.14",
+    449
+  ],
+  [
+    3,
+    "Problem 11.15",
+    450
+  ],
+  [
+    3,
+    "Problem 11.16",
+    450
+  ],
+  [
+    3,
+    "Problem 11.17",
+    451
+  ],
+  [
+    3,
+    "Problem 11.18",
+    451
+  ],
+  [
+    3,
+    "Problem 11.19",
+    452
+  ],
+  [
+    3,
+    "Problem 11.20",
+    452
+  ],
+  [
+    3,
+    "Problem 11.21",
+    452
+  ],
+  [
+    3,
+    "Problem 11.22",
+    453
+  ],
+  [
+    3,
+    "Problem 11.23",
+    453
+  ],
+  [
+    3,
+    "Problem 11.24",
+    454
+  ],
+  [
+    3,
+    "Problem 11.25",
+    454
+  ],
+  [
+    3,
+    "Problem 11.26",
+    454
+  ],
+  [
+    3,
+    "Problem 11.27",
+    455
+  ],
+  [
+    3,
+    "Problem 11.28",
+    455
+  ],
+  [
+    3,
+    "Problem 11.29",
+    456
+  ],
+  [
+    3,
+    "Problem 11.30",
+    457
+  ],
+  [
+    3,
+    "Problem 11.31",
+    457
+  ],
+  [
+    3,
+    "Problem 11.32",
+    457
+  ],
+  [
+    3,
+    "Problem 11.33",
+    458
+  ],
+  [
+    3,
+    "Problem 11.34",
+    458
+  ],
+  [
+    3,
+    "Problem 11.35",
+    459
+  ],
+  [
+    3,
+    "Problem 11.36",
+    460
+  ],
+  [
+    3,
+    "Problem 11.37",
+    460
+  ],
+  [
+    3,
+    "Problem 11.38",
+    460
+  ],
+  [
+    3,
+    "Problem 11.39",
+    460
+  ],
+  [
+    3,
+    "Problem 11.40",
+    463
+  ],
+  [
+    3,
+    "Problem 11.41",
+    464
+  ],
+  [
+    3,
+    "Problem 11.42",
+    465
+  ],
+  [
+    3,
+    "Problem 11.43",
+    466
+  ],
+  [
+    3,
+    "Problem 11.44",
+    466
+  ],
+  [
+    3,
+    "Problem 11.45",
+    467
+  ],
+  [
+    3,
+    "Problem 11.46",
+    468
+  ],
+  [
+    3,
+    "Problem 11.47",
+    468
+  ],
+  [
+    3,
+    "Problem 11.48",
+    469
+  ],
+  [
+    3,
+    "Problem 11.49",
+    470
+  ],
+  [
+    3,
+    "Problem 11.50",
+    471
+  ],
+  [
+    3,
+    "Problem 11.51",
+    471
+  ],
+  [
+    3,
+    "Problem 11.52",
+    472
+  ],
+  [
+    3,
+    "Problem 11.53",
+    472
+  ],
+  [
+    3,
+    "Problem 11.54",
+    472
+  ],
+  [
+    3,
+    "Problem 11.55",
+    473
+  ],
+  [
+    3,
+    "Problem 11.56",
+    473
+  ],
+  [
+    3,
+    "Problem 11.57",
+    473
+  ],
+  [
+    3,
+    "Problem 11.58",
+    474
+  ],
+  [
+    3,
+    "Problem 11.59",
+    474
+  ],
+  [
+    3,
+    "Problem 11.60",
+    475
+  ],
+  [
+    3,
+    "Problem 11.61",
+    475
+  ],
+  [
+    3,
+    "Problem 11.62",
+    475
+  ],
+  [
+    3,
+    "Problem 11.63",
+    475
+  ],
+  [
+    3,
+    "Problem 11.64",
+    476
+  ],
+  [
+    3,
+    "Problem 11.65",
+    477
+  ],
+  [
+    3,
+    "Problem 11.66",
+    477
+  ],
+  [
+    3,
+    "Problem 11.67",
+    477
+  ],
+  [
+    3,
+    "Problem 11.68",
+    478
+  ],
+  [
+    3,
+    "Problem 11.69",
+    478
+  ],
+  [
+    3,
+    "Problem 11.70",
+    479
+  ],
+  [
+    2,
+    "12 Planar Graphs",
+    481
+  ],
+  [
+    3,
+    "12.1 Drawing Graphs in the Plane",
+    481
+  ],
+  [
+    3,
+    "12.2 Definitions of Planar Graphs",
+    481
+  ],
+  [
+    3,
+    "12.3 Euler's Formula",
+    492
+  ],
+  [
+    3,
+    "12.4 Bounding the Number of Edges in a Planar Graph",
+    493
+  ],
+  [
+    3,
+    "12.5 Returning to K5 and K3,3",
+    494
+  ],
+  [
+    3,
+    "12.6 Coloring Planar Graphs",
+    495
+  ],
+  [
+    3,
+    "12.7 Classifying Polyhedra",
+    497
+  ],
+  [
+    3,
+    "12.8 Another Characterization for Planar Graphs",
+    500
+  ],
+  [
+    3,
+    "Problem 12.1",
+    500
+  ],
+  [
+    3,
+    "Problem 12.2",
+    502
+  ],
+  [
+    3,
+    "Problem 12.3",
+    503
+  ],
+  [
+    3,
+    "Problem 12.4",
+    503
+  ],
+  [
+    3,
+    "Problem 12.5",
+    503
+  ],
+  [
+    3,
+    "Problem 12.6",
+    504
+  ],
+  [
+    3,
+    "Problem 12.7",
+    504
+  ],
+  [
+    3,
+    "Problem 12.8",
+    505
+  ],
+  [
+    3,
+    "Problem 12.9",
+    506
+  ],
+  [
+    1,
+    "III Counting",
+    507
+  ],
+  [
+    2,
+    "Introduction",
+    509
+  ],
+  [
+    2,
+    "12.9 References",
+    510
+  ],
+  [
+    2,
+    "13 Sums and Asymptotics",
+    511
+  ],
+  [
+    3,
+    "13.1 The Value of an Annuity",
+    512
+  ],
+  [
+    3,
+    "13.2 Sums of Powers",
+    518
+  ],
+  [
+    3,
+    "13.3 Approximating Sums",
+    520
+  ],
+  [
+    3,
+    "13.4 Hanging Out Over the Edge",
+    524
+  ],
+  [
+    3,
+    "13.5 Products",
+    530
+  ],
+  [
+    3,
+    "13.6 Double Trouble",
+    533
+  ],
+  [
+    3,
+    "13.7 Asymptotic Notation",
+    536
+  ],
+  [
+    3,
+    "Problem 13.1",
+    542
+  ],
+  [
+    3,
+    "Problem 13.2",
+    542
+  ],
+  [
+    3,
+    "Problem 13.3",
+    543
+  ],
+  [
+    3,
+    "Problem 13.4",
+    543
+  ],
+  [
+    3,
+    "Problem 13.5",
+    544
+  ],
+  [
+    3,
+    "Problem 13.6",
+    544
+  ],
+  [
+    3,
+    "Problem 13.7",
+    544
+  ],
+  [
+    3,
+    "Problem 13.8",
+    545
+  ],
+  [
+    3,
+    "Problem 13.9",
+    545
+  ],
+  [
+    3,
+    "Problem 13.10",
+    547
+  ],
+  [
+    3,
+    "Problem 13.11",
+    547
+  ],
+  [
+    3,
+    "Problem 13.12",
+    547
+  ],
+  [
+    3,
+    "Problem 13.13",
+    548
+  ],
+  [
+    3,
+    "Problem 13.14",
+    548
+  ],
+  [
+    3,
+    "Problem 13.15",
+    549
+  ],
+  [
+    3,
+    "Problem 13.16",
+    549
+  ],
+  [
+    3,
+    "Problem 13.17",
+    550
+  ],
+  [
+    3,
+    "Problem 13.18",
+    550
+  ],
+  [
+    3,
+    "Problem 13.19",
+    551
+  ],
+  [
+    3,
+    "Problem 13.20",
+    551
+  ],
+  [
+    3,
+    "Problem 13.21",
+    551
+  ],
+  [
+    3,
+    "Problem 13.22",
+    551
+  ],
+  [
+    3,
+    "Problem 13.23",
+    552
+  ],
+  [
+    3,
+    "Problem 13.24",
+    552
+  ],
+  [
+    3,
+    "Problem 13.25",
+    552
+  ],
+  [
+    3,
+    "Problem 13.26",
+    553
+  ],
+  [
+    3,
+    "Problem 13.27",
+    553
+  ],
+  [
+    3,
+    "Problem 13.28",
+    553
+  ],
+  [
+    3,
+    "Problem 13.29",
+    553
+  ],
+  [
+    3,
+    "Problem 13.30",
+    554
+  ],
+  [
+    3,
+    "Problem 13.31",
+    554
+  ],
+  [
+    3,
+    "Problem 13.32",
+    555
+  ],
+  [
+    3,
+    "Problem 13.33",
+    555
+  ],
+  [
+    3,
+    "Problem 13.34",
+    555
+  ],
+  [
+    3,
+    "Problem 13.35",
+    555
+  ],
+  [
+    3,
+    "Problem 13.36",
+    556
+  ],
+  [
+    3,
+    "Problem 13.37",
+    556
+  ],
+  [
+    3,
+    "Problem 13.38",
+    556
+  ],
+  [
+    3,
+    "Problem 13.39",
+    557
+  ],
+  [
+    3,
+    "Problem 13.40",
+    557
+  ],
+  [
+    2,
+    "14 Cardinality Rules",
+    559
+  ],
+  [
+    3,
+    "14.1 Counting One Thing by Counting Another",
+    559
+  ],
+  [
+    3,
+    "14.2 Counting Sequences",
+    560
+  ],
+  [
+    3,
+    "14.3 The Generalized Product Rule",
+    563
+  ],
+  [
+    3,
+    "14.4 The Division Rule",
+    567
+  ],
+  [
+    3,
+    "14.5 Counting Subsets",
+    570
+  ],
+  [
+    3,
+    "14.6 Sequences with Repetitions",
+    572
+  ],
+  [
+    3,
+    "14.7 Counting Practice: Poker Hands",
+    575
+  ],
+  [
+    3,
+    "14.8 The Pigeonhole Principle",
+    580
+  ],
+  [
+    3,
+    "14.9 Inclusion-Exclusion",
+    589
+  ],
+  [
+    3,
+    "14.10 Combinatorial Proofs",
+    595
+  ],
+  [
+    3,
+    "14.11 References",
+    599
+  ],
+  [
+    3,
+    "Problem 14.1",
+    599
+  ],
+  [
+    3,
+    "Problem 14.2",
+    600
+  ],
+  [
+    3,
+    "Problem 14.3",
+    600
+  ],
+  [
+    3,
+    "Problem 14.4",
+    600
+  ],
+  [
+    3,
+    "Problem 14.5",
+    600
+  ],
+  [
+    3,
+    "Problem 14.6",
+    601
+  ],
+  [
+    3,
+    "Problem 14.7",
+    601
+  ],
+  [
+    3,
+    "Problem 14.8",
+    601
+  ],
+  [
+    3,
+    "Problem 14.9",
+    602
+  ],
+  [
+    3,
+    "Problem 14.10",
+    603
+  ],
+  [
+    3,
+    "Problem 14.11",
+    603
+  ],
+  [
+    3,
+    "Problem 14.12",
+    603
+  ],
+  [
+    3,
+    "Problem 14.13",
+    604
+  ],
+  [
+    3,
+    "Problem 14.14",
+    604
+  ],
+  [
+    3,
+    "Problem 14.15",
+    604
+  ],
+  [
+    3,
+    "Problem 14.16",
+    604
+  ],
+  [
+    3,
+    "Problem 14.17",
+    605
+  ],
+  [
+    3,
+    "Problem 14.18",
+    605
+  ],
+  [
+    3,
+    "Problem 14.19",
+    606
+  ],
+  [
+    3,
+    "Problem 14.20",
+    606
+  ],
+  [
+    3,
+    "Problem 14.21",
+    607
+  ],
+  [
+    3,
+    "Problem 14.22",
+    607
+  ],
+  [
+    3,
+    "Problem 14.23",
+    608
+  ],
+  [
+    3,
+    "Problem 14.24",
+    609
+  ],
+  [
+    3,
+    "Problem 14.25",
+    610
+  ],
+  [
+    3,
+    "Problem 14.26",
+    610
+  ],
+  [
+    3,
+    "Problem 14.27",
+    612
+  ],
+  [
+    3,
+    "Problem 14.28",
+    612
+  ],
+  [
+    3,
+    "Problem 14.29",
+    612
+  ],
+  [
+    3,
+    "Problem 14.30",
+    612
+  ],
+  [
+    3,
+    "Problem 14.31",
+    613
+  ],
+  [
+    3,
+    "Problem 14.32",
+    614
+  ],
+  [
+    3,
+    "Problem 14.33",
+    615
+  ],
+  [
+    3,
+    "Problem 14.34",
+    615
+  ],
+  [
+    3,
+    "Problem 14.35",
+    616
+  ],
+  [
+    3,
+    "Problem 14.36",
+    616
+  ],
+  [
+    3,
+    "Problem 14.37",
+    617
+  ],
+  [
+    3,
+    "Problem 14.38",
+    617
+  ],
+  [
+    3,
+    "Problem 14.39",
+    617
+  ],
+  [
+    3,
+    "Problem 14.40",
+    618
+  ],
+  [
+    3,
+    "Problem 14.41",
+    618
+  ],
+  [
+    3,
+    "Problem 14.42",
+    618
+  ],
+  [
+    3,
+    "Problem 14.43",
+    618
+  ],
+  [
+    3,
+    "Problem 14.44",
+    618
+  ],
+  [
+    3,
+    "Problem 14.45",
+    620
+  ],
+  [
+    3,
+    "Problem 14.46",
+    620
+  ],
+  [
+    3,
+    "Problem 14.47",
+    620
+  ],
+  [
+    3,
+    "Problem 14.48",
+    620
+  ],
+  [
+    3,
+    "Problem 14.49",
+    621
+  ],
+  [
+    3,
+    "Problem 14.50",
+    621
+  ],
+  [
+    3,
+    "Problem 14.51",
+    622
+  ],
+  [
+    3,
+    "Problem 14.52",
+    622
+  ],
+  [
+    3,
+    "Problem 14.53",
+    624
+  ],
+  [
+    3,
+    "Problem 14.54",
+    625
+  ],
+  [
+    3,
+    "Problem 14.55",
+    626
+  ],
+  [
+    3,
+    "Problem 14.56",
+    626
+  ],
+  [
+    3,
+    "Problem 14.57",
+    627
+  ],
+  [
+    3,
+    "Problem 14.58",
+    627
+  ],
+  [
+    3,
+    "Problem 14.59",
+    628
+  ],
+  [
+    3,
+    "Problem 14.60",
+    628
+  ],
+  [
+    3,
+    "Problem 14.61",
+    628
+  ],
+  [
+    3,
+    "Problem 14.62",
+    629
+  ],
+  [
+    3,
+    "Problem 14.63",
+    629
+  ],
+  [
+    3,
+    "Problem 14.64",
+    630
+  ],
+  [
+    3,
+    "Problem 14.65",
+    630
+  ],
+  [
+    3,
+    "Problem 14.66",
+    631
+  ],
+  [
+    3,
+    "Problem 14.67",
+    631
+  ],
+  [
+    3,
+    "Problem 14.68",
+    632
+  ],
+  [
+    3,
+    "Problem 14.69",
+    632
+  ],
+  [
+    3,
+    "Problem 14.70",
+    633
+  ],
+  [
+    2,
+    "15 Generating Functions",
+    635
+  ],
+  [
+    3,
+    "15.1 Infinite Series",
+    635
+  ],
+  [
+    3,
+    "15.2 Counting with Generating Functions",
+    637
+  ],
+  [
+    3,
+    "15.3 Partial Fractions",
+    643
+  ],
+  [
+    3,
+    "15.4 Solving Linear Recurrences",
+    646
+  ],
+  [
+    3,
+    "15.5 Formal Power Series",
+    651
+  ],
+  [
+    3,
+    "15.6 References",
+    654
+  ],
+  [
+    3,
+    "Problem 15.1",
+    654
+  ],
+  [
+    3,
+    "Problem 15.2",
+    655
+  ],
+  [
+    3,
+    "Problem 15.3",
+    655
+  ],
+  [
+    3,
+    "Problem 15.4",
+    655
+  ],
+  [
+    3,
+    "Problem 15.5",
+    656
+  ],
+  [
+    3,
+    "Problem 15.6",
+    656
+  ],
+  [
+    3,
+    "Problem 15.7",
+    656
+  ],
+  [
+    3,
+    "Problem 15.8",
+    657
+  ],
+  [
+    3,
+    "Problem 15.9",
+    657
+  ],
+  [
+    3,
+    "Problem 15.10",
+    657
+  ],
+  [
+    3,
+    "Problem 15.11",
+    658
+  ],
+  [
+    3,
+    "Problem 15.12",
+    659
+  ],
+  [
+    3,
+    "Problem 15.13",
+    660
+  ],
+  [
+    3,
+    "Problem 15.14",
+    661
+  ],
+  [
+    3,
+    "Problem 15.15",
+    661
+  ],
+  [
+    3,
+    "Problem 15.16",
+    662
+  ],
+  [
+    3,
+    "Problem 15.17",
+    663
+  ],
+  [
+    3,
+    "Problem 15.18",
+    664
+  ],
+  [
+    3,
+    "Problem 15.19",
+    665
+  ],
+  [
+    3,
+    "Problem 15.20",
+    667
+  ],
+  [
+    3,
+    "Problem 15.21",
+    667
+  ],
+  [
+    3,
+    "Problem 15.22",
+    668
+  ],
+  [
+    3,
+    "Problem 15.23",
+    668
+  ],
+  [
+    3,
+    "Problem 15.24",
+    668
+  ],
+  [
+    3,
+    "Problem 15.25",
+    669
+  ],
+  [
+    3,
+    "Problem 15.26",
+    669
+  ],
+  [
+    1,
+    "IV Probability",
+    671
+  ],
+  [
+    2,
+    "Introduction",
+    673
+  ],
+  [
+    2,
+    "16 Events and Probability Spaces",
+    675
+  ],
+  [
+    3,
+    "16.1 Let's Make a Deal",
+    675
+  ],
+  [
+    3,
+    "16.2 The Four Step Method",
+    676
+  ],
+  [
+    3,
+    "16.3 Strange Dice",
+    685
+  ],
+  [
+    3,
+    "16.4 The Birthday Principle",
+    692
+  ],
+  [
+    3,
+    "16.5 Set Theory and Probability",
+    694
+  ],
+  [
+    3,
+    "16.6 References",
+    698
+  ],
+  [
+    3,
+    "Problem 16.1",
+    698
+  ],
+  [
+    3,
+    "Problem 16.2",
+    699
+  ],
+  [
+    3,
+    "Problem 16.3",
+    699
+  ],
+  [
+    3,
+    "Problem 16.4",
+    699
+  ],
+  [
+    3,
+    "Problem 16.5",
+    700
+  ],
+  [
+    3,
+    "Problem 16.6",
+    701
+  ],
+  [
+    3,
+    "Problem 16.7",
+    702
+  ],
+  [
+    3,
+    "Problem 16.8",
+    702
+  ],
+  [
+    3,
+    "Problem 16.9",
+    703
+  ],
+  [
+    3,
+    "Problem 16.10",
+    703
+  ],
+  [
+    3,
+    "Problem 16.11",
+    704
+  ],
+  [
+    3,
+    "Problem 16.12",
+    704
+  ],
+  [
+    2,
+    "17 Conditional Probability",
+    705
+  ],
+  [
+    3,
+    "17.1 Monty Hall Confusion",
+    705
+  ],
+  [
+    3,
+    "17.2 Definition and Notation",
+    706
+  ],
+  [
+    3,
+    "17.3 The Four-Step Method for Conditional Probability",
+    708
+  ],
+  [
+    3,
+    "17.4 Why Tree Diagrams Work",
+    710
+  ],
+  [
+    3,
+    "17.5 The Law of Total Probability",
+    718
+  ],
+  [
+    3,
+    "17.6 Simpson's Paradox",
+    720
+  ],
+  [
+    3,
+    "17.7 Independence",
+    722
+  ],
+  [
+    3,
+    "17.8 Mutual Independence",
+    724
+  ],
+  [
+    3,
+    "Problem 17.1",
+    728
+  ],
+  [
+    3,
+    "Problem 17.2",
+    728
+  ],
+  [
+    3,
+    "Problem 17.3",
+    729
+  ],
+  [
+    3,
+    "Problem 17.4",
+    729
+  ],
+  [
+    3,
+    "Problem 17.5",
+    729
+  ],
+  [
+    3,
+    "Problem 17.6",
+    729
+  ],
+  [
+    3,
+    "Problem 17.7",
+    730
+  ],
+  [
+    3,
+    "Problem 17.8",
+    731
+  ],
+  [
+    3,
+    "Problem 17.9",
+    731
+  ],
+  [
+    3,
+    "Problem 17.10",
+    733
+  ],
+  [
+    3,
+    "Problem 17.11",
+    734
+  ],
+  [
+    3,
+    "Problem 17.12",
+    734
+  ],
+  [
+    3,
+    "Problem 17.13",
+    734
+  ],
+  [
+    3,
+    "Problem 17.14",
+    735
+  ],
+  [
+    3,
+    "Problem 17.15",
+    735
+  ],
+  [
+    3,
+    "Problem 17.16",
+    736
+  ],
+  [
+    3,
+    "Problem 17.17",
+    737
+  ],
+  [
+    3,
+    "Problem 17.18",
+    738
+  ],
+  [
+    3,
+    "Problem 17.19",
+    739
+  ],
+  [
+    3,
+    "Problem 17.20",
+    739
+  ],
+  [
+    3,
+    "Problem 17.21",
+    740
+  ],
+  [
+    3,
+    "Problem 17.22",
+    741
+  ],
+  [
+    3,
+    "Problem 17.23",
+    741
+  ],
+  [
+    3,
+    "Problem 17.24",
+    742
+  ],
+  [
+    3,
+    "Problem 17.25",
+    742
+  ],
+  [
+    3,
+    "Problem 17.26",
+    743
+  ],
+  [
+    3,
+    "Problem 17.27",
+    744
+  ],
+  [
+    3,
+    "Problem 17.28",
+    744
+  ],
+  [
+    3,
+    "Problem 17.29",
+    745
+  ],
+  [
+    2,
+    "18 Random Variables",
+    747
+  ],
+  [
+    3,
+    "18.1 Random Variable Examples",
+    747
+  ],
+  [
+    3,
+    "18.2 Independence",
+    749
+  ],
+  [
+    3,
+    "18.3 Distribution Functions",
+    750
+  ],
+  [
+    3,
+    "18.4 Great Expectations",
+    759
+  ],
+  [
+    3,
+    "18.5 Linearity of Expectation",
+    770
+  ],
+  [
+    3,
+    "Problem 18.1",
+    779
+  ],
+  [
+    3,
+    "Problem 18.2",
+    780
+  ],
+  [
+    3,
+    "Problem 18.3",
+    781
+  ],
+  [
+    3,
+    "Problem 18.4",
+    781
+  ],
+  [
+    3,
+    "Problem 18.5",
+    782
+  ],
+  [
+    3,
+    "Problem 18.6",
+    782
+  ],
+  [
+    3,
+    "Problem 18.7",
+    783
+  ],
+  [
+    3,
+    "Problem 18.8",
+    783
+  ],
+  [
+    3,
+    "Problem 18.9",
+    784
+  ],
+  [
+    3,
+    "Problem 18.10",
+    785
+  ],
+  [
+    3,
+    "Problem 18.11",
+    785
+  ],
+  [
+    3,
+    "Problem 18.12",
+    785
+  ],
+  [
+    3,
+    "Problem 18.13",
+    786
+  ],
+  [
+    3,
+    "Problem 18.14",
+    786
+  ],
+  [
+    3,
+    "Problem 18.15",
+    787
+  ],
+  [
+    3,
+    "Problem 18.16",
+    788
+  ],
+  [
+    3,
+    "Problem 18.17",
+    788
+  ],
+  [
+    3,
+    "Problem 18.18",
+    789
+  ],
+  [
+    3,
+    "Problem 18.19",
+    789
+  ],
+  [
+    3,
+    "Problem 18.20",
+    790
+  ],
+  [
+    3,
+    "Problem 18.21",
+    791
+  ],
+  [
+    3,
+    "Problem 18.22",
+    791
+  ],
+  [
+    3,
+    "Problem 18.23",
+    792
+  ],
+  [
+    3,
+    "Problem 18.24",
+    792
+  ],
+  [
+    3,
+    "Problem 18.25",
+    793
+  ],
+  [
+    3,
+    "Problem 18.26",
+    794
+  ],
+  [
+    3,
+    "Problem 18.27",
+    794
+  ],
+  [
+    3,
+    "Problem 18.28",
+    794
+  ],
+  [
+    3,
+    "Problem 18.29",
+    795
+  ],
+  [
+    3,
+    "Problem 18.30",
+    795
+  ],
+  [
+    3,
+    "Problem 18.31",
+    795
+  ],
+  [
+    3,
+    "Problem 18.32",
+    796
+  ],
+  [
+    2,
+    "19 Deviation from the Mean",
+    797
+  ],
+  [
+    3,
+    "19.1 Markov's Theorem",
+    797
+  ],
+  [
+    3,
+    "19.2 Chebyshev's Theorem",
+    800
+  ],
+  [
+    3,
+    "19.3 Properties of Variance",
+    804
+  ],
+  [
+    3,
+    "19.4 Estimation by Random Sampling",
+    808
+  ],
+  [
+    3,
+    "19.5 Confidence versus Probability",
+    814
+  ],
+  [
+    3,
+    "19.6 Sums of Random Variables",
+    815
+  ],
+  [
+    3,
+    "19.7 Really Great Expectations",
+    824
+  ],
+  [
+    3,
+    "Problem 19.1",
+    826
+  ],
+  [
+    3,
+    "Problem 19.2",
+    826
+  ],
+  [
+    3,
+    "Problem 19.3",
+    827
+  ],
+  [
+    3,
+    "Problem 19.4",
+    827
+  ],
+  [
+    3,
+    "Problem 19.5",
+    828
+  ],
+  [
+    3,
+    "Problem 19.6",
+    828
+  ],
+  [
+    3,
+    "Problem 19.7",
+    828
+  ],
+  [
+    3,
+    "Problem 19.8",
+    829
+  ],
+  [
+    3,
+    "Problem 19.9",
+    829
+  ],
+  [
+    3,
+    "Problem 19.10",
+    830
+  ],
+  [
+    3,
+    "Problem 19.11",
+    830
+  ],
+  [
+    3,
+    "Problem 19.12",
+    831
+  ],
+  [
+    3,
+    "Problem 19.13",
+    831
+  ],
+  [
+    3,
+    "Problem 19.14",
+    831
+  ],
+  [
+    3,
+    "Problem 19.15",
+    832
+  ],
+  [
+    3,
+    "Problem 19.16",
+    832
+  ],
+  [
+    3,
+    "Problem 19.17",
+    832
+  ],
+  [
+    3,
+    "Problem 19.18",
+    833
+  ],
+  [
+    3,
+    "Problem 19.19",
+    834
+  ],
+  [
+    3,
+    "Problem 19.20",
+    834
+  ],
+  [
+    3,
+    "Problem 19.21",
+    835
+  ],
+  [
+    3,
+    "Problem 19.22",
+    835
+  ],
+  [
+    3,
+    "Problem 19.23",
+    836
+  ],
+  [
+    3,
+    "Problem 19.24",
+    837
+  ],
+  [
+    3,
+    "Problem 19.25",
+    838
+  ],
+  [
+    3,
+    "Problem 19.26",
+    839
+  ],
+  [
+    3,
+    "Problem 19.27",
+    839
+  ],
+  [
+    3,
+    "Problem 19.28",
+    840
+  ],
+  [
+    3,
+    "Problem 19.29",
+    840
+  ],
+  [
+    3,
+    "Problem 19.30",
+    841
+  ],
+  [
+    3,
+    "Problem 19.31",
+    842
+  ],
+  [
+    3,
+    "Problem 19.32",
+    843
+  ],
+  [
+    3,
+    "Problem 19.33",
+    843
+  ],
+  [
+    3,
+    "Problem 19.34",
+    844
+  ],
+  [
+    3,
+    "Problem 19.35",
+    844
+  ],
+  [
+    3,
+    "Problem 19.36",
+    844
+  ],
+  [
+    2,
+    "20 Random Walks",
+    847
+  ],
+  [
+    3,
+    "20.1 Gambler's Ruin",
+    847
+  ],
+  [
+    3,
+    "20.2 Random Walks on Graphs",
+    857
+  ],
+  [
+    3,
+    "Problem 20.1",
+    862
+  ],
+  [
+    3,
+    "Problem 20.2",
+    862
+  ],
+  [
+    3,
+    "Problem 20.3",
+    863
+  ],
+  [
+    3,
+    "Problem 20.4",
+    863
+  ],
+  [
+    3,
+    "Problem 20.5",
+    863
+  ],
+  [
+    3,
+    "Problem 20.6",
+    865
+  ],
+  [
+    3,
+    "Problem 20.7",
+    865
+  ],
+  [
+    3,
+    "Problem 20.8",
+    865
+  ],
+  [
+    3,
+    "Problem 20.9",
+    866
+  ],
+  [
+    3,
+    "Problem 20.10",
+    868
+  ],
+  [
+    3,
+    "Problem 20.11",
+    868
+  ],
+  [
+    3,
+    "Problem 20.12",
+    869
+  ],
+  [
+    3,
+    "Problem 20.13",
+    869
+  ],
+  [
+    1,
+    "V Recurrences",
+    871
+  ],
+  [
+    2,
+    "Introduction",
+    873
+  ],
+  [
+    2,
+    "21 Recurrences",
+    875
+  ],
+  [
+    3,
+    "21.1 The Towers of Hanoi",
+    875
+  ],
+  [
+    3,
+    "21.2 Merge Sort",
+    878
+  ],
+  [
+    3,
+    "21.3 Linear Recurrences",
+    882
+  ],
+  [
+    3,
+    "21.4 Divide-and-Conquer Recurrences",
+    889
+  ],
+  [
+    3,
+    "21.5 A Feel for Recurrences",
+    896
+  ],
+  [
+    3,
+    "Problem 21.1",
+    897
+  ],
+  [
+    3,
+    "Problem 21.2",
+    897
+  ],
+  [
+    3,
+    "Problem 21.3",
+    898
+  ],
+  [
+    3,
+    "Problem 21.4",
+    899
+  ],
+  [
+    1,
+    " ",
+    899
+  ],
+  [
+    2,
+    "Bibliography",
+    903
+  ],
+  [
+    2,
+    "Glossary of Symbols",
+    907
+  ],
+  [
+    2,
+    "Index",
+    910
+  ]
+]

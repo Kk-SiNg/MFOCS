@@ -1,0 +1,621 @@
+[
+  {
+    "pdf_page": 76,
+    "title": "Continuation: an order on relations",
+    "textbook_sections": [
+      "9.6; printed pp.337–338; PDF pp.345–346"
+    ],
+    "unclear": [],
+    "context_resolved": "M is all equivalence relations on fixed S; R1~R2 means refinement/inclusion. Context visually verified from source pages073–075 by first-range agent."
+  },
+  {
+    "pdf_page": 77,
+    "title": "Comparable elements and total orders",
+    "textbook_sections": [
+      "9.8, printed p.340"
+    ],
+    "unclear": []
+  },
+  {
+    "pdf_page": 78,
+    "title": "Order-preserving maps and composition",
+    "textbook_sections": [
+      "9.7, printed p.339 (related relation-preserving maps)"
+    ],
+    "unclear": []
+  },
+  {
+    "pdf_page": 79,
+    "title": "Order-reflecting maps",
+    "textbook_sections": [
+      "9.7, printed p.339 (related relation equivalence)"
+    ],
+    "unclear": []
+  },
+  {
+    "pdf_page": 80,
+    "title": "Order reflection implies injectivity",
+    "textbook_sections": [
+      "9.6.3, printed p.338",
+      "9.7, printed p.339"
+    ],
+    "unclear": []
+  },
+  {
+    "pdf_page": 81,
+    "title": "Computational geometry: convex sets",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "pdf_page": 82,
+    "title": "Convexity characterized by line intersections",
+    "textbook_sections": [],
+    "unclear": [
+      "Literal source says line segment; general convex sets may have open or unbounded line intersections."
+    ]
+  },
+  {
+    "pdf_page": 83,
+    "title": "Parametrizing a line segment",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "pdf_page": 84,
+    "title": "Convex combinations",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "pdf_page": 85,
+    "title": "Segment and triangle examples",
+    "textbook_sections": [],
+    "unclear": [
+      "Source writes three weights of0.3, whose sum0.9 violates convex-combination normalization."
+    ]
+  },
+  {
+    "pdf_page": 86,
+    "title": "Convex combinations stay in a convex set",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "pdf_page": 87,
+    "title": "Two sets of convex-combination coefficients",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "pdf_page": 88,
+    "title": "Induction proof for convex combinations",
+    "textbook_sections": [
+      "Ch.5, printed pp.115–129 (proof method)"
+    ],
+    "unclear": []
+  },
+  {
+    "pdf_page": 89,
+    "title": "Normalizing the first k coefficients",
+    "textbook_sections": [
+      "Ch.5, printed pp.115–129 (proof method)"
+    ],
+    "unclear": [
+      "Source normalization omits the case where the sum of the first k coefficients is zero."
+    ]
+  },
+  {
+    "pdf_page": 90,
+    "title": "Convex hull as a minimal convex superset",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "pdf_page": 91,
+    "title": "Diagrams of convex hulls",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "pdf_page": 92,
+    "title": "Minimal set and intersection definitions",
+    "textbook_sections": [
+      "7.2, printed p.212 onward (set operations only)"
+    ],
+    "unclear": []
+  },
+  {
+    "pdf_page": 93,
+    "title": "The minimality argument",
+    "textbook_sections": [
+      "7.2, printed p.212 onward (set operations only)"
+    ],
+    "unclear": [
+      "Comparison after Y subseteq M is not legible; minimality interpretation is stated explicitly."
+    ]
+  },
+  {
+    "pdf_page": 94,
+    "title": "Intersections of convex sets are convex",
+    "textbook_sections": [
+      "7.2, printed p.212 onward (set operations only)"
+    ],
+    "unclear": []
+  },
+  {
+    "pdf_page": 95,
+    "title": "Convex hull and all convex combinations",
+    "textbook_sections": [
+      "7.2, printed p.212 onward (two inclusions)"
+    ],
+    "unclear": []
+  },
+  {
+    "pdf_page": 96,
+    "title": "Three equivalent convex-hull descriptions",
+    "textbook_sections": [
+      "7.2, printed p.212 onward (sets only)"
+    ],
+    "unclear": []
+  },
+  {
+    "pdf_page": 97,
+    "title": "A point inside a finite-point convex hull",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "pdf_page": 98,
+    "title": "Unfinished convex-combination statement",
+    "textbook_sections": [],
+    "unclear": [
+      "The source sentence ends after the word every."
+    ]
+  },
+  {
+    "pdf_page": 99,
+    "title": "Reducing the number of nonzero coefficients",
+    "textbook_sections": [
+      "Ch.5, printed pp.115–129 (proof method)"
+    ],
+    "unclear": []
+  },
+  {
+    "pdf_page": 100,
+    "title": "The linearly dependent case",
+    "textbook_sections": [
+      "Ch.5, printed pp.115–129 (proof method)"
+    ],
+    "unclear": [
+      "x temporarily denotes the first-k subtotal; lower-dimensional span is written as R^(k-1)."
+    ]
+  },
+  {
+    "pdf_page": 101,
+    "title": "The linearly independent case and coefficient adjustment",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "pdf_page": 102,
+    "title": "The reduction lemma and one-dimensional basis case",
+    "textbook_sections": [
+      "Ch.5, printed pp.115–129 (proof method)"
+    ],
+    "unclear": [
+      "Basis-case replacement coefficient is not computed in the source."
+    ]
+  },
+  {
+    "pdf_page": 103,
+    "title": "Dimension-induction setup",
+    "textbook_sections": [
+      "Ch.5, printed pp.115–129 (proof method)"
+    ],
+    "unclear": []
+  },
+  {
+    "pdf_page": 104,
+    "title": "Rescaling a lower-dimensional representation",
+    "textbook_sections": [
+      "Ch.5, printed pp.115–129 (proof method)"
+    ],
+    "unclear": [
+      "Source writes dimension k-1 where the general dependent case has dimension less than k."
+    ]
+  },
+  {
+    "pdf_page": 105,
+    "title": "Completing the dependent-case substitution",
+    "textbook_sections": [
+      "Ch.5, printed pp.115–129 (proof method)"
+    ],
+    "unclear": []
+  },
+  {
+    "pdf_page": 106,
+    "title": "A convex-combination exercise",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "pdf_page": 107,
+    "title": "Reduction lemma and Caratheodory's theorem",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "pdf_page": 108,
+    "title": "Lifting to one higher dimension",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "pdf_page": 109,
+    "title": "Graham scan in the plane",
+    "textbook_sections": [],
+    "unclear": [
+      "Polar-angle reference origin and the complete turn-test rule are not stated."
+    ]
+  },
+  {
+    "pdf_page": 110,
+    "title": "Graham-scan point removals and turns",
+    "textbook_sections": [],
+    "unclear": [
+      "Exact point-deletion rule is not written."
+    ]
+  },
+  {
+    "pdf_page": 111,
+    "title": "Gift-wrapping algorithm",
+    "textbook_sections": [],
+    "unclear": [
+      "Only heading and unlabelled points appear; no algorithm steps."
+    ]
+  },
+  {
+    "pdf_page": 112,
+    "title": "Minkowski sum",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "pdf_page": 113,
+    "title": "Minkowski-sum example to consider",
+    "textbook_sections": [],
+    "unclear": [
+      "Resulting sum set is not supplied."
+    ]
+  },
+  {
+    "pdf_page": 114,
+    "title": "Rigid motions and a set-sum diagram",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "pdf_page": 115,
+    "title": "Rigid motions preserve distance",
+    "textbook_sections": [],
+    "unclear": []
+  },
+  {
+    "unclear": [],
+    "title": "Rotation about a specified point",
+    "pdf_page": 116,
+    "textbook_sections": []
+  },
+  {
+    "unclear": [
+      "Source writes theta not equal0; angle must be interpreted modulo2pi for a nonidentity rotation."
+    ],
+    "title": "Fixed point of a nonidentity planar rotation",
+    "pdf_page": 117,
+    "textbook_sections": []
+  },
+  {
+    "unclear": [],
+    "title": "Expressing the rigid motion as rotation about its fixed point",
+    "pdf_page": 118,
+    "textbook_sections": []
+  },
+  {
+    "unclear": [
+      "Small annotation after the coordinate pair is unclear."
+    ],
+    "title": "Parametric description of a plane curve",
+    "pdf_page": 119,
+    "textbook_sections": []
+  },
+  {
+    "unclear": [],
+    "title": "Circle parametrization and a curve in three dimensions",
+    "pdf_page": 120,
+    "textbook_sections": []
+  },
+  {
+    "textbook_sections": [],
+    "title": "Monomials for polynomial curves",
+    "unclear": [],
+    "pdf_page": 121
+  },
+  {
+    "textbook_sections": [],
+    "title": "Bézier curves: coordinate representation",
+    "unclear": [],
+    "pdf_page": 122
+  },
+  {
+    "textbook_sections": [],
+    "title": "Bézier curve as a weighted sum of control points",
+    "unclear": [
+      "Blending-function symbol rendered as theta from the handwriting; no explicit formula is supplied on this page."
+    ],
+    "pdf_page": 123
+  },
+  {
+    "textbook_sections": [],
+    "title": "Polynomial coefficients and change of basis",
+    "unclear": [
+      "Matrix entries and exact basis convention are not supplied."
+    ],
+    "pdf_page": 124
+  },
+  {
+    "textbook_sections": [
+      "14.6.3; Theorem14.6.4; printed p.566; PDF p.574"
+    ],
+    "title": "Binomial theorem and tangent vectors to a curve",
+    "unclear": [],
+    "pdf_page": 125
+  },
+  {
+    "unclear": [
+      "Incomplete algebraic fragment after x^3-x^2 is unclear."
+    ],
+    "title": "Logic and the definition of a proposition",
+    "textbook_sections": [
+      "1.1; printed p.5; PDF p.13",
+      "3.1; printed p.42; PDF p.50"
+    ],
+    "pdf_page": 126
+  },
+  {
+    "unclear": [
+      "Today is Monday requires fixed context; textbook clarification supplied."
+    ],
+    "title": "Propositions, self-reference, and propositional variables",
+    "textbook_sections": [
+      "1.1; printed p.5; PDF p.13",
+      "3.1; printed p.42; PDF p.50"
+    ],
+    "pdf_page": 127
+  },
+  {
+    "unclear": [],
+    "title": "Negation",
+    "textbook_sections": [
+      "3.1.1; printed p.42; PDF p.50"
+    ],
+    "pdf_page": 128
+  },
+  {
+    "unclear": [],
+    "title": "Conjunction, disjunction, and exclusive OR",
+    "textbook_sections": [
+      "3.1.1; printed pp.42–43; PDF pp.50–51"
+    ],
+    "pdf_page": 129
+  },
+  {
+    "unclear": [],
+    "title": "Implication and its contrapositive",
+    "textbook_sections": [
+      "3.1.2; printed pp.43–45; PDF pp.51–53",
+      "3.3.1; printed pp.48–49; PDF pp.56–57",
+      "3.1.3; printed p.45; PDF p.53"
+    ],
+    "pdf_page": 130
+  },
+  {
+    "textbook_sections": [
+      "3.3.1; printed pp.48–49; PDF pp.56–57",
+      "3.1.3; printed p.45; PDF p.53",
+      "1.4.1; printed p.10; PDF p.18 (inverse non-rule)"
+    ],
+    "pdf_page": 131,
+    "unclear": [
+      "Source pairs an implication with its inverse, not its contrapositive; distinction explicitly clarified."
+    ],
+    "title": "A conditional-language example and biconditional truth table"
+  },
+  {
+    "textbook_sections": [
+      "3.1; printed pp.42–45; PDF pp.50–53"
+    ],
+    "pdf_page": 132,
+    "unclear": [],
+    "title": "Syntax for forming compound propositions"
+  },
+  {
+    "textbook_sections": [
+      "3.1; printed pp.42–45; PDF pp.50–53",
+      "3.2.1; printed pp.46–47; PDF pp.54–55"
+    ],
+    "pdf_page": 133,
+    "unclear": [],
+    "title": "A nested compound proposition"
+  },
+  {
+    "textbook_sections": [
+      "1.4.1; printed p.10; PDF p.18"
+    ],
+    "pdf_page": 134,
+    "unclear": [],
+    "title": "Premises and conclusion of an argument"
+  },
+  {
+    "textbook_sections": [
+      "1.4.1; printed p.10; PDF p.18",
+      "3.3.2; printed p.50; PDF p.58"
+    ],
+    "pdf_page": 135,
+    "unclear": [],
+    "title": "Definition of a valid argument"
+  },
+  {
+    "pdf_page": 136,
+    "title": "Return to a Minkowski-sum sketch",
+    "textbook_sections": [],
+    "unclear": [
+      "Source does not specify circle versus filled disk, segment endpoints, or resulting boundary."
+    ]
+  },
+  {
+    "pdf_page": 137,
+    "title": "Expressing argument validity as an implication",
+    "textbook_sections": [
+      "1.4.1; printed p.10; PDF p.18",
+      "3.1.2; printed p.43; PDF p.51"
+    ],
+    "unclear": [
+      "Affirming-consequent argument has no source counterexample; textbook clarification supplies one."
+    ]
+  },
+  {
+    "pdf_page": 138,
+    "title": "Seven inference patterns",
+    "textbook_sections": [
+      "1.4.1; printed p.10; PDF p.18",
+      "3.1.1–3.1.2; printed pp.42–43; PDF pp.50–51",
+      "3.4.2; equations3.11–3.12; printed p.53; PDF p.61"
+    ],
+    "unclear": []
+  },
+  {
+    "pdf_page": 139,
+    "title": "General implication for an argument with many premises",
+    "textbook_sections": [
+      "1.4.1; printed p.10; PDF p.18",
+      "3.3.2; printed p.50; PDF p.58"
+    ],
+    "unclear": []
+  },
+  {
+    "pdf_page": 140,
+    "title": "Two argument examples and a short derivation",
+    "textbook_sections": [
+      "3.1.1; printed pp.42–43; PDF pp.50–51",
+      "1.4.1; printed p.10; PDF p.18",
+      "3.3.2; printed p.50; PDF p.58"
+    ],
+    "unclear": [
+      "Left argument has no verdict in source; it is invalid and added counterexample is labelled. Capital T interpreted as source propositional variable."
+    ]
+  },
+  {
+    "title": "Sound arguments",
+    "textbook_sections": [
+      "1.4.1; printed p.10; PDF p.18",
+      "3.3.2; printed p.50; PDF p.58"
+    ],
+    "unclear": [],
+    "pdf_page": 141
+  },
+  {
+    "title": "A satisfiability example",
+    "textbook_sections": [
+      "3.3.2; printed p.50; PDF p.58",
+      "3.1.1–3.1.2; printed pp.42–43; PDF pp.50–51"
+    ],
+    "unclear": [
+      "Small annotation beneath box unclear; no source evaluation. Added satisfying and falsifying assignments are labelled."
+    ],
+    "pdf_page": 142
+  },
+  {
+    "title": "Further inference patterns involving implications and equivalence",
+    "textbook_sections": [
+      "3.1.1–3.1.3; printed pp.42–45; PDF pp.50–53",
+      "3.3.1; printed p.49; PDF p.57",
+      "1.4.1; printed p.10; PDF p.18"
+    ],
+    "unclear": [],
+    "pdf_page": 143
+  },
+  {
+    "title": "Detailed derivation of a conjunction conclusion",
+    "textbook_sections": [
+      "1.4.1; printed p.10; PDF p.18",
+      "3.1.1; printed p.42; PDF p.50"
+    ],
+    "unclear": [],
+    "pdf_page": 144
+  },
+  {
+    "title": "Derivation using contraposition and implication chaining",
+    "textbook_sections": [
+      "1.4.1; printed p.10; PDF p.18",
+      "3.3.1; printed pp.48–49; PDF pp.56–57"
+    ],
+    "unclear": [
+      "Final step reference resembles circled1; correct dependency4and5 restored and labelled."
+    ],
+    "pdf_page": 145
+  },
+  {
+    "unclear": [
+      "Source gives premises and conclusion only; added derivation is labelled textbook clarification."
+    ],
+    "title": "An argument to derive t",
+    "pdf_page": 146,
+    "textbook_sections": [
+      "3.1.1; printed p.42; PDF p.50",
+      "3.3.1; printed pp.48–49; PDF pp.56–57",
+      "1.4.1; printed p.10; PDF p.18"
+    ]
+  },
+  {
+    "unclear": [],
+    "title": "Predicates and substitution examples",
+    "pdf_page": 147,
+    "textbook_sections": [
+      "1.2; printed p.8; PDF p.16",
+      "3.6; printed p.56 onward; PDF p.64 onward"
+    ]
+  },
+  {
+    "unclear": [
+      "Overlapping cross/check marks by existential x^2>x; valid witness x=2 supplied as labelled clarification."
+    ],
+    "title": "Universal and existential quantifiers",
+    "pdf_page": 148,
+    "textbook_sections": [
+      "3.6.1; printed pp.56–58; PDF pp.64–66",
+      "3.6.4; printed p.59; PDF p.67"
+    ]
+  },
+  {
+    "unclear": [],
+    "title": "Negating quantifiers",
+    "pdf_page": 149,
+    "textbook_sections": [
+      "3.6.5; equations3.19–3.20; printed pp.59–60; PDF pp.67–68"
+    ]
+  },
+  {
+    "unclear": [
+      "Source step2 uses x=a shorthand; clarified that a is an existential witness, not an arbitrary element."
+    ],
+    "title": "A predicate-logic argument using one existential witness",
+    "pdf_page": 150,
+    "textbook_sections": [
+      "3.6.1; printed pp.56–58; PDF pp.64–66",
+      "3.6.4; printed p.59; PDF p.67",
+      "1.4.1; printed p.10; PDF p.18",
+      "3.1.1; printed p.42; PDF p.50"
+    ]
+  }
+]

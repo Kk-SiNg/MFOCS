@@ -1,0 +1,330 @@
+{
+  "files": [
+    {
+      "file": "Part_01_pages_001-075.md",
+      "inline_delimiters": 0,
+      "display_delimiters": 0,
+      "multiline_inline_promoted": 0
+    },
+    {
+      "file": "Part_02_pages_076-150.md",
+      "inline_delimiters": 382,
+      "display_delimiters": 0,
+      "multiline_inline_promoted": 0
+    },
+    {
+      "file": "Part_03_pages_151-205.md",
+      "inline_delimiters": 414,
+      "display_delimiters": 191,
+      "multiline_inline_promoted": 1
+    },
+    {
+      "file": "Part_04_pages_206-221.md",
+      "inline_delimiters": 0,
+      "display_delimiters": 0,
+      "multiline_inline_promoted": 0
+    }
+  ],
+  "restored_math": [
+    {
+      "pdf_page": 151,
+      "before": "(p\\Rightarrow q)",
+      "after": "$p\\Rightarrow q$"
+    },
+    {
+      "pdf_page": 151,
+      "before": "(p)",
+      "after": "$p$"
+    },
+    {
+      "pdf_page": 151,
+      "before": "(q)",
+      "after": "$q$"
+    },
+    {
+      "pdf_page": 151,
+      "before": "(n)",
+      "after": "$n$"
+    },
+    {
+      "pdf_page": 151,
+      "before": "(k\\in\\mathbb Z)",
+      "after": "$k\\in\\mathbb Z$"
+    },
+    {
+      "pdf_page": 151,
+      "before": "(n=2k=2k+0)",
+      "after": "$n=2k=2k+0$"
+    },
+    {
+      "pdf_page": 151,
+      "before": "(k\\in\\mathbb Z)",
+      "after": "$k\\in\\mathbb Z$"
+    },
+    {
+      "pdf_page": 151,
+      "before": "(n=2k+1)",
+      "after": "$n=2k+1$"
+    },
+    {
+      "pdf_page": 152,
+      "before": "(n)",
+      "after": "$n$"
+    },
+    {
+      "pdf_page": 152,
+      "before": "(n^2)",
+      "after": "$n^2$"
+    },
+    {
+      "pdf_page": 152,
+      "before": "(n)",
+      "after": "$n$"
+    },
+    {
+      "pdf_page": 152,
+      "before": "(n=2k+1)",
+      "after": "$n=2k+1$"
+    },
+    {
+      "pdf_page": 152,
+      "before": "(k\\in\\mathbb Z)",
+      "after": "$k\\in\\mathbb Z$"
+    },
+    {
+      "pdf_page": 152,
+      "before": "(2k^2+2k)",
+      "after": "$2k^2+2k$"
+    },
+    {
+      "pdf_page": 152,
+      "before": "(n^2)",
+      "after": "$n^2$"
+    },
+    {
+      "pdf_page": 152,
+      "before": "(4k^2+4k+1)",
+      "after": "$4k^2+4k+1$"
+    },
+    {
+      "pdf_page": 152,
+      "before": "(2(2k^2+2k)+1)",
+      "after": "$2(2k^2+2k)+1$"
+    },
+    {
+      "pdf_page": 153,
+      "before": "(m,n)",
+      "after": "$m,n$"
+    },
+    {
+      "pdf_page": 153,
+      "before": "(mn)",
+      "after": "$mn$"
+    },
+    {
+      "pdf_page": 153,
+      "before": "(m=i^2)",
+      "after": "$m=i^2$"
+    },
+    {
+      "pdf_page": 153,
+      "before": "(n=j^2)",
+      "after": "$n=j^2$"
+    },
+    {
+      "pdf_page": 153,
+      "before": "(i,j\\in\\mathbb Z)",
+      "after": "$i,j\\in\\mathbb Z$"
+    },
+    {
+      "pdf_page": 153,
+      "before": "(ij\\in\\mathbb Z)",
+      "after": "$ij\\in\\mathbb Z$"
+    },
+    {
+      "pdf_page": 154,
+      "before": "(n\\in\\mathbb Z)",
+      "after": "$n\\in\\mathbb Z$"
+    },
+    {
+      "pdf_page": 154,
+      "before": "(n)",
+      "after": "$n$"
+    },
+    {
+      "pdf_page": 154,
+      "before": "(p)",
+      "after": "$p$"
+    },
+    {
+      "pdf_page": 154,
+      "before": "(q)",
+      "after": "$q$"
+    },
+    {
+      "pdf_page": 154,
+      "before": "(n)",
+      "after": "$n$"
+    },
+    {
+      "pdf_page": 154,
+      "before": "(n)",
+      "after": "$n$"
+    },
+    {
+      "pdf_page": 155,
+      "before": "(n=ab)",
+      "after": "$n=ab$"
+    },
+    {
+      "pdf_page": 155,
+      "before": "(a,b\\in\\mathbb Z^+)",
+      "after": "$a,b\\in\\mathbb Z^+$"
+    },
+    {
+      "pdf_page": 155,
+      "before": "(\\sqrt2)",
+      "after": "$\\sqrt2$"
+    },
+    {
+      "pdf_page": 155,
+      "before": "(p\\land\\neg p)",
+      "after": "$p\\land\\neg p$"
+    },
+    {
+      "pdf_page": 155,
+      "before": "(\\sqrt2)",
+      "after": "$\\sqrt2$"
+    },
+    {
+      "pdf_page": 156,
+      "before": "(\\sqrt2)",
+      "after": "$\\sqrt2$"
+    },
+    {
+      "pdf_page": 156,
+      "before": "(p^2)",
+      "after": "$p^2$"
+    },
+    {
+      "pdf_page": 156,
+      "before": "(p)",
+      "after": "$p$"
+    },
+    {
+      "pdf_page": 156,
+      "before": "(p=2r)",
+      "after": "$p=2r$"
+    },
+    {
+      "pdf_page": 156,
+      "before": "(q^2)",
+      "after": "$q^2$"
+    },
+    {
+      "pdf_page": 156,
+      "before": "(q)",
+      "after": "$q$"
+    },
+    {
+      "pdf_page": 156,
+      "before": "(\\gcd(p,q)\\ne1)",
+      "after": "$\\gcd(p,q)\\ne1$"
+    },
+    {
+      "pdf_page": 156,
+      "before": "(\\sqrt2)",
+      "after": "$\\sqrt2$"
+    },
+    {
+      "pdf_page": 156,
+      "before": "(p^2=nq^2\\Rightarrow p^2/q^2=n=m^2)",
+      "after": "$p^2=nq^2\\Rightarrow p^2/q^2=n=m^2$"
+    },
+    {
+      "pdf_page": 157,
+      "before": "(\\forall n\\,P(n))",
+      "after": "$\\forall n\\,P(n)$"
+    },
+    {
+      "pdf_page": 157,
+      "before": "(n\\in\\mathbb Z)",
+      "after": "$n\\in\\mathbb Z$"
+    },
+    {
+      "pdf_page": 157,
+      "before": "(1)",
+      "after": "$1$"
+    },
+    {
+      "pdf_page": 157,
+      "before": "(P(1))",
+      "after": "$P(1)$"
+    },
+    {
+      "pdf_page": 157,
+      "before": "(P(k)\\Rightarrow P(k+1))",
+      "after": "$P(k)\\Rightarrow P(k+1)$"
+    },
+    {
+      "pdf_page": 157,
+      "before": "(1)",
+      "after": "$1$"
+    },
+    {
+      "pdf_page": 157,
+      "before": "(n\\ge1)",
+      "after": "$n\\ge1$"
+    },
+    {
+      "pdf_page": 158,
+      "before": "(n\\ge1)",
+      "after": "$n\\ge1$"
+    },
+    {
+      "pdf_page": 158,
+      "before": "(n=1)",
+      "after": "$n=1$"
+    },
+    {
+      "pdf_page": 158,
+      "before": "(1)",
+      "after": "$1$"
+    },
+    {
+      "pdf_page": 160,
+      "before": "(n)",
+      "after": "$n$"
+    },
+    {
+      "pdf_page": 160,
+      "before": "(k)",
+      "after": "$k$"
+    },
+    {
+      "pdf_page": 160,
+      "before": "(1,2,3,\\ldots,k,k+1)",
+      "after": "$1,2,3,\\ldots,k,k+1$"
+    },
+    {
+      "pdf_page": 160,
+      "before": "(A)",
+      "after": "$A$"
+    },
+    {
+      "pdf_page": 160,
+      "before": "(B)",
+      "after": "$B$"
+    },
+    {
+      "pdf_page": 160,
+      "before": "(A=\\{1\\})",
+      "after": "$A=\\{1\\}$"
+    },
+    {
+      "pdf_page": 160,
+      "before": "(B=\\{2\\})",
+      "after": "$B=\\{2\\}$"
+    }
+  ]
+}

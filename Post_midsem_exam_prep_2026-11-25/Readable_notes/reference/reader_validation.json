@@ -1,0 +1,28 @@
+{
+  "articles": 221,
+  "rendered_math": 2240,
+  "math_errors": 0,
+  "title": "All 221 PDF pages transcribed",
+  "external_scripts": 0,
+  "external_stylesheets": 0,
+  "loaded_math_fonts": [
+    "KaTeX_AMS",
+    "KaTeX_Caligraphic",
+    "KaTeX_Main",
+    "KaTeX_Math",
+    "KaTeX_Size1",
+    "KaTeX_Size2",
+    "KaTeX_Size3",
+    "KaTeX_Size4"
+  ],
+  "font_loading_errors": [],
+  "unrendered_math_text": [],
+  "expected_math": 2240,
+  "desktop_formula_overflow": [],
+  "late_filter_pages": 61,
+  "fibonacci_search_pages": 4,
+  "jump_fragment": "#pdf-page-218",
+  "math_with_scripts_disabled": 2240,
+  "articles_with_scripts_disabled": 221,
+  "font_errors_with_scripts_disabled": []
+}

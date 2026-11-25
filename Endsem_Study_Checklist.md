@@ -1,233 +1,153 @@
-# CS208 (MFOCS) — Post-Midsem End-Sem Study Flow & Checklist
+# CS208 (MFOCS) — End-Sem Study Plan & Checklist (Anchored to `Readable_notes.html`)
 
-> **Pre-Midsem Boundary (Already Covered in `Study_material_before_mid_sems/cs208.pdf`):**
-> Sets, tuples, Cartesian products, basic functions & countability ($\mathbb{Q}$ vs $\mathbb{R}, \mathcal{P}(\mathbb{N})$), binary relations, equivalence relations & partitions, posets & order-preserving/reflecting maps, computational geometry (convexity, convex hull, Carathéodory's theorem, Bézier curves), propositional & predicate logic, and basic proof techniques (direct, contraposition, contradiction, ordinary induction).
->
-> **Post-Midsem Scope (This Checklist):**
-> Built from `Full_topic_list/2026-2-CS208-MFOCS_ Class Summary.md` (Classes 1–22, Oct 5 – Nov 12, 2026), extended with Lecture 20–21 handwritten notes in `Study_material_after_mid_sems/MFOCS_Notes_Aug-Nov_2026.pdf` (Nov 17–18, 2026, where Class 23 was left blank in the summary), and cross-referenced with `MCS_Textbook_Lehman_Leighton_Meyer.pdf`, `Tutorial_8`, `Tutorial_9`, `Tutorial_10` (Oct 12 tutorial), and `MfoxAssignSamar.pdf`.
+**Primary Source:** [Readable_notes.html](Post_midsem_exam_prep_2026-11-25/Readable_notes/Readable_notes.html) (and Markdown parts in [Readable_notes/parts/](Post_midsem_exam_prep_2026-11-25/Readable_notes/parts/) / [Page_index.md](Post_midsem_exam_prep_2026-11-25/Readable_notes/Page_index.md)) — covers what was taught in class across PDF pages **001–221**.
 
----
-
-## Overall Study Flow
-
-1. **Module 1: Advanced Induction & Well-Ordering** *(Picks up directly from pre-midsem Ordinary Induction)*
-2. **Module 2: Recursive Data Types & Structural Induction** *(Generalizes induction from $\mathbb{N}$ to strings, trees, expressions)*
-3. **Module 3: Cardinality Extensions & Combinatorics** *(Bijective counting, rules of counting, Pigeonhole, Inclusion–Exclusion)*
-4. **Module 4: Integer Functions, Sums, Products & Asymptotics** *(Algebraic & analytic toolkit needed before recurrences)*
-5. **Module 5: Recurrence Relations** *(Plug-and-chug, linear recurrences, Akra–Bazzi & Master Theorem)*
-6. **Module 6: Generating Functions** *(Unifies Combinatorics from Module 3 and Linear Recurrences from Module 5)*
-7. **Module 7: Graph Theory & Graph Coloring** *(Nov 17–18 lectures + verify Assignment 7 extras)*
+- **Phase 1 (Refresher — Pre-Midsem):** PDF pages **001–160**
+- **Phase 2 (Core Post-Midsem):** PDF pages **161–221** *(use the `Pages 161–221` filter button in the HTML reader)*
+- **Add-on Note:** Anything missing from `Readable_notes.html` (extra tutorial/assignment drills or unrecorded topics) will be appended later once the core flow is complete.
 
 ---
 
-## Progress Tracker
+## Master Flow Tracker
 
-- [ ] **Module 1:** Advanced Induction & Well-Ordering
-- [ ] **Module 2:** Recursive Data Types & Structural Induction
-- [ ] **Module 3:** Cardinality Extensions & Combinatorics
-- [ ] **Module 4:** Integer Functions, Sums, Products & Asymptotics
-- [ ] **Module 5:** Recurrence Relations
-- [ ] **Module 6:** Generating Functions
-- [ ] **Module 7:** Graph Theory & Graph Coloring
+### Phase 1: Pre-Midsem Refresher (Pages 001–160)
 
----
+- [ ] **R1:** Sets, Functions, Cardinality & Countability (pp. 001–030, 036–048)
+- [ ] **R2:** Binary Relations, Equivalence Relations & Posets (pp. 031–035, 049–080)
+- [ ] **R3:** Computational Geometry & Bézier Curves (pp. 081–125, 136)
+- [ ] **R4:** Logic, Rules of Inference & Basic Proof Techniques (pp. 126–160)
 
-## Module 1: Advanced Induction & Well-Ordering
+### Phase 2: Post-Midsem Curriculum (Pages 161–221)
 
-*Sources: Lectures 1–4 (Oct 5–8), Tutorial 7 (Oct 12, image in `Tutorial_10/`), Notes pp. 161–174, Textbook Ch. 1, 2, 5, `MfoxAssignSamar.pdf` Assignment 1*
-
-- [ ] **Proof Pitfalls & Mathematical Context (Light Review)**
-  - [ ] Invalid proof techniques: proof by sampling, proof by bullying, proof by insulting (identify bugs in bogus proofs)
-  - [ ] Proof by cases — illustrated via Ramsey number $R(3,3) = 6$ and extending to larger diagonal Ramsey numbers
-  - [ ] Conceptual context (no heavy memorization): open conjectures (Goldbach, Collatz, Pólya), Strassen's matrix multiplication, Russell's paradox, Gödel's incompleteness, Turing undecidability
-- [ ] **Strong Induction**
-  - [ ] Canonical structure of a strong induction proof (base case(s), strong hypothesis $\forall j \le k, P(j)$, inductive step)
-  - [ ] Comparison with ordinary induction (when strong induction is cleaner/necessary)
-  - [ ] Example: Existence of prime factorization for all integers $n \ge 2$
-  - [ ] Example: Constructing any weight $n \ge 8$ kg using $3$ kg and $5$ kg weights (formal multi-base-case proof)
-- [ ] **Well-Ordering Principle (WOP)**
-  - [ ] Formal statement of WOP and canonical proof template (assume nonempty set $C$ of counterexamples $\implies$ take least element $m \in C \implies$ derive contradiction)
-  - [ ] Example: Existence of prime factorization via WOP
-  - [ ] Example: Sum of first $n$ non-negative integers via WOP
-  - [ ] Example: Non-existence of positive integer solutions to Diophantine equations (e.g., $4a^3 + 2b^3 = c^3$)
-- [ ] **Equivalence of Ordinary Induction, Strong Induction & WOP**
-  - [ ] Understand why all three proof methods are logically equivalent
-  - [ ] Convert a WOP proof into an induction/strong induction proof (and vice versa)
-  - [ ] **Practice:** `Tutorial_10` (Oct 12 Tutorial 1/7) Q1–Q6; `MfoxAssignSamar.pdf` Assignment 1 Q1–Q8
+- [ ] **Stage 1:** Proof Pitfalls, Proof by Cases, Strong Induction & Well-Ordering (pp. 161–174)
+- [ ] **Stage 2:** Recursive Data Types, Fast-Growing Functions & Structural Induction (pp. 175–188)
+- [ ] **Stage 3:** Arrow Relations, Explicit Bijections & Basic Counting Rules (pp. 189–200)
+- [ ] **Stage 4:** Pigeonhole Principle, Inclusion–Exclusion & Combinatorial Proofs (pp. 200–202)
+- [ ] **Stage 5:** Sums, Products, Stirling, Floor/Ceiling/Modulo & Iverson Brackets (pp. 203–208)
+- [ ] **Stage 6:** Modelling Recurrences & Linear Recurrences (pp. 209–212)
+- [ ] **Stage 7:** Divide-and-Conquer Recurrences — Akra–Bazzi & Master Theorem (pp. 213–214)
+- [ ] **Stage 8:** Generating Functions & Formal Power Series (pp. 215–218)
+- [ ] **Stage 9:** Graph Definitions, Isomorphism & Graph Coloring (pp. 219–221)
 
 ---
 
-## Module 2: Recursive Data Types & Structural Induction
+## Phase 1: Pre-Midsem Refresher (Pages 001–160)
 
-*Sources: Lectures 5–7 (Oct 13–15), Tutorial 8 Q1–Q3 (Nov 2), Notes pp. 175–188, Textbook Ch. 6, `MfoxAssignSamar.pdf` Assignment 4 Q1–Q3*
+### R1. Sets, Functions, Cardinality & Countability (`pp. 001–030`, `036–048`)
 
-- [ ] **Recursive Data Types (RDTs)**
-  - [ ] Structure of an RDT: base case(s) + constructor case(s)
-  - [ ] Standard examples: non-negative integers $\mathbb{N}$, character strings $A^*$, binary trees, matched parentheses strings, arithmetic expressions, two-player complete-information games
-  - [ ] Writing recursive definitions for sets (e.g., $\{2^k 3^m 5^n\}$, $\{(a,b) \in \mathbb{Z}^2 \mid 3 \mid (a-b)\}$)
-- [ ] **Recursive Functions & Fast-Growing Hierarchies**
-  - [ ] Defining recursive functions over $\mathbb{N}$ and spotting ill-formed / non-terminating definitions (e.g., Collatz-like definitions)
-  - [ ] **Ackermann function**: recursive definition and super-primitive-recursive growth rate
-  - [ ] **Hyperoperations & Knuth's up-arrow notation**: successor $\to$ addition $\to$ multiplication $\to$ exponentiation $\to$ tetration $\to$ pentation $\to$ hexation
-  - [ ] Conceptual awareness: Graham's number and lower bounds on $\text{TREE}(3)$
-- [ ] **Structural Induction**
-  - [ ] Formal definition and template of structural induction over an RDT
-  - [ ] Character strings $A^*$ as an RDT: length, concatenation $s \cdot t$, reversal $\text{rev}(s)$, character count $\#_c(s)$
-  - [ ] Proofs via structural induction: $\text{rev}(s \cdot t) = \text{rev}(t) \cdot \text{rev}(s)$, $\#_c(s \cdot t) = \#_c(s) + \#_c(t)$, associativity of concatenation
-- [ ] **Arithmetic Expressions (`Aexp`) & Evaluation Models**
-  - [ ] Recursive definition of `Aexp` (variables, constants, $+$, $*$, unary $-$)
-  - [ ] Recursive definitions of `eval` and substitution `subst` over `Aexp`
-  - [ ] **Substitution model vs. Environment model** of evaluation (pros, cons, trace examples)
-  - [ ] Equivalence proof between Substitution and Environment models using structural induction
-  - [ ] **Practice:** `Tutorial_8` Q1–Q3; `MfoxAssignSamar.pdf` Assignment 4 Q1–Q3
+- [ ] **Sets & Products** (`pp. 001–005`): membership, equality, subsets ($\subseteq$ vs. $\subset$), complement $\overline{A}$, ordered $n$-tuples, Cartesian products $A_1 \times \dots \times A_n$
+- [ ] **Functions & Invertibility** (`pp. 006–010`): domain, codomain, range, image/preimage; injective, surjective, bijective; inverse $f^{-1}$ exists iff bijective; necessary vs. sufficient phrasing
+- [ ] **Comparing Cardinalities & Interval Bijections** (`pp. 011–014`, `036–048`):
+  - [ ] Injection $\implies |A|\le|B|$, surjection $\implies |A|\ge|B|$, bijection $\implies |A|=|B|$
+  - [ ] Scaling/linear maps: $[0,1]\to[0,10]$ ($10x$), $(0,1)\to(a,b)$ ($(1-x)a+xb$), $\mathbb{N}\to 2\mathbb{N}$ ($2x$)
+  - [ ] Calculus/composition bijections: $(0,1)\to\mathbb{R}$ via $\tan(\pi x - \pi/2)$; $\mathbb{R}\to\mathbb{R}^+$ via $e^x$; $[0,1]\to\mathbb{R}$ by composition
+  - [ ] Tutorial 1 chain shifts: $[0,1)\to(0,1)$, $(0,1]\to(0,1)$, $[0,1]\to(0,1)$ (two disjoint chains $1/2^n, 1/3^n$), $\mathbb{R}^+\to\mathbb{R}^+\cup\{0\}$, $[0,1]\cup(2,3]\to[0,1]$
+- [ ] **Countability & Diagonalization** (`pp. 015–030`):
+  - [ ] Subsets of countable sets are countable
+  - [ ] Diagonal enumeration of $X\times Y$, $\mathbb{Q}$, finite products, and countable unions of countable sets
+  - [ ] Finite sequences and finite subsets of $\mathbb{N}$ are countable
+  - [ ] Uncountability via contradiction/diagonalization: $\mathcal{P}(\mathbb{N})$ (labelled vs. unlabelled), infinite binary sequences $\{0,1\}^\mathbb{N}$, and $\mathbb{R}$ ($t \mapsto 0.t$ decimal injection)
 
----
+### R2. Binary Relations, Equivalence Relations & Posets (`pp. 031–035`, `049–080`)
 
-## Module 3: Cardinality Extensions & Combinatorics
+- [ ] **Relation Properties** (`pp. 031–035`, `049`): $R \subseteq A \times B$, reflexive, symmetric, antisymmetric, transitive (plus counterexamples like $\|x-y\|<1$, consecutive integers, orthogonality)
+- [ ] **Equivalence Relations & Partitions** (`pp. 050–071`):
+  - [ ] Equivalence classes $[a]$, congruence mod 5, geometric norm examples ($\|x\|=\|y\|$, $|x|_1=|y|_1$)
+  - [ ] Fundamental equivalence: $aRb \iff [a]=[b] \iff [a]\cap[b]\neq\emptyset$, and partition $\leftrightarrow$ equivalence relation correspondence
+- [ ] **Partial Orders & Refinement Poset** (`pp. 052–054`, `059`, `072–080`):
+  - [ ] Poset axioms (reflexive, antisymmetric, transitive): $(\mathbb{Z}^+, \mid)$, $(\mathcal{P}(S),\subseteq)$, infinite binary sequences
+  - [ ] Finer relation ($R_1 \sim R_2$ iff $aR_1b \implies aR_2b$) forms a poset $(M, \sim)$ on equivalence relations
+  - [ ] Comparable elements vs. total orders (chains)
+  - [ ] Order-preserving (monotone) maps & composition; order-reflecting maps imply injectivity (`p. 080`)
 
-*Sources: Lectures 8–10 (Oct 21–26), Tutorial 8 Q4–Q9 (Nov 2), Notes pp. 189–202, Textbook Ch. 7.1 & Ch. 14, `MfoxAssignSamar.pdf` Assignment 5 Q1–Q7*
+### R3. Computational Geometry & Bézier Curves (`pp. 081–125`, `136`)
 
-- [ ] **Cardinality Bridge (From Pre-Midsem `cs208.pdf` L2–L5)**
-  - [ ] Arrow interpretation of binary relations: total, function, injective, surjective, bijective
-  - [ ] Mapping Lemma relating $|A|$ and $|B|$ via surjections, total injections, and bijections (finite & infinite sets)
-  - [ ] Explicit bijections $\mathbb{N} \leftrightarrow \mathbb{Q}$: **Cantor pairing function** and **Stern–Brocot tree**
-- [ ] **Fundamental Counting Principles**
-  - [ ] **Bijection Rule**: translating a problem to bit strings / canonical objects (e.g., 12 ice-creams from 5 flavors $\leftrightarrow$ 16-bit strings with four 1s $\implies \binom{16}{4}$)
-  - [ ] Recognizing overcounting pitfalls (distinct vs. indistinguishable slots — why $5^{12}$ fails for unordered ice-cream scoops; distinct vs. indistinguishable meals)
-  - [ ] **Sum Rule** (for disjoint sets)
-  - [ ] **Product Rule** & **Generalized Product Rule** (e.g., passwords of length 6–8, grid paths)
-  - [ ] **Division Rule** ($k$-to-$1$ functions; e.g., circular seating of $n$ people around a round table)
-- [ ] **Binomial, Multinomial & Combinatorial Proofs**
-  - [ ] Binomial coefficients $\binom{n}{k}$, Binomial Theorem, Pascal's identity & Pascal's triangle
-  - [ ] Multinomial coefficients $\binom{n}{k_1, k_2, \dots, k_m}$ and Multinomial Theorem
-  - [ ] **Combinatorial proofs** (double counting / story proofs — e.g., symmetry $\binom{n}{r}=\binom{n}{n-r}$, Vandermonde's identity)
-- [ ] **Pigeonhole Principle**
-  - [ ] Standard Pigeonhole Principle & Generalized Pigeonhole Principle ($\ge \lceil n/m \rceil$ and $\le \lfloor n/m \rfloor$ Dirichlet box principle)
-  - [ ] Classic applications: subset-sum with equal sums, hairs-on-heads, pairs differing by $2$, contiguous subsequence divisible by $100$
-- [ ] **Inclusion–Exclusion Principle**
-  - [ ] Formula for 2, 3, and $n$ sets ($|\bigcup_{i=1}^n S_i|$) and indicator-set / binomial-sum proof
-  - [ ] Applications: divisibility counts, forbidden digit/pattern counts (e.g., integers in $[1, 10^9]$ containing digit 1, avoiding patterns `60`, `04`, `42`)
-  - [ ] **Practice:** `Tutorial_8` Q4–Q9; `MfoxAssignSamar.pdf` Assignment 4 Q6 & Assignment 5 Q1–Q7
+- [ ] **Convex Sets & Convex Hulls** (`pp. 081–096`): line-segment vs. line-intersection convexity, $rp+(1-r)q$, convex combinations stay in convex sets, 3 equivalent definitions of $\text{Conv}(S)$
+- [ ] **Carathéodory's Theorem** (`pp. 097–108`): Reduction lemma ($d$ points for conic combinations) and Carathéodory ($d+1$ points for convex combinations via lifting $(x,1)\in\mathbb{R}^{d+1}$)
+- [ ] **Planar Hulls, Minkowski Sums & Rigid Motions** (`pp. 109–118`, `136`): Graham scan (left-turn determinant), gift-wrapping, Minkowski sum $A\oplus B$, distance-preserving maps and rotations about fixed point
+- [ ] **Parametric & Bézier Curves** (`pp. 119–125`): circle/3D curves, monomial vs. Bernstein basis, control-point weighted sums, tangent vectors
+
+### R4. Logic, Inference & Proof Techniques (`pp. 126–160`)
+
+- [ ] **Propositional Logic** (`pp. 126–133`): propositions, $\neg,\land,\lor,\oplus,\Rightarrow,\Leftrightarrow$, converse/contrapositive/inverse, compound expressions
+- [ ] **Arguments, Validity & Inference** (`pp. 134–146`): valid vs. sound arguments, satisfiability, inference rules (modus ponens, chaining, De Morgan, etc.) & step-by-step derivations
+- [ ] **Predicate Logic** (`pp. 147–150`): predicates, $\forall,\exists$, De Morgan's laws for quantifiers, witness-based existential proofs
+- [ ] **Core Proof Techniques** (`pp. 151–160`):
+  - [ ] Direct proof (parity, product of squares)
+  - [ ] Contraposition ($3n+2$ odd $\implies n$ odd)
+  - [ ] Contradiction ($a\le\sqrt{n}$ or $b\le\sqrt{n}$, $\sqrt{2}$ irrational)
+  - [ ] Ordinary mathematical induction ($P(1)$ + $P(k)\Rightarrow P(k+1)$, sum formulas, $2^n < n!$, faulty same-color balls induction failing at $k=1$)
 
 ---
 
-## Module 4: Integer Functions, Sums, Products & Asymptotics
+## Phase 2: Post-Midsem Curriculum (Pages 161–221)
 
-*Sources: Lectures 11–13 (Oct 27–29), Notes pp. 203–208, Textbook Ch. 13, `MfoxAssignSamar.pdf` Assignment 4 Q4–Q8 & Assignment 5 Q8–Q9*
+### Stage 1. Proof by Cases, Strong Induction & Well-Ordering (`pp. 161–174`)
 
-- [ ] **Integer Functions (`floor`, `ceil`, `mod`)**
-  - [ ] Definitions of $\lfloor x \rfloor$, $\lceil x \rceil$, fractional part $\{x\} = x - \lfloor x \rfloor$, and $x \bmod y = x - y\lfloor x/y \rfloor$ (including negative $x$ or $y$)
-  - [ ] Core inequalities & identities: $\lfloor -x \rfloor = -\lceil x \rceil$, $\lfloor x+n \rfloor = \lfloor x \rfloor + n$ ($n \in \mathbb{Z}$), characterizations ($n \le x < n+1$), bit-length $\lfloor \lg n \rfloor + 1 = \lceil \lg(n+1) \rceil$
-  - [ ] Nested floor/ceiling identities: $\lfloor \sqrt{\lfloor x \rfloor} \rfloor = \lfloor \sqrt{x} \rfloor$, $\lceil \sqrt{\lceil x \rceil} \rceil = \lceil \sqrt{x} \rceil$, $\lfloor f(x) \rfloor = \lfloor f(\lfloor x \rfloor) \rfloor$ criterion, $\lfloor (x+m)/n \rfloor = \lfloor (\lfloor x \rfloor + m)/n \rfloor$
-- [ ] **Evaluating & Bounding Series Sums**
-  - [ ] **Perturbation method** for closed-form sums (geometric series, $\sum i x^i$, $\sum (-1)^{n-k} k^2$)
-  - [ ] **Integral Method** for upper & lower bounds on weakly increasing / weakly decreasing functions
-  - [ ] Example: Upper and lower bounds on $\sum_{i=1}^n \sqrt{i} = \Theta(n^{3/2})$
-  - [ ] **Harmonic numbers** $H_n = \sum_{k=1}^n \frac{1}{k}$ and bounds $\frac{1}{n} + \ln n \le H_n \le \ln n + 1$
-  - [ ] **Multiple sums & swapping summation order** (e.g., $\sum_{k=1}^n H_k = (n+1)H_n - n$)
-- [ ] **Iverson's Bracket**
-  - [ ] Definition $[P]$ ($1$ if $P$ is true, $0$ otherwise) and manipulating summation limits
-  - [ ] Computing exact closed form for $\sum_{0 \le k < n} \lfloor \sqrt{k} \rfloor$
-  - [ ] Using $\sum \lfloor \sqrt{k} \rfloor$ to get a tighter lower bound on $\sum \sqrt{k}$ than the Integral Method
-- [ ] **Products & Factorial Bounds**
-  - [ ] Converting products to sums via logarithms: $\ln\left(\prod f(i)\right) = \sum \ln f(i)$
-  - [ ] Bounding $n!$ via integral of $\ln x$ and **Stirling's approximation** ($n! \sim \sqrt{2\pi n}(n/e)^n$, error bounds)
-- [ ] **Asymptotic Notation** *(Appears in Lecture 16, Textbook Ch. 13.7, and `MfoxAssignSamar.pdf` Assignment 5 Q8–Q9)*
-  - [ ] Formal definitions of $O(g)$, $\Omega(g)$, $\Theta(g)$, and $\sim$ (asymptotic equivalence)
-  - [ ] Finding witnesses $(c, n_0)$ to prove $f = O(g)$ and disproving false asymptotic claims (e.g., $(n+1)!$ vs $n!$)
-  - [ ] **Practice:** `MfoxAssignSamar.pdf` Assignment 4 Q4, Q5, Q7, Q8 & Assignment 5 Q8, Q9
+- [ ] Proof pitfalls (sampling, bullying, insulting comments) (`p. 161`)
+- [ ] Proof by cases & Ramsey numbers ($R(3,3)=6$ proof and larger Ramsey numbers) (`pp. 162–163`)
+- [ ] Strong induction vs. ordinary induction (`pp. 164–166`)
+- [ ] Prime factorization existence by strong induction (`p. 165`) and $3\text{ kg}/5\text{ kg}$ weights $\ge 8\text{ kg}$ (`pp. 167–168`, `172–173`)
+- [ ] Well-Ordering Principle (WOP) template: prime factorization (`pp. 169–171`) and sum formula (`p. 174`)
+- [ ] Equivalence of ordinary induction, strong induction, and WOP (`p. 174`)
 
----
+### Stage 2. Recursive Data Types & Structural Induction (`pp. 175–188`)
 
-## Module 5: Recurrence Relations
+- [ ] Recursive objects: base cases + constructors (`p. 175`)
+- [ ] Well-defined vs. ill-formed recursions on $\mathbb{N}$ (missing base case, growing args, overlapping cases, Collatz) (`pp. 176–177`)
+- [ ] Fast-growing functions & context: Ackermann function (`p. 178`), repeated operations, tetration, pentation, Knuth arrows, hyperoperations, Graham's number, $\text{TREE}(3)$ (`pp. 179–180`, `186–187`)
+- [ ] Recursive strings $A^*$ and formal structural induction (`pp. 181–183`) + length of concatenated strings (`p. 184`)
+- [ ] Arithmetic expressions (`Aexp`): recursive definition, `eval`, `subs`, substitution vs. environment models & equivalence (`pp. 185`, `188`)
 
-*Sources: Lectures 14–16 (Nov 3–5), Tutorial 9 Q1 (Nov 12), Notes pp. 209–214, Textbook Ch. 21, `MfoxAssignSamar.pdf` Assignment 6 Q1*
+### Stage 3. Arrow Relations, Explicit Bijections & Counting Rules (`pp. 189–200`)
 
-- [ ] **Formulating & Solving Basic Recurrences**
-  - [ ] Translating recursive algorithms/problems into recurrences + induction verification
-  - [ ] **Josephus problem**: recurrence $J(1)=1, J(2n)=2J(n)-1, J(2n+1)=2J(n)+1$ and closed form $J(2^m+\ell) = 2\ell + 1$
-  - [ ] **Guess-and-Verify** method (pattern spotting $\to$ proof by induction) — Tower of Hanoi ($T_n = 2T_{n-1}+1$)
-  - [ ] **Expansion / Plug-and-Chug** method — Merge Sort ($T_n = 2T_{n/2} + n - 1$) and general divide-and-conquer recurrences
-- [ ] **Linear Recurrences**
-  - [ ] **Homogeneous linear recurrences**: characteristic polynomial, distinct roots (Fibonacci & Binet's formula), repeated roots of multiplicity $k$ ($r^n, nr^n, \dots, n^{k-1}r^n$)
-  - [ ] **Inhomogeneous linear recurrences**: general solution = homogeneous + particular solution
-  - [ ] Method of undetermined coefficients for particular solutions ($g(n) = c$, polynomial, exponential $a^n$; modified Tower of Hanoi where move cost depends on disk size)
-- [ ] **Divide-and-Conquer Recurrences**
-  - [ ] **Akra–Bazzi Theorem & Formula**:
-    - Form $T(x) = \sum_{i=1}^k a_i T(b_i x + h_i(x)) + g(x)$ (verify $a_i > 0$, $b_i \in (0,1)$, $|h_i(x)| = O(x/\log^2 x)$, growth condition on $g$)
-    - Solve $\sum_{i=1}^k a_i b_i^p = 1$ for $p$ and evaluate $T(n) = \Theta\left(n^p\left(1 + \int_1^n \frac{g(u)}{u^{p+1}}\,du\right)\right)$
-    - Why boundary conditions and $\lfloor \cdot \rfloor / \lceil \cdot \rceil$ perturbations $h_i(n)$ don't affect asymptotic bounds
-  - [ ] **Master Theorem** as a special-case corollary of Akra–Bazzi (all 3 cases)
-  - [ ] **Big Picture**: comparing how the number of subproblems vs. subproblem size affects linear & divide-and-conquer asymptotic behavior
-  - [ ] **Practice:** `Tutorial_9` Q1(a)–(c); `MfoxAssignSamar.pdf` Assignment 6 Q1(a)–(c)
+- [ ] Relations as arrow diagrams: total, function, injective, surjective, bijective (`pp. 189–191`)
+- [ ] Mapping rules for finite sets (`surj`, `inj`, `bij`) & cardinality of infinite sets (`pp. 192–195`, `197`)
+- [ ] Enumerating $\mathbb{Q}$: Cantor pairing function (`p. 195`) and Stern–Brocot mediant fractions (`p. 197`)
+- [ ] Bijection rule & stars-and-bars: 12 ice-creams from 5 flavours ($\binom{16}{4}$) vs. ordered $5^{12}$ (`pp. 196`, `198–199`)
+- [ ] Counting rules (sum, product, generalized product, division / $k$-to-1), grid paths (`p. 200`)
 
----
+### Stage 4. Pigeonhole, Inclusion–Exclusion & Combinatorial Proofs (`pp. 200–202`)
 
-## Module 6: Generating Functions
+- [ ] Pigeonhole Principle: hairs-on-heads example (`p. 200`) and subsets with the same sum (`p. 201`)
+- [ ] Inclusion–Exclusion Principle: 2–3 set examples, divisibility, $n$-set formula and indicator proof (`p. 202`)
+- [ ] Combinatorial proofs & binomial identities (symmetry, Vandermonde-style identity, Pascal's identity/triangle) (`p. 202`)
 
-*Sources: Lectures 17–19 (Nov 9–11), Tutorial 9 Q2–Q5 (Nov 12), Notes pp. 215–218, Textbook Ch. 15, `MfoxAssignSamar.pdf` Assignment 6 Q2–Q5*
+### Stage 5. Sums, Products, Integer Functions & Iverson Brackets (`pp. 203–208`)
 
-- [ ] **Ordinary Generating Functions (OGFs) Basics**
-  - [ ] Sequence $(a_0, a_1, \dots) \leftrightarrow F(x) = \sum_{n=0}^\infty a_n x^n$ and coefficient extractor $[x^n]F(x)$
-  - [ ] Core closed-form identities: $\frac{1}{1-x}$, $\frac{1}{1-ax}$, $\frac{1}{(1-x)^2}$, $\frac{1}{(1-x)^k} = \sum \binom{n+k-1}{n} x^n$, $(1+x)^m$, finite sums $\frac{1-x^{k+1}}{1-x}$, even/odd powers $\frac{1}{1-x^2}$
-  - [ ] Prefix-sum trick: if $A(x)$ generates $(a_n)$, then $\frac{A(x)}{1-x}$ generates $\left(\sum_{k=0}^n a_k\right)$
-- [ ] **Convolution Rule & Counting Applications**
-  - [ ] Product of GFs = convolution: $[x^n](A(x)B(x)) = \sum_{k=0}^n a_k b_{n-k}$
-  - [ ] Modeling constrained selection problems (e.g., 87 ice-creams / "Super Sam's mishaps" with parity, multiple, and upper-bound constraints)
-  - [ ] Deriving the Binomial Theorem via convolution / product of $(1+x)$ factors
-- [ ] **Partial Fractions Decomposition**
-  - [ ] Expressing rational OGFs $P(x)/Q(x)$ as sums of partial fractions
-  - [ ] Handling distinct roots $\frac{c_i}{1-\alpha_i x}$ and repeated roots $\frac{c}{(1-\alpha x)^r}$ to extract closed-form $[x^n]$
-- [ ] **Solving Linear Recurrences via Generating Functions**
-  - [ ] Homogeneous recurrences (e.g., Fibonacci sequence)
-  - [ ] Non-homogeneous recurrences (e.g., Tower of Hanoi after establishing $T_n = 2T_{n-1}+1$ via upper & lower bounds; ViralTube / $r_n = 7r_{n-1} + n + 1$)
-- [ ] **Formal Power Series (Ring of Power Series)**
-  - [ ] Treating generating functions algebraically even when coefficients diverge (e.g., $n!$ and $n \cdot n!$)
-  - [ ] Deriving iterative identities (e.g., $n! = 1 + \sum_{i=1}^n (i-1)(i-1)!$) via power-series manipulation
-  - [ ] **Practice:** `Tutorial_9` Q2–Q5; `MfoxAssignSamar.pdf` Assignment 6 Q2–Q5
+- [ ] Geometric sums, $\sum i x^i$, polynomial-fit sums, integral bounds ($\sum\sqrt{i}$), harmonic numbers $H_n$ (`p. 203`)
+- [ ] Products via logarithms, factorial bounds, Stirling's formula, and double sums ($\sum_{k=1}^n H_k$) (`p. 204`)
+- [ ] Floor $\lfloor x \rfloor$, ceiling $\lceil x \rceil$, fractional part $\{x\}$: interval characterizations, negation, nested floor/ceiling identities (`pp. 205–206`)
+- [ ] Modulo arithmetic $x \bmod y$ including negative signs (`pp. 206–207`)
+- [ ] Iverson brackets $[P]$: rewriting bounds, nested log-sum example, closed form for $\sum \lfloor \sqrt{k} \rfloor$ & tighter lower bound on $\sum \sqrt{k}$ (`pp. 207–208`)
+
+### Stage 6. Modelling Recurrences & Linear Recurrences (`pp. 209–212`)
+
+- [ ] Josephus problem recurrences & closed form; Tower of Hanoi and Merge Sort via guess-and-verify / plug-and-chug (`pp. 209–210`)
+- [ ] Homogeneous linear recurrences: characteristic polynomial, distinct roots (Fibonacci / Binet's formula), repeated roots (`p. 211`)
+- [ ] Nonhomogeneous linear recurrences: homogeneous + particular solution & particular-solution guesses (`pp. 212–213`)
+
+### Stage 7. Divide-and-Conquer Recurrences (`pp. 213–214`)
+
+- [ ] Akra–Bazzi formula & conditions ($a_i, b_i, h_i(n), g(n)$, solving $\sum a_i b_i^p = 1$, integral formula) (`pp. 213–214`)
+- [ ] Floor/ceiling perturbation invariance, Master theorem as a corollary, and recurrence growth big picture (`p. 214`)
+
+### Stage 8. Generating Functions & Formal Power Series (`pp. 215–218`)
+
+- [ ] Ordinary generating functions (OGFs), modeling constrained selections, and convolution / product rule (`pp. 215–216`)
+- [ ] Rational generating functions, ice-cream calculation, partial fractions (distinct & repeated roots), and deriving the binomial theorem (`pp. 216–217`)
+- [ ] Solving linear recurrences via OGFs (Fibonacci, Tower of Hanoi) and formal factorial power series ($n! = 1 + \sum_{i=1}^n (i-1)(i-1)!$) (`p. 218`)
+
+### Stage 9. Graph Definitions, Isomorphism & Graph Coloring (`pp. 219–221`)
+
+- [ ] Undirected simple graphs vs. directed graphs, adjacency, vertex degrees, Handshaking theorem, bipartite average-degree relation (`p. 219`)
+- [ ] Standard graphs ($K_n$, path/"line" graph, cycle $C_n$) and Graph Isomorphism (equivalence relation, bijection preserving edges) (`p. 219`)
+- [ ] Assessment/book notes (`p. 220`)
+- [ ] Proper vertex coloring, $k$-colorability, chromatic number $\chi(G)$ ($C_{\text{even}}$, $C_{\text{odd}}$, $K_n$, bipartite graphs) (`p. 221`)
+- [ ] SAT / complexity remarks and inductive proof of $\chi(G) \le \Delta(G) + 1$ (`p. 221`)
 
 ---
 
-## Module 7: Graph Theory & Graph Coloring
+## Later Add-Ons *(If Needed After Core Flow)*
 
-*Sources: Lectures 20–21 in `MFOCS_Notes_Aug-Nov_2026.pdf` (Nov 17–18, pp. 219–221 — Class 23 was blank in `Class Summary.md`), Textbook Ch. 11 (and Ch. 9.6/9.9), `MfoxAssignSamar.pdf` Assignment 7*
-
-### Part A: Directly Covered in Nov 17–18 Lecture Notes (pp. 219–221)
-
-- [ ] **Graph Fundamentals & Degrees**
-  - [ ] Undirected simple graphs vs. directed graphs; $G = (V, E)$, $|V| \ge 1$, $|E| \ge 0$, adjacent vertices, $\deg(v)$
-  - [ ] Average degree across two partitions $X, Y$: $\text{avg deg}(X) = \frac{|Y|}{|X|} \text{avg deg}(Y)$
-  - [ ] **Handshaking Theorem**: $\sum_{v \in V(G)} \deg(v) = 2|E(G)|$ (and parity corollary)
-- [ ] **Standard Graph Families & Isomorphism**
-  - [ ] Complete graph $K_n$ ($|E| = \binom{n}{2} = \frac{n(n-1)}{2}$), path/line graph, cycle graph $C_n$
-  - [ ] **Graph Isomorphism**: definition ($\exists$ bijection $f: V(G) \to V(H)$ preserving adjacency), proving isomorphism is an equivalence relation, checking/disproving isomorphism (e.g., $C_5$ vs. 5-pointed star)
-- [ ] **Graph Coloring & Bipartite Graphs**
-  - [ ] $k$-colorable graphs and **chromatic number** $\chi(G)$
-  - [ ] Key chromatic numbers: $\chi(C_{\text{even}}) = 2$, $\chi(C_{\text{odd}}) = 3$, $\chi(K_n) = n$
-  - [ ] **Bipartite graphs**: definition and $\chi(G) = 2$ (for bipartite graphs with at least one edge)
-  - [ ] Computational hardness note: $k$-coloring / SAT as NP-complete; distributed & online graph coloring
-  - [ ] **Degree-Bound Coloring Theorem**: Any graph with maximum degree $\Delta \le n$ is $(n+1)$-colorable — **proof by induction on the number of vertices $|V|$**
-
-### Part B: Additional Topics in `MfoxAssignSamar.pdf` Assignment 7 *(Confirm if taught in classes after Nov 18)*
-
-- [ ] **Connectivity & Graph Complements** (`Assignment 7` Q1)
-  - [ ] Graph complement $G'$; proving if $G$ is disconnected then $G'$ is connected
-  - [ ] Connected graph on $n$ vertices has $\ge n-1$ edges; $> \binom{n-1}{2}$ edges implies $G$ is connected
-- [ ] **Graph Coloring Scheduling Application** (`Assignment 7` Q2)
-  - [ ] Modeling conflict graphs and finding minimum time slots via $\chi(G)$
-- [ ] **Walks, Paths & Hamiltonian Cycles** (`Assignment 7` Q3)
-  - [ ] Counting length-$n$ walks/paths in $K_n$ (with repetition, no consecutive edge reuse, Hamiltonian cycles) & TSP brute-force timing
-- [ ] **Weighted Graphs & Prim's MST** (`Assignment 7` Q4)
-  - [ ] Step-by-step Minimum Spanning Tree construction using Prim's algorithm
-- [ ] **Order Relations & Hasse Diagrams (Pre-Midsem Extension)** (`Assignment 7` Q5; Textbook Ch. 9.6, 9.9)
-  - [ ] Drawing Hasse diagrams for posets (divisibility, power-set inclusion)
-  - [ ] Proving product order $\mu$ on $S \times T$ is a partial order
-
----
-
-## Final Pre-Exam Consolidation Pass
-
-- [ ] Re-solve all problems from `Tutorial_10` (Oct 12), `Tutorial_8` (Nov 2), and `Tutorial_9` (Nov 12) without notes
-- [ ] Work through `MfoxAssignSamar.pdf` Assignments 1, 4, 5, 6, and relevant parts of Assignment 7 under timed conditions
-- [ ] Review proof templates side-by-side: Ordinary Induction vs. Strong Induction vs. WOP vs. Structural Induction
-- [ ] Review formula sheet: Integer functions, Harmonic & integral bounds, Akra–Bazzi / Master Theorem, core OGF series & partial fractions, Handshaking & coloring bounds
+- [ ] Verify whether any unrecorded topics, Assignment 4–7 extras, or Tutorial 7–9 drills need to be appended after completing Stages 1–9.

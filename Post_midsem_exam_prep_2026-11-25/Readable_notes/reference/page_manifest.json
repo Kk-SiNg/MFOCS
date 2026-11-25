@@ -1,0 +1,1716 @@
+[
+  {
+    "pdf_page": 1,
+    "title": "Sets and membership",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.1, Sets.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 2,
+    "title": "Subsets, proper subsets and the universal set",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.1, Sets.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 3,
+    "title": "Complement of a set",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook clarification:** The complement in this example is the odd natural numbers, because complementation is taken relative to $U$. See §4.1, printed pp. 81–85.",
+    "qualifications": [
+      "**Textbook clarification:** The complement in this example is the odd natural numbers, because complementation is taken relative to $U$. See §4.1, printed pp. 81–85."
+    ]
+  },
+  {
+    "pdf_page": 4,
+    "title": "Ordered tuples and Cartesian products",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.1 and §4.2, Sets and Sequences.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 5,
+    "title": "Cartesian products as spaces and records",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.1–§4.2, Sets and Sequences.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 6,
+    "title": "Functions, domain, codomain and image",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.3, Functions.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 7,
+    "title": "Injective functions",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.4.1, Definition 4.4.2, printed p. 91 (PDF p. 99), for injectivity; §4.5 and §7.1 for cardinality comparisons.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 8,
+    "title": "Bijective functions",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.4.1, Definition 4.4.2, printed p. 91 (PDF p. 99), for function properties; §4.5 and §7.1 for cardinality comparisons.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 9,
+    "title": "Inverse functions and necessary/sufficient conditions",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.4, Binary Relations, for inverse relations; §1.5 and §3.1.2 for implications.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 10,
+    "title": "Surjective functions",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.4.1, Definition 4.4.2, printed p. 91 (PDF p. 99), for function properties; §4.5 and §7.1 for cardinality comparisons.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 11,
+    "title": "Comparing cardinalities using functions",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.5, printed p. 93 onward; §7.1, printed p. 206 onward.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 12,
+    "title": "Equal cardinality of intervals",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1, Infinite Cardinality, printed p. 206 onward.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 13,
+    "title": "Bijections between open intervals and the real line",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1, Infinite Cardinality, printed p. 206 onward.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 14,
+    "title": "Naturals, even naturals and another interval example",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1, Infinite Cardinality, printed p. 206 onward.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 15,
+    "title": "Countable sets and their subsets",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1.2, Countable Sets, printed pp. 209–210 (PDF pp. 217–218).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 16,
+    "title": "Listing a Cartesian product of countable sets",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1.2, Countable Sets, printed pp. 209–210 (PDF pp. 217–218).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 17,
+    "title": "Diagonal enumeration of pairs",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1.2, Countable Sets, printed pp. 209–210 (PDF pp. 217–218).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 18,
+    "title": "Countability of rational numbers",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook clarification:** Rational numbers are represented by fractions $p/q$; different pairs may represent the same rational, as the cross-multiplication condition indicates. Thus the final containment is shorthand for a representation, not a literal identification of every rational with every representing pair. Countability follows by listing integer pairs and removing duplicate fractions. See §7.1.2, Corollary 7.1.10, printed p. 210 (PDF p. 218).",
+    "qualifications": [
+      "**Textbook clarification:** Rational numbers are represented by fractions $p/q$; different pairs may represent the same rational, as the cross-multiplication condition indicates. Thus the final containment is shorthand for a representation, not a literal identification of every rational with every representing pair. Countability follows by listing integer pairs and removing duplicate fractions. See §7.1.2, Corollary 7.1.10, printed p. 210 (PDF p. 218)."
+    ]
+  },
+  {
+    "pdf_page": 19,
+    "title": "Finite products of countable sets",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1.2, Countable Sets, printed pp. 209–210 (PDF pp. 217–218).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 20,
+    "title": "Finite unions of countable sets",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1.2, Countable Sets, printed pp. 209–210 (PDF pp. 217–218).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 21,
+    "title": "Countable unions by a diagonal listing",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1.2, Countable Sets, printed pp. 209–210 (PDF pp. 217–218).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 22,
+    "title": "Comparing a union and a product",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook clarification:** The displayed map assumes $B$ has an element $b_1$, and it gives an injection from $A$ into $A\\times B$. The union/product inequality has no hypotheses written on this page and is not true for arbitrary sets: two disjoint singleton sets have union size 2 and product size 1. Cardinality comparisons should therefore be checked through an actual injection. See §4.5, printed pp. 93–96, and §7.1, printed pp. 206–210.",
+    "qualifications": [
+      "**Textbook clarification:** The displayed map assumes $B$ has an element $b_1$, and it gives an injection from $A$ into $A\\times B$. The union/product inequality has no hypotheses written on this page and is not true for arbitrary sets: two disjoint singleton sets have union size 2 and product size 1. Cardinality comparisons should therefore be checked through an actual injection. See §4.5, printed pp. 93–96, and §7.1, printed pp. 206–210."
+    ]
+  },
+  {
+    "pdf_page": 23,
+    "title": "Enumeration",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1.2, Countable Sets, printed pp. 209–210 (PDF pp. 217–218).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 24,
+    "title": "Finite sequences of natural numbers",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.2, Sequences, printed p. 86; §7.1.2, Countable Sets, printed pp. 209–210 (PDF pp. 217–218).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 25,
+    "title": "A short collection-of-pairs example",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.1–§4.2, Sets and Sequences, printed pp. 81–86.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 26,
+    "title": "Finite subsets of the natural numbers",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.1.3, Power Set, printed p. 83 (PDF p. 91); §7.1.2, Countable Sets, printed pp. 209–210 (PDF pp. 217–218).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 27,
+    "title": "First diagonal argument for the power set",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1.3, Power Sets Are Strictly Bigger, Theorem 7.1.11 and Corollary 7.1.12, printed p. 211 (PDF p. 219).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 28,
+    "title": "The power set is uncountable",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1.3, Power Sets Are Strictly Bigger, Theorem 7.1.11 and Corollary 7.1.12, printed p. 211 (PDF p. 219).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 29,
+    "title": "Infinite binary sequences are uncountable",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1.3, Corollary 7.1.13, printed p. 211 (PDF p. 219); §7.1.4, Diagonal Argument, printed pp. 214–215 (PDF pp. 222–223).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 30,
+    "title": "From infinite digit sequences to real numbers",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook clarification:** For the displayed 0–1 digit construction, interpreting $0.t$ as a decimal expansion gives an injection: the permitted digits exclude the repeating-9 ambiguity. A binary interpretation needs care because some binary expansions are not unique. The source does not specify the base on this page. See §7.1.3, Corollary 7.1.15 and its decimal-expansion proof, printed pp. 212–213 (PDF pp. 220–221).",
+    "qualifications": [
+      "**Textbook clarification:** For the displayed 0–1 digit construction, interpreting $0.t$ as a decimal expansion gives an injection: the permitted digits exclude the repeating-9 ambiguity. A binary interpretation needs care because some binary expansions are not unique. The source does not specify the base on this page. See §7.1.3, Corollary 7.1.15 and its decimal-expansion proof, printed pp. 212–213 (PDF pp. 220–221)."
+    ]
+  },
+  {
+    "pdf_page": 31,
+    "title": "Binary relations",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.4, Binary Relations, printed p. 89 onward.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 32,
+    "title": "Relations on a set",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.4, printed p. 89; §9.6, Partial Orders, printed p. 335 onward.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 33,
+    "title": "Reflexive relations",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.11, Summary of Relational Properties, printed p. 343.",
+    "qualifications": [
+      "The middle of the page shows an example pair written $(\\mathbb R^{[\\text{unclear in source}]},R)$; the superscript and the relation's rule are not clearly specified there."
+    ]
+  },
+  {
+    "pdf_page": 34,
+    "title": "Symmetric relations",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.11, Summary of Relational Properties, printed p. 343.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 35,
+    "title": "Antisymmetric relations",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.6, Partial Orders, printed p. 335 onward; §9.11, printed p. 343.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 36,
+    "title": "Tutorial 1: a bijection from a half-open to an open interval",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1, Infinite Cardinality, printed pp. 206–210; §4.5, Finite Cardinality, printed p. 93 onward.",
+    "qualifications": [
+      "A boxed chain starts with $0,1/2,1/4,1/8,\\ldots$ and shifts the powers of two to the next entry. The first output in that small sketch looks like “1” with no denominator; **[unclear in source]**. The large formula clearly states $f(0)=1/2$."
+    ]
+  },
+  {
+    "pdf_page": 37,
+    "title": "Tutorial 1: the other half-open interval",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1, Infinite Cardinality, printed pp. 206–210.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 38,
+    "title": "Tutorial 1: a closed interval and two disjoint chains",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook clarification:** To make the displayed construction a function on all of $[0,1]$, retain $f(x)=x$ at every point outside the two chains, as in the preceding tutorial constructions. The chain entries have no collisions, and every target value is either shifted from a predecessor or unchanged. This uses the bijection definition in §4.4.1, Definition 4.4.2, printed p. 91 (PDF p. 99), and the infinite-cardinality discussion in §7.1, printed pp. 206–210.",
+    "qualifications": [
+      "**Textbook clarification:** To make the displayed construction a function on all of $[0,1]$, retain $f(x)=x$ at every point outside the two chains, as in the preceding tutorial constructions. The chain entries have no collisions, and every target value is either shifted from a predecessor or unchanged. This uses the bijection definition in §4.4.1, Definition 4.4.2, printed p. 91 (PDF p. 99), and the infinite-cardinality discussion in §7.1, printed pp. 206–210."
+    ]
+  },
+  {
+    "pdf_page": 39,
+    "title": "Checking the closed-interval construction",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1, Infinite Cardinality, printed pp. 206–210.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 40,
+    "title": "Tutorial 1: the real line and positive reals",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1, Infinite Cardinality, printed pp. 206–210; §4.4.1, Definition 4.4.2, printed p. 91 (PDF p. 99), for the bijection criterion.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 41,
+    "title": "Surjectivity of the exponential map",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.4, Binary Relations (function properties), printed pp. 89–92 (PDF pp. 97–100); §7.1, Infinite Cardinality, printed pp. 206–210 (PDF pp. 214–218).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 42,
+    "title": "Adding zero to the positive reals",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1.1, Infinity Is Different, especially Lemma 7.1.7 on adding an element to an infinite set, printed pp. 208–209 (PDF pp. 216–217).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 43,
+    "title": "Checking that the extra zero is reached",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1.1, Infinity Is Different, printed pp. 208–209 (PDF pp. 216–217); §4.4, printed pp. 89–92 (PDF pp. 97–100), for surjectivity.",
+    "qualifications": [
+      "**Source correction / textbook clarification:** This last line reverses the chain on page 042. For the function actually displayed there, the correct preimage is",
+      "An upper-right oval contains the isolated annotation “S24072 @ [unclear in source]”; it does not state a mathematical condition."
+    ]
+  },
+  {
+    "pdf_page": 44,
+    "title": "Mapping two intervals into one interval",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.3, Functions, printed pp. 87–88 (PDF pp. 95–96); §4.4, printed pp. 89–92 (PDF pp. 97–100); §7.1, printed pp. 206–210 (PDF pp. 214–218).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 45,
+    "title": "The piecewise interval bijection",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.4, Binary Relations, printed pp. 89–92 (PDF pp. 97–100); §7.1, Infinite Cardinality, printed pp. 206–210 (PDF pp. 214–218).",
+    "qualifications": [
+      "**Textbook clarification:** For $1/2<y\\le1$, choose $x=2y+1\\in(2,3]$; then $(x-1)/2=y$. Thus the piecewise map is also surjective, using the criterion in Definition 4.4.2, printed p. 91 (PDF p. 99)."
+    ]
+  },
+  {
+    "pdf_page": 46,
+    "title": "A tangent bijection from an open interval to the real line",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "The endpoint values are not part of the domain. This calculus fact supports the bijection exercise; the textbook cross-reference supplies the definitions of bijection and equal cardinality rather than a tangent-function proof.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 47,
+    "title": "Checking the tangent map",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.4, printed pp. 89–92 (PDF pp. 97–100); §7.1, printed pp. 206–210 (PDF pp. 214–218).",
+    "qualifications": [
+      "**Textbook clarification:** Injectivity follows because tangent is strictly increasing on $(-\\pi/2,\\pi/2)$ and $x\\mapsto\\pi x-\\pi/2$ is strictly increasing. For the displayed preimage,"
+    ]
+  },
+  {
+    "pdf_page": 48,
+    "title": "Composing bijections to map a closed interval onto the real line",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1, Lemma 7.1.3, printed pp. 206–207 (PDF pp. 214–215), for transitivity of equal cardinality; Problem 4.19(b), printed p. 105 (PDF p. 113), asks for the composition-of-bijections result.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 49,
+    "title": "Transitive relations",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook clarification:** If $A=\\{a,b,c\\}$ with distinct labels, this $R$ is not transitive: $(a,b)$ and $(b,c)$ are present but $(a,c)$ is absent. Compare §9.11, printed p. 343 (PDF p. 351).",
+    "qualifications": [
+      "The bottom of the page gives a three-element set (the third handwritten label is **[unclear in source]**, apparently $c$ in light of the following pairs) and",
+      "**Textbook clarification:** If $A=\\{a,b,c\\}$ with distinct labels, this $R$ is not transitive: $(a,b)$ and $(b,c)$ are present but $(a,c)$ is absent. Compare §9.11, printed p. 343 (PDF p. 351)."
+    ]
+  },
+  {
+    "pdf_page": 50,
+    "title": "Equivalence relations and equality of function values",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.10, Equivalence Relations, printed pp. 341–342 (PDF pp. 349–350), particularly the relation defined by equality of the values of a function; §9.11, printed p. 343 (PDF p. 351).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 51,
+    "title": "Examples to check for equivalence",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.10, printed pp. 341–342 (PDF pp. 349–350); §8.6, Modular Arithmetic, printed pp. 263–264 (PDF pp. 271–272).",
+    "qualifications": [
+      "**Textbook clarification:** The first three relations are equivalence relations. The first is equality of the values of $f(a)=|a|$; the second is equality of the fractional parts of real numbers; the third is congruence modulo $m$. The fourth is reflexive and symmetric but fails transitivity: $0\\sim\\varepsilon$ and $\\varepsilon\\sim2\\varepsilon$, while $0\\not\\sim2\\varepsilon$. These checks use Definition 9.10.1 and the function-value construction in Definition 9.10.2, printed pp. 341–342 (PDF pp. 349–350)."
+    ]
+  },
+  {
+    "pdf_page": 52,
+    "title": "Partial orders and posets",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.6.3, Weak Partial Orders, printed pp. 337–338 (PDF pp. 345–346), especially Definitions 9.6.12–9.6.13.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 53,
+    "title": "Divisibility and inclusion as proposed orders",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Source correction / textbook clarification:** On all of $\\mathbb Z$, this implication is false: $1\\mid-1$ and $-1\\mid1$, but $1\\ne-1$. Divisibility is a partial order on the **positive integers**, where mutual divisibility does imply equality. This follows from divisibility in §8.1, printed pp. 243–247 (PDF pp. 251–255), together with antisymmetry in §9.6.3, printed p. 338 (PDF p. 346).",
+    "qualifications": [
+      "**Source correction / textbook clarification:** On all of $\\mathbb Z$, this implication is false: $1\\mid-1$ and $-1\\mid1$, but $1\\ne-1$. Divisibility is a partial order on the **positive integers**, where mutual divisibility does imply equality. This follows from divisibility in §8.1, printed pp. 243–247 (PDF pp. 251–255), together with antisymmetry in §9.6.3, printed p. 338 (PDF p. 346)."
+    ]
+  },
+  {
+    "pdf_page": 54,
+    "title": "Comparing infinite binary sequences",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.8, Linear Orders, printed p. 340 (PDF p. 348); §9.9, Product Orders, printed pp. 340–341 (PDF pp. 348–349).",
+    "qualifications": [
+      "**Textbook clarification:** The order rule is not explicitly defined on this page. Interpreting the diagrams as the coordinatewise order,"
+    ]
+  },
+  {
+    "pdf_page": 55,
+    "title": "Equivalence classes",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook clarification:** In this example, $[a]$ consists of all equilateral triangles: every triangle similar to an equilateral triangle is equilateral, and all equilateral triangles are similar. This applies the definition of an equivalence class in §9.10.1, printed p. 342 (PDF p. 350).",
+    "qualifications": [
+      "**Textbook clarification:** In this example, $[a]$ consists of all equilateral triangles: every triangle similar to an equilateral triangle is equilateral, and all equilateral triangles are similar. This applies the definition of an equivalence class in §9.10.1, printed p. 342 (PDF p. 350).",
+      "At the bottom, a separate sketch labelled $a$ depicts a triangle with a right-angle marker and tiny angle labels **[unclear in source]**. This sketch does not depict an equilateral triangle; the source does not explain how it relates to the preceding example."
+    ]
+  },
+  {
+    "pdf_page": 56,
+    "title": "Congruence classes modulo five",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "There are exactly five classes, and $[5]$ repeats $[0]$. Compare the textbook's congruence-modulo-five partition in §9.10.1, printed pp. 342–343 (PDF pp. 350–351).",
+    "qualifications": [
+      "**Textbook clarification:** The other three distinct residue classes are"
+    ]
+  },
+  {
+    "pdf_page": 57,
+    "title": "Three equivalent descriptions of belonging to one class",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.10.1, Equivalence Classes, printed pp. 342–343 (PDF pp. 350–351); Theorem 9.10.4, printed p. 343 (PDF p. 351).",
+    "qualifications": [
+      "**Textbook clarification:** For (1) $\\Rightarrow$ (2), if $x\\in[a]$, then $aRx$ and $bRa$ by symmetry of $aRb$, so $bRx$ by transitivity. Thus $[a]\\subseteq[b]$; exchanging $a$ and $b$ gives the reverse inclusion. For (2) $\\Rightarrow$ (3), reflexivity gives $a\\in[a]=[b]$, so the common class is nonempty. These complete the correspondence underlying Theorem 9.10.4, printed p. 343 (PDF p. 351)."
+    ]
+  },
+  {
+    "pdf_page": 58,
+    "title": "A set decomposed into equivalence classes",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.10.1, printed pp. 342–343 (PDF pp. 350–351).",
+    "qualifications": [
+      "**Textbook clarification:** Equality gives the singleton classes $[a]=\\{a\\}$. Congruence modulo $m$ groups integers by their remainders, so its classes are larger. Both are partitions of $\\mathbb Z$, by Theorem 9.10.4, printed p. 343 (PDF p. 351)."
+    ]
+  },
+  {
+    "pdf_page": 59,
+    "title": "Finer relations and partition refinement",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook clarification:** In the equivalence-relation setting, $R_1$ is finer than $R_2$ precisely when each $R_1$-class lies inside an $R_2$-class. As sets of ordered pairs, this is $R_1\\subseteq R_2$. The textbook explains equivalence classes as partition blocks in §9.10.1, printed pp. 342–343 (PDF pp. 350–351); the particular terminology “finer” is supplied by the lecture notes.",
+    "qualifications": [
+      "**Textbook clarification:** In the equivalence-relation setting, $R_1$ is finer than $R_2$ precisely when each $R_1$-class lies inside an $R_2$-class. As sets of ordered pairs, this is $R_1\\subseteq R_2$. The textbook explains equivalence classes as partition blocks in §9.10.1, printed pp. 342–343 (PDF pp. 350–351); the particular terminology “finer” is supplied by the lecture notes."
+    ]
+  },
+  {
+    "pdf_page": 60,
+    "title": "Partitions and the relation they induce",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.5, Definition 9.5.6 (partition), printed p. 333 (PDF p. 341); §9.10.1, printed pp. 342–343 (PDF pp. 350–351), for the correspondence with equivalence relations.",
+    "qualifications": [
+      "**Source correction / textbook clarification:** Disjointness applies when $i\\ne j$; each block must also be nonempty. For $i=j$, $S_i\\cap S_i=S_i$, so requiring that intersection to be empty would force every block to be empty. These are the partition conditions in Definition 9.5.6, printed p. 333 (PDF p. 341)."
+    ]
+  },
+  {
+    "pdf_page": 61,
+    "title": "A finite relation written from three blocks",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.10.1, Equivalence Classes, printed pp. 342–343 (PDF pp. 350–351), for the equivalence relation induced by a partition.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 62,
+    "title": "Points within distance one: reflexivity and symmetry",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.10, Definition 9.10.1, printed pp. 341–342 (PDF pp. 349–350); §9.11, Summary of Relational Properties, printed p. 343 (PDF p. 351).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 63,
+    "title": "Points within distance one: failure of transitivity",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.10, printed pp. 341–342 (PDF pp. 349–350); §9.11, printed p. 343 (PDF p. 351).",
+    "qualifications": [
+      "**Textbook clarification:** The distances are"
+    ]
+  },
+  {
+    "pdf_page": 64,
+    "title": "Equality of norms as an equivalence relation",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.10, Definition 9.10.2, printed p. 342 (PDF p. 350): use the function $f(x)=\\|x\\|$; §9.10.1, Definition 9.10.3, on the same page, for its classes.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 65,
+    "title": "The classes are circles centered at the origin",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.10–§9.10.1, printed p. 342 (PDF p. 350).",
+    "qualifications": [
+      "**Textbook clarification:** For $x\\ne(0,0)$ this is the entire circle of radius $\\|x\\|$ centered at the origin. For $x=(0,0)$, it is the singleton $\\{(0,0)\\}$. This specializes Definition 9.10.3, printed p. 342 (PDF p. 350)."
+    ]
+  },
+  {
+    "pdf_page": 66,
+    "title": "Equal norms do not give antisymmetry",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook clarification:** Both vectors have norm one, so they are related in both directions, but they are distinct. Thus the proposed antisymmetry implication fails. The relation is an equivalence relation, but it is not a partial order. Compare antisymmetry and weak partial orders in §9.6.3, printed p. 338 (PDF p. 346), and equivalence relations in §9.10, printed pp. 341–342 (PDF pp. 349–350).",
+    "qualifications": [
+      "**Textbook clarification:** Both vectors have norm one, so they are related in both directions, but they are distinct. Thus the proposed antisymmetry implication fails. The relation is an equivalence relation, but it is not a partial order. Compare antisymmetry and weak partial orders in §9.6.3, printed p. 338 (PDF p. 346), and equivalence relations in §9.10, printed pp. 341–342 (PDF pp. 349–350)."
+    ]
+  },
+  {
+    "pdf_page": 67,
+    "title": "Equality of the sum-of-absolute-values norm",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.10–§9.10.1, printed p. 342 (PDF p. 350).",
+    "qualifications": [
+      "A small axis sketch contains a point. Beneath the class formula is an unfinished or crossed-out norm calculation, whose final value is **[unclear in source]**.",
+      "**Textbook clarification:** Taking $f(x)=|x_1|+|x_2|+|x_3|$, the relation is equality of function values, so it is an equivalence relation. Its class is"
+    ]
+  },
+  {
+    "pdf_page": 68,
+    "title": "Verdict on the three-dimensional norm example",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.6.3, printed p. 338 (PDF p. 346); §9.10–§9.10.1, printed p. 342 (PDF p. 350).",
+    "qualifications": [
+      "**Textbook clarification:** The two listed vectors are distinct but related in both directions, which supplies the counterexample to antisymmetry. The entire norm-one class is $\\{y\\in\\mathbb R^3:|y_1|+|y_2|+|y_3|=1\\}$, as determined on page 067."
+    ]
+  },
+  {
+    "pdf_page": 69,
+    "title": "A difference-of-squares relation",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.6.3, printed p. 338 (PDF p. 346); §9.10, printed p. 341 (PDF p. 349).",
+    "qualifications": [
+      "**Textbook clarification:** Failure of reflexivity already rules out both an equivalence relation and a weak partial order, by Definitions 9.10.1 and 9.6.13."
+    ]
+  },
+  {
+    "pdf_page": 70,
+    "title": "Two subsets whose intersection has one element",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.1, Sets, printed pp. 81–85 (PDF pp. 89–93), for power sets and intersection; §9.11, Summary of Relational Properties, printed p. 343 (PDF p. 351).",
+    "qualifications": [
+      "**Textbook clarification:** Since $x\\cap x=x$, the condition holds only when $x$ is a singleton. It fails for $x=\\varnothing$ and for $x=\\{1,2\\}$. Consequently the relation on the whole power set is not reflexive. The marks can be understood as distinguishing the singleton cases from the failed cases."
+    ]
+  },
+  {
+    "pdf_page": 71,
+    "title": "Consecutive integers as a relation",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.6.3, printed p. 338 (PDF p. 346); §9.10, printed p. 341 (PDF p. 349).",
+    "qualifications": [
+      "**Textbook clarification:** This excludes both an equivalence relation and a weak partial order, whose definitions require reflexivity."
+    ]
+  },
+  {
+    "pdf_page": 72,
+    "title": "A diagram comparing finer and coarser subdivisions",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.10.1, Equivalence Classes, printed pp. 342–343 (PDF pp. 350–351), for relations viewed as partitions. The refinement terminology is defined in the lecture notes on page 059.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 73,
+    "title": "Ordering the set of equivalence relations by refinement",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook clarification:** Regard each $R\\in M$ as its set of ordered pairs in $S\\times S$. Then $R_1\\sim R_2$ is exactly $R_1\\subseteq R_2$. This is set inclusion restricted to the family $M$, so the partial-order results apply. Compare §9.6.3, printed pp. 337–338 (PDF pp. 345–346), and §9.7, printed p. 339 (PDF p. 347).",
+    "qualifications": [
+      "**Textbook clarification:** Regard each $R\\in M$ as its set of ordered pairs in $S\\times S$. Then $R_1\\sim R_2$ is exactly $R_1\\subseteq R_2$. This is set inclusion restricted to the family $M$, so the partial-order results apply. Compare §9.6.3, printed pp. 337–338 (PDF pp. 345–346), and §9.7, printed p. 339 (PDF p. 347)."
+    ]
+  },
+  {
+    "pdf_page": 74,
+    "title": "Antisymmetry of refinement",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.4, Definition 4.4.1, printed p. 89 (PDF p. 97); §9.6.3, Definition 9.6.12, printed p. 338 (PDF p. 346).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 75,
+    "title": "Transitivity of refinement and the resulting poset",
+    "part": "Part_01_pages_001-075.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.6.3, Weak Partial Orders, Definitions 9.6.12–9.6.13, printed p. 338 (PDF p. 346); §9.7, Representing Partial Orders by Set Containment, printed p. 339 (PDF p. 347).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 76,
+    "title": "Continuation: an order on relations",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.6, weak partial orders, printed pp.337–338 (textbook PDF pp.345–346), supplies the general framework.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 77,
+    "title": "Comparable elements and total orders",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.8, Definition 9.8.1, printed p.340. The textbook uses “linear order” and explains the terminology difference between a total order and a total relation.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 78,
+    "title": "Order-preserving maps and composition",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.7, Definition 9.7.1, printed p.339, discusses maps preserving a relation. That definition requires a bijection preserving the relation in both directions for isomorphism; the present definition requires only the forward implication.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 79,
+    "title": "Order-reflecting maps",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.7, Definition 9.7.1, printed p.339, provides the related concept of relation-preserving isomorphism. Order reflection is the backward implication of that relation equivalence.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 80,
+    "title": "Order reflection implies injectivity",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §9.6.3, Definitions 9.6.12–9.6.13, printed p.338, states antisymmetry and the axioms of a weak partial order; §9.7, printed p.339, gives the related relation-preserving-map framework.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 81,
+    "title": "Computational geometry: convex sets",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching treatment of convex sets/computational geometry was found in the supplied Lehman–Leighton–Meyer textbook. This is course-note material.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 82,
+    "title": "Convexity characterized by line intersections",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching computational-geometry section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 83,
+    "title": "Parametrizing a line segment",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching computational-geometry section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 84,
+    "title": "Convex combinations",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching computational-geometry section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 85,
+    "title": "Segment and triangle examples",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching computational-geometry section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 86,
+    "title": "Convex combinations stay in a convex set",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching computational-geometry section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 87,
+    "title": "Two sets of convex-combination coefficients",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching computational-geometry section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 88,
+    "title": "Induction proof for convex combinations",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** Ch.5, induction, printed pp.115–129, supports the proof method. The convex-geometry claim itself is not treated in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 89,
+    "title": "Normalizing the first $k$ coefficients",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** Ch.5, printed pp.115–129, for induction; no matching convex-geometry section.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 90,
+    "title": "Convex hull as a minimal convex superset",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching convex-hull section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 91,
+    "title": "Diagrams of convex hulls",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching convex-hull section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 92,
+    "title": "Minimal set and intersection definitions",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.2, sets and their operations, printed p.212 onward, supplies the set-intersection language; convexity is course-specific.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 93,
+    "title": "The minimality argument",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.1, printed pp. 81–85 (PDF pp. 89–93), for intersection and subset notation. The minimal-convex-set argument is course-specific.",
+    "qualifications": [
+      "The intervening handwritten comparison with $M$ is [unclear in source]. Its intended role is the minimality of $M$: $Y$ cannot be a proper convex subset still containing $P$."
+    ]
+  },
+  {
+    "pdf_page": 94,
+    "title": "Intersections of convex sets are convex",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.2, printed p.212 onward, for intersections. The geometric argument is not in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 95,
+    "title": "Convex hull and all convex combinations",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.2, printed p.212 onward, for equality proved by two inclusions. The convex-hull result is course-specific.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 96,
+    "title": "Three equivalent convex-hull descriptions",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.2, printed p.212 onward, for the two-inclusion method and set operations; no matching convex-hull treatment.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 97,
+    "title": "A point inside a finite-point convex hull",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching convex-hull treatment was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 98,
+    "title": "Unfinished convex-combination statement",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching convex-combination treatment was found in the supplied textbook.",
+    "qualifications": [
+      "The source contains the unfinished sentence:",
+      "The rest of the sentence is absent. It is retained as an unfinished fragment rather than replaced with a reconstructed assertion."
+    ]
+  },
+  {
+    "pdf_page": 99,
+    "title": "Reducing the number of nonzero coefficients",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** Ch.5, printed pp.115–129, for induction. The coefficient-reduction lemma is course-specific.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 100,
+    "title": "The linearly dependent case",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** Ch.5, printed pp.115–129, for the induction method; no matching geometric coefficient-reduction theorem.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 101,
+    "title": "The linearly independent case and coefficient adjustment",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching coefficient-adjustment/convex-geometry treatment was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 102,
+    "title": "The reduction lemma and one-dimensional basis case",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** Ch.5, printed pp.115–129, for induction and basis cases; no matching geometry theorem.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 103,
+    "title": "Dimension-induction setup",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** Ch.5, printed pp.115–129, for the induction framework; the geometric result is course-specific.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 104,
+    "title": "Rescaling a lower-dimensional representation",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** Ch.5, printed pp.115–129, for induction; no matching geometry theorem.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 105,
+    "title": "Completing the dependent-case substitution",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** Ch.5, printed pp.115–129, for the induction argument; no matching geometry theorem.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 106,
+    "title": "A convex-combination exercise",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching convex-geometry section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 107,
+    "title": "Reduction lemma and Carathéodory's theorem",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching Carathéodory/convex-hull section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 108,
+    "title": "Lifting to one higher dimension",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching convex-geometry/lifting theorem was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 109,
+    "title": "Graham scan in the plane",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching Graham-scan/computational-geometry section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 110,
+    "title": "Graham-scan point removals and turns",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching Graham-scan section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 111,
+    "title": "Gift-wrapping algorithm",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching gift-wrapping/convex-hull algorithm section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 112,
+    "title": "Minkowski sum",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching Minkowski-sum section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 113,
+    "title": "Minkowski-sum example to consider",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching Minkowski-sum section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 114,
+    "title": "Rigid motions and a set-sum diagram",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching rigid-motion/Minkowski-sum section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 115,
+    "title": "Rigid motions preserve distance",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching rigid-motion section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 116,
+    "title": "Rotation about a specified point",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching rigid-motion or planar-rotation section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 117,
+    "title": "Fixed point of a nonidentity planar rotation",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching classification of planar rigid motions was found in the supplied textbook.",
+    "qualifications": [
+      "**Source qualification:** The page writes the angle condition as $\\theta\\ne0$. Since rotation angles are periodic, this means a nonidentity rotation: $\\theta\\not\\equiv0\\pmod{2\\pi}$. The argument concerns the displayed rotation matrix; it does not discuss reflections."
+    ]
+  },
+  {
+    "pdf_page": 118,
+    "title": "Expressing the rigid motion as rotation about its fixed point",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching rigid-motion section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 119,
+    "title": "Parametric description of a plane curve",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching treatment of parametric curves was found in the supplied textbook.",
+    "qualifications": [
+      "**Diagrams.** A closed oval has a marked point on its boundary. A separate green, curved path has short tick marks at successive positions. Another sketch shows two coordinate graphs; $x(t)$ is written above the path, and the lower horizontal axis is labelled $x$. These drawings accompany the idea of describing a curve through its coordinate functions. A small handwritten annotation immediately after the coordinate pair is [unclear in source]."
+    ]
+  },
+  {
+    "pdf_page": 120,
+    "title": "Circle parametrization and a curve in three dimensions",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching parametrized-circle or space-curve section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 121,
+    "title": "Monomials for polynomial curves",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching polynomial-curve construction section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 122,
+    "title": "Bézier curves: coordinate representation",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching Bézier-curve section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 123,
+    "title": "Bézier curve as a weighted sum of control points",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching Bézier-curve or control-point section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 124,
+    "title": "Polynomial coefficients and change of basis",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching linear-algebra change-of-basis section was found in the supplied textbook.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 125,
+    "title": "Binomial theorem and tangent vectors to a curve",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §14.6.3, **“The Binomial Theorem,”** Theorem 14.6.4, printed p.566 (textbook PDF p.574), gives the same expansion with the exponents indexed in the opposite order. The supplied textbook does not cover tangent vectors to parametric curves.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 126,
+    "title": "Logic and the definition of a proposition",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.1, **“Propositions,”** printed p.5 (textbook PDF p.13), defines propositions and gives true and false arithmetic examples. §3.1, printed p.42 (PDF p.50), introduces propositional/Boolean variables.",
+    "qualifications": [
+      "At the lower right is an incomplete algebraic fragment beginning $x^3-x^2$; its remaining marks are [unclear in source]. It is not written as a complete sentence or equation."
+    ]
+  },
+  {
+    "pdf_page": 127,
+    "title": "Propositions, self-reference, and propositional variables",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook clarification:** The definition in §1.1, printed p.5 (textbook PDF p.13), requires a statement to be either true or false and excludes statements whose truth varies with circumstance. Thus “Today is Monday” requires a specified day/context to have a fixed truth value. The cross beside the self-referential first sentence records that it does not receive a consistent classical truth value. §3.1, printed p.42 (PDF p.50), explains using $P,Q$ as variables for propositions.",
+    "qualifications": [
+      "**Textbook clarification:** The definition in §1.1, printed p.5 (textbook PDF p.13), requires a statement to be either true or false and excludes statements whose truth varies with circumstance. Thus “Today is Monday” requires a specified day/context to have a fixed truth value. The cross beside the self-referential first sentence records that it does not receive a consistent classical truth value. §3.1, printed p.42 (PDF p.50), explains using $P,Q$ as variables for propositions."
+    ]
+  },
+  {
+    "pdf_page": 128,
+    "title": "Negation",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §3.1.1, **“NOT, AND, and OR,”** printed p.42 (textbook PDF p.50), gives the negation truth table with $T,F$ in place of $1,0$.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 129,
+    "title": "Conjunction, disjunction, and exclusive OR",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §3.1.1, printed pp.42–43 (textbook PDF pp.50–51), gives AND, inclusive OR, and XOR with the same truth values.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 130,
+    "title": "Implication and its contrapositive",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §3.1.2, **“IMPLIES,”** printed pp.43–45 (textbook PDF pp.51–53), defines implication. §3.3.1, **“Implications and Contrapositives,”** printed pp.48–49 (PDF pp.56–57), gives the same comparison and identifies the equivalent contrapositive. The listed biconditional is defined in §3.1.3, printed p.45 (PDF p.53).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 131,
+    "title": "A conditional-language example and biconditional truth table",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook clarification:** The second conditional is the **inverse** of the first; the contrapositive studied on [PDF page 130](#pdf-page-130) is $\\neg q\\Rightarrow\\neg p$. They should not be substituted for one another. See §3.3.1, printed pp.48–49 (textbook PDF pp.56–57), for implication/contrapositive equivalence. §1.4.1, printed p.10 (PDF p.18), explicitly gives an unsound “Non-Rule” that tries to infer $P\\Rightarrow Q$ from $\\neg P\\Rightarrow\\neg Q$. The biconditional table matches §3.1.3, printed p.45 (PDF p.53).",
+    "qualifications": [
+      "**Textbook clarification:** The second conditional is the **inverse** of the first; the contrapositive studied on [PDF page 130](#pdf-page-130) is $\\neg q\\Rightarrow\\neg p$. They should not be substituted for one another. See §3.3.1, printed pp.48–49 (textbook PDF pp.56–57), for implication/contrapositive equivalence. §1.4.1, printed p.10 (PDF p.18), explicitly gives an unsound “Non-Rule” that tries to infer $P\\Rightarrow Q$ from $\\neg P\\Rightarrow\\neg Q$. The biconditional table matches §3.1.3, printed p.45 (PDF p.53)."
+    ]
+  },
+  {
+    "pdf_page": 132,
+    "title": "Syntax for forming compound propositions",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §3.1, printed pp.42–45 (textbook PDF pp.50–53), describes forming propositions with the listed connectives and gives their truth tables.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 133,
+    "title": "A nested compound proposition",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §3.1, printed pp.42–45 (textbook PDF pp.50–53), supplies the connective meanings; §3.2.1, **“Truth Table Calculation,”** printed pp.46–47 (PDF pp.54–55), illustrates evaluating compound expressions.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 134,
+    "title": "Premises and conclusion of an argument",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.4.1, **“Logical Deductions,”** printed p.10 (textbook PDF p.18), names this inference **modus ponens** and explains the soundness requirement for an inference rule.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 135,
+    "title": "Definition of a valid argument",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.4.1, printed p.10 (textbook PDF p.18), defines soundness as forbidding true premises with a false conclusion. §3.3.2, **“Validity and Satisfiability,”** printed p.50 (PDF p.58), defines a valid formula as one true for every truth assignment.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 136,
+    "title": "Return to a Minkowski-sum sketch",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** No matching Minkowski-sum section was found in the supplied textbook. Here $\\oplus$ denotes a sum of sets, whereas [PDF page 129](#pdf-page-129) uses the same symbol for exclusive OR.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 137,
+    "title": "Expressing argument validity as an implication",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook clarification:** The first rule is modus ponens (§1.4.1, printed p.10; textbook PDF p.18). The second argument is invalid: with $p=0,q=1$, both its premises are true and its conclusion is false. This follows from the implication table in §3.1.2, printed p.43 (PDF p.51), and the soundness criterion in §1.4.1. The source does not write out this counterexample.",
+    "qualifications": [
+      "**Textbook clarification:** The first rule is modus ponens (§1.4.1, printed p.10; textbook PDF p.18). The second argument is invalid: with $p=0,q=1$, both its premises are true and its conclusion is false. This follows from the implication table in §3.1.2, printed p.43 (PDF p.51), and the soundness criterion in §1.4.1. The source does not write out this counterexample."
+    ]
+  },
+  {
+    "pdf_page": 138,
+    "title": "Seven inference patterns",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.4.1, printed p.10 (textbook PDF p.18), presents the chaining rule and the general soundness criterion. §3.1.1–3.1.2, printed pp.42–43 (PDF pp.50–51), provides the connective truth tables for checking the first five patterns. §3.4.2, **“Proving Equivalences,”** printed p.53 (PDF p.61), states De Morgan's laws, equations (3.11)–(3.12), as equivalences and therefore supports both directions of the last two patterns.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 139,
+    "title": "General implication for an argument with many premises",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.4.1, printed p.10 (textbook PDF p.18), gives the rule's soundness requirement. §3.3.2, printed p.50 (PDF p.58), gives the always-true criterion for a valid formula. Together these match the validity test using the displayed implication.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 140,
+    "title": "Two argument examples and a short derivation",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook clarification:** The right-hand derivation extracts $p,r$ from $p\\land r$, uses modus ponens to obtain $q$, and then forms $q\\land r$. See §3.1.1, printed p.42 (textbook PDF p.50), for conjunction and §1.4.1, printed p.10 (PDF p.18), for modus ponens. The left-hand argument is invalid: assign $p=q=r=s=u=1$ and $T=0$. All five premises are then true while $\\neg r$ is false. This counterexample uses the connective tables in §3.1.1, printed pp.42–43 (PDF pp.50–51), and the validity criterion in §3.3.2, printed p.50 (PDF p.58); it is added here because the source supplies no verdict or counterexample for the left-hand argument.",
+    "qualifications": [
+      "**Textbook clarification:** The right-hand derivation extracts $p,r$ from $p\\land r$, uses modus ponens to obtain $q$, and then forms $q\\land r$. See §3.1.1, printed p.42 (textbook PDF p.50), for conjunction and §1.4.1, printed p.10 (PDF p.18), for modus ponens. The left-hand argument is invalid: assign $p=q=r=s=u=1$ and $T=0$. All five premises are then true while $\\neg r$ is false. This counterexample uses the connective tables in §3.1.1, printed pp.42–43 (PDF pp.50–51), and the validity criterion in §3.3.2, printed p.50 (PDF p.58); it is added here because the source supplies no verdict or counterexample for the left-hand argument."
+    ]
+  },
+  {
+    "pdf_page": 141,
+    "title": "Sound arguments",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.4.1, **“Logical Deductions,”** printed p.10 (textbook PDF p.18), discusses sound inference rules and explains why starting from true axioms and applying sound rules yields true conclusions. §3.3.2, printed p.50 (PDF p.58), defines validity for formulas. The notes' phrase “sound argument” additionally specifies that the actual premises are true.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 142,
+    "title": "A satisfiability example",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook clarification:** §3.3.2, **“Validity and Satisfiability,”** printed p.50 (textbook PDF p.58), defines a satisfiable formula as one true for at least one truth assignment. The displayed formula is satisfiable: any assignment with $q=1$ makes the implication true. It is not valid: with $p=q=r=0$, the antecedent is true and the consequent false. These evaluations use §3.1.1–3.1.2, printed pp.42–43 (PDF pp.50–51); the assignments are added clarification rather than handwritten solutions.",
+    "qualifications": [
+      "There is a small annotation beneath the box [unclear in source]. No truth assignment, truth table, or verdict is written on the page.",
+      "**Textbook clarification:** §3.3.2, **“Validity and Satisfiability,”** printed p.50 (textbook PDF p.58), defines a satisfiable formula as one true for at least one truth assignment. The displayed formula is satisfiable: any assignment with $q=1$ makes the implication true. It is not valid: with $p=q=r=0$, the antecedent is true and the consequent false. These evaluations use §3.1.1–3.1.2, printed pp.42–43 (PDF pp.50–51); the assignments are added clarification rather than handwritten solutions."
+    ]
+  },
+  {
+    "pdf_page": 143,
+    "title": "Further inference patterns involving implications and equivalence",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §3.1.1–3.1.3, printed pp.42–45 (textbook PDF pp.50–53), provides the truth tables needed to check these patterns. §3.3.1, printed p.49 (PDF p.57), explicitly identifies the conjunction of the two opposite implications with the biconditional, matching pattern 2. §1.4.1, printed p.10 (PDF p.18), gives the general criterion for sound inference rules; the source supplies no individual proofs on this page.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 144,
+    "title": "Detailed derivation of a conjunction conclusion",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.4.1, printed p.10 (textbook PDF p.18), gives modus ponens, used at step 5, and requires each deduction to identify the earlier facts used. §3.1.1, printed p.42 (PDF p.50), gives the conjunction truth table supporting extraction in steps 2–3 and conjunction formation in step 6.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 145,
+    "title": "Derivation using contraposition and implication chaining",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook clarification:** The final justification is restored using the chaining rule in §1.4.1, printed p.10 (textbook PDF p.18). Contraposition is justified by §3.3.1, printed pp.48–49 (PDF pp.56–57). These establish the complete six-step argument even where the final source reference is unclear.",
+    "qualifications": [
+      "**Source qualification:** The final handwritten step reference after “from 4 &” resembles a circled 1 [unclear in source]. Step 5 is the premise needed for the displayed conclusion; the table makes this dependency explicit.",
+      "**Textbook clarification:** The final justification is restored using the chaining rule in §1.4.1, printed p.10 (textbook PDF p.18). Contraposition is justified by §3.3.1, printed pp.48–49 (PDF pp.56–57). These establish the complete six-step argument even where the final source reference is unclear."
+    ]
+  },
+  {
+    "pdf_page": 146,
+    "title": "An argument to derive t",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook clarification:** A derivation is: extract $\\neg p$ from $\\neg p\\land q$; use $r\\Rightarrow p$ and $\\neg p$ to infer $\\neg r$; then use $\\neg r\\Rightarrow s$ to obtain $s$, and $s\\Rightarrow t$ to obtain $t$. The conjunction step follows §3.1.1, printed p.42 (textbook PDF p.50); contraposition follows §3.3.1, printed pp.48–49 (PDF pp.56–57); the two final steps use modus ponens in §1.4.1, printed p.10 (PDF p.18). These proof steps are added clarification.",
+    "qualifications": [
+      "**Textbook clarification:** A derivation is: extract $\\neg p$ from $\\neg p\\land q$; use $r\\Rightarrow p$ and $\\neg p$ to infer $\\neg r$; then use $\\neg r\\Rightarrow s$ to obtain $s$, and $s\\Rightarrow t$ to obtain $t$. The conjunction step follows §3.1.1, printed p.42 (textbook PDF p.50); contraposition follows §3.3.1, printed pp.48–49 (PDF pp.56–57); the two final steps use modus ponens in §1.4.1, printed p.10 (PDF p.18). These proof steps are added clarification."
+    ]
+  },
+  {
+    "pdf_page": 147,
+    "title": "Predicates and substitution examples",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.2, **“Predicates,”** printed p.8 (textbook PDF p.16), defines a predicate as a proposition whose truth depends on variables and illustrates substitution. Chapter 3 §3.6, printed p.56 onward (PDF p.64 onward), develops formulas with predicates and quantifiers.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 148,
+    "title": "Universal and existential quantifiers",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook clarification:** §3.6.1, **“Quantifiers,”** printed pp.56–58 (textbook PDF pp.64–66), gives the universal and existential meanings. The first example is true; the second is also true, since the witness $x=2$ gives $4>2$. The witness is added here to resolve the ambiguous marks in the source. §3.6.4, printed p.59 (PDF p.67), explains the domain of discourse, which must be fixed when interpreting quantifiers.",
+    "qualifications": [
+      "**Textbook clarification:** §3.6.1, **“Quantifiers,”** printed pp.56–58 (textbook PDF pp.64–66), gives the universal and existential meanings. The first example is true; the second is also true, since the witness $x=2$ gives $4>2$. The witness is added here to resolve the ambiguous marks in the source. §3.6.4, printed p.59 (PDF p.67), explains the domain of discourse, which must be fixed when interpreting quantifiers."
+    ]
+  },
+  {
+    "pdf_page": 149,
+    "title": "Negating quantifiers",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook cross-reference:** §3.6.5, **“Negating Quantifiers,”** printed pp.59–60 (textbook PDF pp.67–68), gives these exact equivalences as equations (3.19)–(3.20): moving negation across a quantifier switches universal and existential quantification.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 150,
+    "title": "A predicate-logic argument using one existential witness",
+    "part": "Part_02_pages_076-150.md",
+    "textbook_reference": "**Textbook clarification:** At step 2, $a$ must name a witness provided by the existential premise; it is not an arbitrary domain element. The universal premise in step 4 applies to that same witness, producing step 5. Steps 6–8 use modus ponens and conjunction, and step 9 asserts existence using the witness already obtained. See §3.6.1, printed pp.56–58 (textbook PDF pp.64–66), for the quantifier meanings; §3.6.4, printed p.59 (PDF p.67), for the common domain; §1.4.1, printed p.10 (PDF p.18), for modus ponens; and §3.1.1, printed p.42 (PDF p.50), for conjunction. The witness explanation expands the source's shorthand while retaining its nine-step proof.",
+    "qualifications": [
+      "**Textbook clarification:** At step 2, $a$ must name a witness provided by the existential premise; it is not an arbitrary domain element. The universal premise in step 4 applies to that same witness, producing step 5. Steps 6–8 use modus ponens and conjunction, and step 9 asserts existence using the witness already obtained. See §3.6.1, printed pp.56–58 (textbook PDF pp.64–66), for the quantifier meanings; §3.6.4, printed p.59 (PDF p.67), for the common domain; §1.4.1, printed p.10 (PDF p.18), for modus ponens; and §3.1.1, printed p.42 (PDF p.50), for conjunction. The witness explanation expands the source's shorthand while retaining its nine-step proof."
+    ]
+  },
+  {
+    "pdf_page": 151,
+    "title": "Direct proof and parity definitions",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.5, “Proving an Implication,” printed pp. 11–12 (PDF pp. 19–20).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 152,
+    "title": "The square of an odd integer is odd",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.5, printed pp. 11–12, for the direct-proof pattern.",
+    "qualifications": [
+      "**Source correction:** the handwritten last factor appears as $2(2k+2)+1$. The preceding expansion $4k^2+4k+1$ requires $2(2k^2+2k)+1$; the corrected algebra is displayed above."
+    ]
+  },
+  {
+    "pdf_page": 153,
+    "title": "Product of two perfect squares",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.5, printed pp. 11–12, for direct proof from the definitions.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 154,
+    "title": "Proof by contraposition",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.5.2, “Method #2 – Prove the Contrapositive,” printed p. 13 (PDF p. 21).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 155,
+    "title": "Factor bounds and contradiction",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.8, “Proof by Contradiction,” printed pp. 16–17 (PDF pp. 24–25); the textbook proves irrationality of $\\sqrt2$ here.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 156,
+    "title": "Irrationality of the square root of two",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.8, printed pp. 16–17 (PDF pp. 24–25), gives the same contradiction argument.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 157,
+    "title": "Mathematical induction template",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** a base case at $1$ with a forward step establishes the statement for integers $n\\ge1$, not automatically for every integer. The corresponding induction principle is §5.1, printed pp. 115–116 (PDF pp. 123–124).",
+    "qualifications": [
+      "**Textbook clarification:** a base case at $1$ with a forward step establishes the statement for integers $n\\ge1$, not automatically for every integer. The corresponding induction principle is §5.1, printed pp. 115–116 (PDF pp. 123–124)."
+    ]
+  },
+  {
+    "pdf_page": 158,
+    "title": "Induction proof for the sum of the first integers",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §5.1.2, “A Familiar Example,” Theorem 5.1.1, printed p. 117 (PDF p. 125), gives the induction proof of this sum formula.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 159,
+    "title": "Further induction statements",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §5.1, printed pp. 115–123 (PDF pp. 123–131), for induction; §13.1.2, “The Perturbation Method,” printed pp. 505–506 (PDF pp. 513–514), for the geometric-series calculation.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 160,
+    "title": "A faulty induction about balls of one color",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** the step fails at $k=1$, because these two groups have no common ball. For larger $k$, the overlap would let one compare their colors, but the first inductive step is still missing. See §5.1.6, “A Faulty Induction Proof,” printed pp. 123–124 (PDF pp. 131–132), with the analogous example about horses.",
+    "qualifications": [
+      "**Textbook clarification:** the step fails at $k=1$, because these two groups have no common ball. For larger $k$, the overlap would let one compare their colors, but the first inductive step is still missing. See §5.1.6, “A Faulty Induction Proof,” printed pp. 123–124 (PDF pp. 131–132), with the analogous example about horses."
+    ]
+  },
+  {
+    "pdf_page": 161,
+    "title": "Informal comments about proof",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.9, “Good Proofs in Practice,” printed pp. 17–19 (PDF pp. 25–27), gives related guidance about what constitutes a proof. The three expressions above are source comments, not textbook methods.",
+    "qualifications": [
+      "- “Proof by insulting” — checked [the final method name is unclear in source; it may be a humorous expression rather than a formal method]."
+    ]
+  },
+  {
+    "pdf_page": 162,
+    "title": "Proof by cases and a Ramsey example",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** $R(3,3)=6$ means that every red/blue coloring of all edges of $K_6$ contains a triangle whose three edges have the same color, while an appropriate coloring of $K_5$ has none. The rightmost sketch only shows the perimeter of six vertices; the complete graph requires all pairwise edges. See §1.7, “Proof by Cases,” printed pp. 15–16 (PDF pp. 23–24).",
+    "qualifications": [
+      "**Textbook clarification:** $R(3,3)=6$ means that every red/blue coloring of all edges of $K_6$ contains a triangle whose three edges have the same color, while an appropriate coloring of $K_5$ has none. The rightmost sketch only shows the perimeter of six vertices; the complete graph requires all pairwise edges. See §1.7, “Proof by Cases,” printed pp. 15–16 (PDF pp. 23–24)."
+    ]
+  },
+  {
+    "pdf_page": 163,
+    "title": "Additional Ramsey numbers",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §1.7, printed pp. 15–16, supplies the smaller $R(3,3)$ proof-by-cases example. The numerical bounds on this page are lecture statements, not derived on the page.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 164,
+    "title": "Prime products and the induction schema",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** starting at $P(0)$ requires the successor implication also at $n=0$; excluding that first step leaves a gap. See §5.1, printed pp. 115–118. For prime-factorization existence, §5.2, printed pp. 124–126, uses strong induction.",
+    "qualifications": [
+      "**Textbook clarification:** starting at $P(0)$ requires the successor implication also at $n=0$; excluding that first step leaves a gap. See §5.1, printed pp. 115–118. For prime-factorization existence, §5.2, printed pp. 124–126, uses strong induction."
+    ]
+  },
+  {
+    "pdf_page": 165,
+    "title": "Strong induction and prime-factorization existence",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §5.2, “Strong Induction,” printed pp. 124–126 (PDF pp. 132–134), proves that every integer at least $2$ is a product of primes. Here “prime factorization” concerns existence; uniqueness has not been proved by this argument.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 166,
+    "title": "Ordinary versus strong induction",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §5.2, printed pp. 124–128, and §5.3, printed pp. 129–130, compare these principles and show their equivalence.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 167,
+    "title": "Weights of three and five kilograms",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** the natural full property is “$n+8=3a+5b$ for some nonnegative integers $a,b$.” The first three target weights are $8=3+5$, $9=3+3+3$, and $10=5+5$. The source writes the two latter calculations and supplies the index inequality needed for the general step. This is an application of the strong-induction method in §5.2, printed pp. 124–128; this precise 3 kg/5 kg example is lecture material.",
+    "qualifications": [
+      "**Textbook clarification:** the natural full property is “$n+8=3a+5b$ for some nonnegative integers $a,b$.” The first three target weights are $8=3+5$, $9=3+3+3$, and $10=5+5$. The source writes the two latter calculations and supplies the index inequality needed for the general step. This is an application of the strong-induction method in §5.2, printed pp. 124–128; this precise 3 kg/5 kg example is lecture material."
+    ]
+  },
+  {
+    "pdf_page": 168,
+    "title": "Completing the weight example",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §5.2, printed pp. 124–128, for applying the hypothesis to an earlier index rather than only to the immediately preceding one.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 169,
+    "title": "Prime factorization using well ordering",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** for this property the domain should be integers $n\\ge2$ (or include $1$ using the empty product); $0$ is not a product of primes. This domain restriction is essential to the counterexample argument. See §2.3, “Factoring into Primes,” printed p. 30 (PDF p. 38), for this well-ordering argument, and §5.2, printed pp. 124–126 (PDF pp. 132–134), for strong induction.",
+    "qualifications": [
+      "**Textbook clarification:** for this property the domain should be integers $n\\ge2$ (or include $1$ using the empty product); $0$ is not a product of primes. This domain restriction is essential to the counterexample argument. See §2.3, “Factoring into Primes,” printed p. 30 (PDF p. 38), for this well-ordering argument, and §5.2, printed pp. 124–126 (PDF pp. 132–134), for strong induction."
+    ]
+  },
+  {
+    "pdf_page": 170,
+    "title": "The smallest-counterexample argument",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** Ch. 2, printed pp. 27–29, for the smallest-counterexample proof template; §5.3, printed pp. 129–130, explains its connection to induction.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 171,
+    "title": "The well-ordering proof template",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §2.2, “Template for Well Ordering Proofs,” printed pp. 28–29 (PDF pp. 36–37).",
+    "qualifications": [
+      "The last handwritten line reads “$n<n_0$ — $P(n)$ is not true.” **Source correction:** minimality of the counterexample gives the reverse: $P(n)$ is true for every eligible $n<n_0$. The line $P(n_0)$ “true,” above it, is the contradiction the argument is meant to establish."
+    ]
+  },
+  {
+    "pdf_page": 172,
+    "title": "Strong-induction proof for three/five kilogram weights",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §5.2, printed pp. 124–128, for the strong-induction structure. The actual target values are quantities represented by the predicate, rather than truth values of $P$.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 173,
+    "title": "Which earlier case is needed?",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §5.2, printed pp. 124–128.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 174,
+    "title": "Well ordering for a sum and equivalence of induction methods",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** with a base case at $0$, use $Q(n)=\\bigwedge_{i=0}^{n}P(i)$; ordinary induction on $Q$ packages the strong-induction hypotheses. See §5.3, printed pp. 129–130 (PDF pp. 137–138). The sum proof by WOP is §2.2, printed pp. 28–29, and by induction is §5.1.2, printed p. 117.",
+    "qualifications": [
+      "**Textbook clarification:** with a base case at $0$, use $Q(n)=\\bigwedge_{i=0}^{n}P(i)$; ordinary induction on $Q$ packages the strong-induction hypotheses. See §5.3, printed pp. 129–130 (PDF pp. 137–138). The sum proof by WOP is §2.2, printed pp. 28–29, and by induction is §5.1.2, printed p. 117."
+    ]
+  },
+  {
+    "pdf_page": 175,
+    "title": "Recursive objects: bases and constructors",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §6.1, “Recursive Definitions and Structural Induction,” printed pp. 173–176 (PDF pp. 181–184); §6.2, “Strings of Matched Brackets,” printed pp. 177–179 (PDF pp. 185–187); §6.4, “Arithmetic Expressions,” printed pp. 183–188 (PDF pp. 191–196).",
+    "qualifications": [
+      "- A string of nested brackets [exact bracket sequence unclear in source].",
+      "The red annotations identify **base** cases and **constructors**, and show the recursive-function proof pattern $f(0)$, followed by a relation from $f(n)$ to $f(n+1)$. A small pair notation beside the bracket example is [unclear in source]."
+    ]
+  },
+  {
+    "pdf_page": 176,
+    "title": "Recursive definitions need valid base cases",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** the first needs a specified starting value and must use its step only when $n\\ge1$. The second calls larger arguments and does not reduce a positive input to the given base case, so it does not by itself uniquely define the intended function. See §6.3, “Recursive Functions on Nonnegative Integers,” printed pp. 180–182 (PDF pp. 188–190).",
+    "qualifications": [
+      "**Textbook clarification:** the first needs a specified starting value and must use its step only when $n\\ge1$. The second calls larger arguments and does not reduce a positive input to the given base case, so it does not by itself uniquely define the intended function. See §6.3, “Recursive Functions on Nonnegative Integers,” printed pp. 180–182 (PDF pp. 188–190)."
+    ]
+  },
+  {
+    "pdf_page": 177,
+    "title": "Overlapping cases and the Collatz recursion",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §6.3.2, “Ill-formed Function Definitions,” printed pp. 181–182 (PDF pp. 189–190), contains both the overlapping divisibility example and the Collatz recursion. The base condition has priority; the even/odd cases apply for $n>1$.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 178,
+    "title": "Ackermann function and very rapid growth",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §6.3.2, printed pp. 182–183 (PDF pp. 190–191), equations (6.6)–(6.7), gives exactly the displayed recurrence. Problem 6.17, printed pp. 199–200 (PDF pp. 207–208), asks for its well-definedness proof.",
+    "qualifications": [
+      "For $A(4,2)$, the source draws a tower of powers of $2$, subtracts $1$, writes an up-arrow expression that appears to be $2\\uparrow\\uparrow2-1$, and notes “approximately 20,000 digits.” [The exact tower height/arrow parameter is unclear in source.]"
+    ]
+  },
+  {
+    "pdf_page": 179,
+    "title": "Repeated operations",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §6.3, printed pp. 180–182, for defining numerical operations recursively. The operation hierarchy is lecture context.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 180,
+    "title": "Tetration, pentation, and Knuth arrows",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §6.3, printed pp. 180–182, gives related recursive-function background. Tetration, pentation, and Knuth arrows are lecture material and are not developed in that section.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 181,
+    "title": "Recursive data type of strings",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §6.1, printed pp. 173–174 (PDF pp. 181–182), defines strings using this base and constructor.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 182,
+    "title": "String length and structural induction",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §6.1, Definition 6.1.2, printed p. 174 (PDF p. 182), defines string length; §6.1.1, “Structural Induction,” printed pp. 175–176 (PDF pp. 183–184), gives the proof method.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 183,
+    "title": "Formal structural-induction principle",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §6.1.1, “Structural Induction,” printed pp. 175–176 (PDF pp. 183–184).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 184,
+    "title": "Length of concatenated strings",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §6.1.1, Theorem 6.1.4, printed pp. 175–176 (PDF pp. 183–184), includes this structural-induction argument.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 185,
+    "title": "Arithmetic expressions as a recursive data type",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §6.4, “Arithmetic Expressions,” Definition 6.4.1, printed pp. 183–184 (PDF pp. 191–192), defines the Aexp data type.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 186,
+    "title": "Hyperoperations and Graham's number",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §6.3, printed pp. 180–183, provides recursive-function context; the hyperoperation sequence and Graham's number on this page are additional lecture material.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 187,
+    "title": "TREE and comparisons of very large numbers",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §6.3.2, printed pp. 182–183, discusses Ackermann growth. TREE and the displayed size comparisons are lecture context, not definitions or proofs supplied by this textbook section.",
+    "qualifications": [
+      "[the exponent/iteration notation and the complete argument are unclear in source].",
+      "A two-way vertical arrow links $\\mathrm{TREE}(3)$ to the general notation $\\mathrm{TREE}(n)$. The lower-right fragment “R & B” is retained [meaning unclear in source]."
+    ]
+  },
+  {
+    "pdf_page": 188,
+    "title": "Evaluation, substitution, and equivalent models",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** the product and negation cases follow by the same respective evaluation/substitution rules, replacing the final addition by multiplication or unary negation. See §6.4.1, “Evaluation and Substitution with Aexp's,” Definitions 6.4.2–6.4.3 and Theorem 6.4.4, printed pp. 184–188 (PDF pp. 192–196). The general identity and its proof are on printed pp. 187–188 (PDF pp. 195–196). The textbook writes $\\operatorname{subst}(f,e)$, with the **same argument order** as this page's $\\operatorname{subs}(f,e)$.",
+    "qualifications": [
+      "**Textbook clarification:** the product and negation cases follow by the same respective evaluation/substitution rules, replacing the final addition by multiplication or unary negation. See §6.4.1, “Evaluation and Substitution with Aexp's,” Definitions 6.4.2–6.4.3 and Theorem 6.4.4, printed pp. 184–188 (PDF pp. 192–196). The general identity and its proof are on printed pp. 187–188 (PDF pp. 195–196). The textbook writes $\\operatorname{subst}(f,e)$, with the **same argument order** as this page's $\\operatorname{subs}(f,e)$."
+    ]
+  },
+  {
+    "pdf_page": 189,
+    "title": "Relations viewed as arrows",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.4, “Binary Relations,” starts at printed p. 89 (PDF p. 97); §4.4.1, “Relation Diagrams,” printed pp. 90–91 (PDF pp. 98–99), gives the arrow representation and Definition 4.4.2 of the relation properties.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 190,
+    "title": "A relation diagram and function properties",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §4.4.1, “Relation Diagrams,” and Definition 4.4.2, printed pp. 90–91 (PDF pp. 98–99), for the arrows and function properties. §4.5 is “Finite Cardinality,” beginning at printed p. 93 (PDF p. 101).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 191,
+    "title": "Arrow definitions of relation properties",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** Definition 4.4.2 requires a bijection to have **both exactly one outgoing arrow at every domain point and exactly one incoming arrow at every codomain point**. The handwritten final line should therefore also include the function and total requirements. See §4.4.1, “Relation Diagrams,” printed pp. 90–91 (PDF pp. 98–99).",
+    "qualifications": [
+      "**Textbook clarification:** Definition 4.4.2 requires a bijection to have **both exactly one outgoing arrow at every domain point and exactly one incoming arrow at every codomain point**. The handwritten final line should therefore also include the function and total requirements. See §4.4.1, “Relation Diagrams,” printed pp. 90–91 (PDF pp. 98–99)."
+    ]
+  },
+  {
+    "pdf_page": 192,
+    "title": "Counting arrows in a surjective function",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** this numerical arrow-count argument is for **finite sets**. The notation $A\\mathrel{\\mathrm{surj}}B$ means that some surjective function from $A$ to $B$ exists, rather than that every relation from $A$ to $B$ is surjective. See §4.5, printed pp. 93–94 (PDF pp. 101–102), Definition 4.5.2 and Lemma 4.5.3.",
+    "qualifications": [
+      "**Textbook clarification:** this numerical arrow-count argument is for **finite sets**. The notation $A\\mathrel{\\mathrm{surj}}B$ means that some surjective function from $A$ to $B$ exists, rather than that every relation from $A$ to $B$ is surjective. See §4.5, printed pp. 93–94 (PDF pp. 101–102), Definition 4.5.2 and Lemma 4.5.3."
+    ]
+  },
+  {
+    "pdf_page": 193,
+    "title": "Surj, inj, and bij notation",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** Definition 4.5.2, §4.5, printed p. 94 (PDF p. 102). The textbook explicitly uses a total injective **relation** in the definition of $\\mathrm{inj}$; it need not satisfy the function property as part of that definition.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 194,
+    "title": "Mapping rules for finite sets",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** Theorem 4.5.4, “Mapping Rules,” printed p. 95 (PDF p. 103). The preceding construction and Lemma 4.5.3 appear on printed pp. 93–94 (PDF pp. 101–102).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 195,
+    "title": "Equal size of infinite sets and pairing functions",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §7.1, “Infinite Cardinality,” begins at printed p. 206 (PDF p. 214). It defines size comparison through mappings and discusses countable sets and diagonal enumeration. The source's mention of a named Cantor pairing function does not supply its explicit algebraic formula; none has been inserted here.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 196,
+    "title": "Ice-cream selections encoded by bits",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §14.1 uses the analogous selection of flavoured donuts and its bit-sequence bijection, printed pp. 551–552 (PDF pp. 559–560). Corollaries 14.5.2–14.5.3, printed p. 563 (PDF p. 571), give the resulting count. Choosing the separator positions or the zero positions yields equal binomial coefficients.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 197,
+    "title": "Mediant fractions and strictly smaller sets",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** Definition 7.1.1 and Corollary 7.1.2, §7.1, printed p. 206 (PDF p. 214), match the definition and proof. The Stern–Brocot tree is not covered by this textbook passage; the notes give only its endpoint fractions and mediant construction here.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 198,
+    "title": "Unordered flavour counts and ordered choices",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** $5^{12}=244{,}140{,}625$ counts **ordered** sequences of twelve flavour choices, whereas $1820$ counts flavour multiplicities with order disregarded. These are different objects, which explains the different counts. See §14.2.1, “The Product Rule,” printed pp. 552–553 (PDF pp. 560–561), and §14.5.2, printed p. 563 (PDF p. 571).",
+    "qualifications": [
+      "**Textbook clarification:** $5^{12}=244{,}140{,}625$ counts **ordered** sequences of twelve flavour choices, whereas $1820$ counts flavour multiplicities with order disregarded. These are different objects, which explains the different counts. See §14.2.1, “The Product Rule,” printed pp. 552–553 (PDF pp. 560–561), and §14.5.2, printed p. 563 (PDF p. 571)."
+    ]
+  },
+  {
+    "pdf_page": 199,
+    "title": "Two ice creams from two flavours",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** the unordered outcomes are exactly $(2,0),(1,1),(0,2)$, so the general formula $\\binom{n+k-1}{k-1}$ with $n=k=2$ gives $\\binom31=3$. The grouping is not uniformly two-to-one: $AA$ and $BB$ each represent one ordered sequence, whereas the mixed outcome represents two. See §14.1 and Corollary 14.5.3, printed pp. 551–552 and 563 (PDF pp. 559–560 and 571).",
+    "qualifications": [
+      "The lower-right sketch has three groups of short parallel strokes, separated by vertical bars, with a second row of circled and crossed-out letters underneath. Some arrows point up from rewritten letters to these groups. The exact overwritten letter labels and the final small expression are **[unclear in source]**; no additional numerical conclusion is legible there.",
+      "**Textbook clarification:** the unordered outcomes are exactly $(2,0),(1,1),(0,2)$, so the general formula $\\binom{n+k-1}{k-1}$ with $n=k=2$ gives $\\binom31=3$. The grouping is not uniformly two-to-one: $AA$ and $BB$ each represent one ordered sequence, whereas the mixed outcome represents two. See §14.1 and Corollary 14.5.3, printed pp. 551–552 and 563 (PDF pp. 559–560 and 571)."
+    ]
+  },
+  {
+    "pdf_page": 200,
+    "title": "Counting rules, grid paths, and the pigeonhole principle",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** the two upper hair bounds on this page disagree, and the initial “$<10{,}000$” does not agree with the later minimum of $10{,}000$. The later inclusive range actually has $160{,}000-10{,}000+1=150{,}001$ values; the inequality $15{,}000{,}000>99\\cdot150{,}001$ still holds. The conclusion of 100 people follows **if all people counted in $A$ have hair counts in that later range**. The source does not justify that population assumption. The textbook's related example uses non-bald people in Boston and different numerical bounds; see §14.8.1, printed p. 574 (PDF p. 582).",
+    "qualifications": [
+      "**Textbook clarification:** the explicit formulas for these displayed counts are",
+      "**Textbook clarification:** the two upper hair bounds on this page disagree, and the initial “$<10{,}000$” does not agree with the later minimum of $10{,}000$. The later inclusive range actually has $160{,}000-10{,}000+1=150{,}001$ values; the inequality $15{,}000{,}000>99\\cdot150{,}001$ still holds. The conclusion of 100 people follows **if all people counted in $A$ have hair counts in that later range**. The source does not justify that population assumption. The textbook's related example uses non-bald people in Boston and different numerical bounds; see §14.8.1, printed p. 574 (PDF p. 582)."
+    ]
+  },
+  {
+    "pdf_page": 201,
+    "title": "Subsets with the same sum",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §14.8.2, “Subsets with the Same Sum,” printed pp. 574–575 (PDF pp. 582–583), gives exactly this 90-number argument. It uses the safe codomain $B=\\{0,1,\\ldots,90\\cdot10^{25}\\}$; the sum of every subset lies there. The source does not list the actual 25-digit numbers on this page. Its NP-hard label is a separate complexity remark, rather than a proof that finding the particular colliding subsets is NP-hard.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 202,
+    "title": "Inclusion–exclusion and combinatorial identities",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-references:** §14.9, “Inclusion–Exclusion,” printed pp. 581–586 (PDF pp. 589–594), for the counting principle and element-count proof; §14.10, “Combinatorial Proofs,” printed pp. 587–591 (PDF pp. 595–599), for binomial identities and their combinatorial interpretation. The examples above follow the handwritten page; §14.9.3 also uses the digit blocks $42,04,60$.",
+    "qualifications": [
+      "**Textbook clarification:** this expression equals $278$. The counts labelled by a pair have been interpreted as **exactly** that pair, as required by the source's subsequent addition of the triple intersection.",
+      "**Textbook clarification:** the $04$ and $42$ requirements merge into $042$, and all three requirements merge into $6042$. These mergers explain the remaining $8!$ and $7!$ counts. Inclusion–exclusion therefore gives",
+      "The labels underneath give $n$ apples and $2n$ oranges. **Textbook clarification:** choosing $n$ objects from the combined $3n$ objects can be counted by fixing $k$ apples and $n-k$ oranges, then summing over $k$."
+    ]
+  },
+  {
+    "pdf_page": 203,
+    "title": "Geometric sums and integral bounds",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook clarification:** the four substitutions correspond to sums $0,1,5,14$ and determine these coefficients. Guessing and fitting the polynomial discovers the formula; a separate proof, for example induction, establishes it for every $n$. See §13.2, printed pp. 510–512 (PDF pp. 518–520).",
+    "qualifications": [
+      "**Textbook clarification:** the finite formula assumes $x\\ne1$; at $x=1$, $S=n+1$. The infinite series converges to $1/(1-x)$ for $|x|<1$, a restriction absent from the handwritten arrow.",
+      "**Textbook clarification:** the middle handwritten equality omits the factor $x$ before the derivative of the fraction. The factor is required and is included explicitly above; the source's final numerator agrees with this corrected differentiation.",
+      "**Textbook clarification:** the four substitutions correspond to sums $0,1,5,14$ and determine these coefficients. Guessing and fitting the polynomial discovers the formula; a separate proof, for example induction, establishes it for every $n$. See §13.2, printed pp. 510–512 (PDF pp. 518–520).",
+      "The floor/ceiling orientation of the two red bracketed examples is **[unclear in source]**. Either corresponding rounding operation preserves the indicated weak monotonicity. Also, the example $\\log x$ is increasing on $x>0$, but takes negative values on $0<x<1$; the stated positive codomain needs adjustment or a restricted domain for that example."
+    ]
+  },
+  {
+    "pdf_page": 204,
+    "title": "Products, Stirling's formula, and double sums",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** §13.5, “Products,” and Theorem 13.5.1, printed pp. 522–524 (PDF pp. 530–532), for product logarithms, factorial bounds, and Stirling's formula; §13.6, “Double Trouble,” printed pp. 525–527 (PDF pp. 533–535), for changing the summation order and summing harmonic numbers. The initial approximation gives the leading asymptotic order, while the final identity is exact.",
+    "qualifications": [
+      "**Textbook clarification:** with this bounded correction term, Theorem 13.5.1 states an **equality**",
+      "**Textbook clarification:** as a numerical infinite sum, it is justified when $|y|<1$ and $|xy|<1$. Reordering gives"
+    ]
+  },
+  {
+    "pdf_page": 205,
+    "title": "Floor, ceiling, and integer comparisons",
+    "part": "Part_03_pages_151-205.md",
+    "textbook_reference": "**Textbook cross-reference:** Corollary 2.4.3, §2.4, printed p. 32 (PDF p. 40), describes floor as rounding down to the nearest integer. The identities here are direct consequences of the interval characterizations (a) and (c); the textbook does not give this complete eight-item list as a separate theorem.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 206,
+    "title": "Fractional parts, nested floors/ceilings and modulo",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** §8.7, *Remainder Arithmetic*, printed p. 265 (PDF p. 273), is related to integer remainders. The real-number floor/ceiling identities on this page are course-specific; no matching standalone textbook section was located.",
+    "qualifications": [
+      "**Source qualification:** the displayed condition alone does not justify these identities for an arbitrary function. Additional hypotheses are needed; they are not stated clearly on this page. The specific square-root and integer-division identities below are well-defined with the indicated domains.",
+      "followed by unfinished exercises $5\\bmod(-3)$, $(-5)\\bmod3$, and $(-5)\\bmod(-3)$. They remain exercises here."
+    ]
+  },
+  {
+    "pdf_page": 207,
+    "title": "Modulo signs and Iverson brackets",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** §8.7, printed p. 265 (PDF p. 273), for integer remainder arithmetic; §13.6, *Double Trouble*, printed p. 525 (PDF p. 533), for changing and regrouping summations. Iverson-bracket notation itself is supplied by the lecture notes.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 208,
+    "title": "The sum of floors of square roots",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** §13.3, *Approximating Sums*, printed p. 512 (PDF p. 520), and §13.6, printed p. 525 (PDF p. 533), give the related bounding and summation methods. This exact Iverson-bracket example is from the lecture.",
+    "qualifications": [
+      "**Source qualification:** the intervening handwritten lower-bound line appears to read $\\frac23a^3+\\frac32a^2+\\frac56a$, with an endpoint written as $n$ and $a=\\sqrt n$. Those labels are inconsistent with the stated endpoint. That polynomial is the completed-block sum through $k=(a+1)^2-1$, not through $k=a^2$. The checked $I+II$ expression above follows the page's derivation; use its explicit endpoint. For the inclusive sum, replace $n$ by $n+1$ in $F$."
+    ]
+  },
+  {
+    "pdf_page": 209,
+    "title": "Josephus, Hanoi and merge-sort recurrences",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** Ch. 21, especially §21.1, *The Towers of Hanoi*, printed p. 867 (PDF p. 875), and §21.2, *Merge Sort*, printed p. 870 (PDF p. 878). Josephus is a lecture-specific example.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 210,
+    "title": "Finishing the merge-sort solution",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** §21.2, printed pp. 870–873 (PDF pp. 878–881).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 211,
+    "title": "Homogeneous linear recurrences and characteristic roots",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** §21.3, *Linear Recurrences*, printed pp. 874–880 (PDF pp. 882–888).",
+    "qualifications": [
+      "**Textbook clarification / source correction:** for the written initial values $f(0)=f(1)=1$, the resulting constants are $s=\\phi/\\sqrt5$ and $t=-\\psi/\\sqrt5$, giving",
+      "The page mentions Binet's formula and the dominance of the $\\phi$ term for large $n$. Its numerical illustration uses $\\phi^{20}/\\sqrt5\\approx6765.00003$, rounded to 6765. The adjacent handwritten sequence index is [unclear in source]. **Textbook clarification:** printed p. 877 identifies this value as $f(19)$ for the written initial conditions, with $f(n)=\\phi^{n+1}/\\sqrt5+o(1)$."
+    ]
+  },
+  {
+    "pdf_page": 212,
+    "title": "Nonhomogeneous recurrences and particular solutions",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** §21.3.3, *Solving General Linear Recurrences*, printed pp. 879–881 (PDF pp. 887–889).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 213,
+    "title": "Particular-solution guesses and the Akra–Bazzi formula",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** §21.3.4, printed p. 881 (PDF p. 889), for particular-solution guesses; §21.4.1, printed pp. 883–884 (PDF pp. 891–892), for Akra–Bazzi.",
+    "qualifications": [
+      "**Textbook clarification:** the handwritten $|g'(n)|<\\infty$ is abbreviated. The textbook's stated requirement is that $|g'(n)|$ be bounded by a polynomial; mere finiteness at each point is insufficient. The page explicitly contrasts suitable polynomial work with an unsuitable $2^n$ forcing term for this version of the theorem."
+    ]
+  },
+  {
+    "pdf_page": 214,
+    "title": "Floor/ceiling perturbations, Master theorem and recurrence growth",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** §21.4.2–21.4.3, within printed pp. 884–887 (PDF pp. 892–895), and §21.5, *A Feel for Recurrences*, printed p. 888 (PDF p. 896).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 215,
+    "title": "Generating functions, constrained choices and convolution",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** §15.1–15.2, printed pp. 627–634 (PDF pp. 635–642).",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 216,
+    "title": "Product rule, the ice-cream calculation and rational generating functions",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** §15.2, printed pp. 629–634 (PDF pp. 637–642), and §15.3, *Partial Fractions*, printed p. 635 (PDF p. 643).",
+    "qualifications": [
+      "A nearby derivative notation is [unclear in source]; the coefficient identity itself is clear."
+    ]
+  },
+  {
+    "pdf_page": 217,
+    "title": "Partial fractions, repeated roots and the binomial theorem",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** §15.3, printed pp. 635–638 (PDF pp. 643–646); the binomial/counting interpretation is also related to Ch. 14.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 218,
+    "title": "Recurrences through generating functions and formal factorial series",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** §15.4, *Solving Linear Recurrences*, printed pp. 638–643 (PDF pp. 646–651); §15.5, *Formal Power Series*, printed pp. 643–646 (PDF pp. 651–654); §21.1 for Hanoi.",
+    "qualifications": [
+      "The notes mention 64 disks, approximately $2^{64}$ seconds at one move per second, and more than 500 billion years. The isolated number “1941” is also written near the sketch; its context is [unclear in source]."
+    ]
+  },
+  {
+    "pdf_page": 219,
+    "title": "Graph definitions, degrees, standard graphs and isomorphism",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** §11.1–11.4, printed pp. 393–401 (PDF pp. 401–409); directed graphs also appear in Ch. 9.",
+    "qualifications": []
+  },
+  {
+    "pdf_page": 220,
+    "title": "Other textbook recommendations and assessment notes",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "",
+    "qualifications": [
+      "The lower half contains “40% — 10% + 50%”, the numbers “35” and “55”, and a further “40 50” annotation. **Source qualification:** their association with particular assessment components is not specified clearly enough to reconstruct a grading scheme. These are transcribed as written, not treated as an authoritative current marks distribution."
+    ]
+  },
+  {
+    "pdf_page": 221,
+    "title": "Graph coloring and the maximum-degree bound",
+    "part": "Part_04_pages_206-221.md",
+    "textbook_reference": "**Textbook cross-reference:** §11.5, *Bipartite Graphs & Matchings*, printed p. 401 (PDF p. 409); §11.7, *Coloring*, printed pp. 413–417 (PDF pp. 421–425). SAT is related to §3.5, printed p. 55 (PDF p. 63).",
+    "qualifications": [
+      "The page mentions SAT, “NP-complete,” and graph-coloring applications. **Textbook clarification:** fixed-$k$ colorability is NP-complete for $k\\ge3$; 2-colorability is efficiently decidable. The word “NP-complete” should not be applied to all $k$ indiscriminately."
+    ]
+  }
+]
